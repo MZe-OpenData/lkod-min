@@ -1,0 +1,60 @@
+{
+  "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
+  "iri": "https://data.gov.cz/zdroj/datové-sady/00020478/689082312",
+  "typ": "Datová sada",
+  "název": {
+    "cs": "Dílčí a mezinárodní povodí na území České republiky",
+    "en": "Partial and international river basins in the Czech Republic"
+  },
+  "popis": {
+    "cs": "Soubor ve formátu shp obsahuje plochy dílčích a mezinárodních povodí na území ČR",
+    "en": "The file in shp format contains areas of partial and international river basins in the Czech Republic \n"
+  },
+  "prvek_rúian": [
+    "https://linked.cuzk.cz/resource/ruian/stat/1"
+  ],
+  "geografické_území": [],
+  "prostorové_pokrytí": [],
+  "klíčové_slovo": {
+    "cs": [
+      "vodní hospodářství",
+      "povodí",
+      "ministerstvo zemědělství"
+    ],
+    "en": [
+      "water management",
+      "river basin",
+      "ministry of agriculture"
+    ]
+  },
+  "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/TRIENNIAL",
+  "téma": [
+    "http://publications.europa.eu/resource/authority/data-theme/ENVI"
+  ],
+  "koncept_euroVoc": [],
+  "kontaktní_bod": {
+    "typ": "Organizace",
+    "jméno": {
+      "cs": "Ondřej Šilháček"
+    },
+    "e-mail": "mailto:ondrej.silhacek@mze.cz"
+  },
+  "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/00020478",
+  "distribuce": [
+    {
+      "typ": "Distribuce",
+      "iri": "https://data.gov.cz/zdroj/datové-sady/00020478/689082312/distribuce/0",
+      "podmínky_užití": {
+        "typ": "Specifikace podmínek užití",
+        "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
+        "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
+        "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
+        "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
+      },
+      "soubor_ke_stažení": "https://eagri.cz/public/app/vodev/oblasti_povodi/download/Mezinarodni_a_dilci_povodi_CR.zip",
+      "přístupové_url": "https://eagri.cz/public/app/vodev/oblasti_povodi/download/Mezinarodni_a_dilci_povodi_CR.zip",
+      "typ_média": "http://www.iana.org/assignments/media-types/application/zip",
+      "formát": "http://publications.europa.eu/resource/authority/file-type/ZIP"
+    }
+  ]
+}
