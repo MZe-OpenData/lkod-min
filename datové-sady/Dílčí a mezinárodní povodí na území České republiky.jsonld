@@ -28,6 +28,7 @@
     ]
   },
   "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/TRIENNIAL",
+  "dokumentace": "https://voda.gov.cz/portal/cz/",
   "téma": [
     "http://publications.europa.eu/resource/authority/data-theme/ENVI"
   ],
