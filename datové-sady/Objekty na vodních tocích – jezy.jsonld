@@ -1,0 +1,64 @@
+{
+  "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
+  "iri": "https://data.gov.cz/zdroj/datové-sady/00020478/689082316",
+  "typ": "Datová sada",
+  "název": {
+    "cs": "Objekty na vodních tocích – jezy",
+    "en": "Objects on watercourses - weirs"
+  },
+  "popis": {
+    "cs": "Soubor ve formátu shp obsahuje příčné překážky – jezy, vyšší než 1 m hodnocené v plánech povodí podle § 24 vodního zákona v rozsahu údajů o jejich typu, číselném identifikátoru a územní identifikaci. Evidence je aktualizována průběžně, datový soubor pouze jednou ročně. Aktuální data lze prohlížet na vodohospodářském informačním portálu VODA – www.voda.gov.cz.",
+    "en": "The file in the shp format contains transverse obstacles - weirs, higher than 1 m evaluated in the river basin plans according to § 24 of the Water Act in the extent of data about their type, numerical identifier and territorial identification. The records are updated continuously, the data file only once a year. Current data can be viewed on the water management information portal VODA - www.voda.gov.cz. "
+  },
+  "prvek_rúian": [
+    "https://linked.cuzk.cz/resource/ruian/stat/1"
+  ],
+  "geografické_území": [],
+  "prostorové_pokrytí": [],
+  "klíčové_slovo": {
+    "cs": [
+      "příčné překážky",
+      "objekty na vodních tocích",
+      "vodní hospodářství",
+      "ministerstvo zemědělství"
+    ],
+    "en": [
+      "transverse obstacles ",
+      "objects on watercourses",
+      "water management",
+      "ministry of agriculture"
+    ]
+  },
+  "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/ANNUAL",
+  "dokumentace": "https://voda.gov.cz/portal/cz/",
+  "téma": [
+    "http://publications.europa.eu/resource/authority/data-theme/ENVI",
+    "http://publications.europa.eu/resource/authority/data-theme/AGRI"
+  ],
+  "koncept_euroVoc": [],
+  "kontaktní_bod": {
+    "typ": "Organizace",
+    "jméno": {
+      "cs": "Ondřej Šilháček"
+    },
+    "e-mail": "mailto:ondrej.silhacek@mze.cz"
+  },
+  "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/00020478",
+  "distribuce": [
+    {
+      "typ": "Distribuce",
+      "iri": "https://data.gov.cz/zdroj/datové-sady/00020478/689082316/distribuce/0",
+      "podmínky_užití": {
+        "typ": "Specifikace podmínek užití",
+        "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
+        "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
+        "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
+        "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
+      },
+      "soubor_ke_stažení": "https://eagri.cz/public/app/vodev/vod_obj/download/Jezy.zip",
+      "přístupové_url": "https://eagri.cz/public/app/vodev/vod_obj/download/Jezy.zip",
+      "typ_média": "http://www.iana.org/assignments/media-types/application/zip",
+      "formát": "http://publications.europa.eu/resource/authority/file-type/ZIP"
+    }
+  ]
+}
