@@ -1,6 +1,6 @@
 {
   "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
-  "iri": "https://data.gov.cz/zdroj/datové-sady/00020478/689082316",
+  "iri": "https://raw.githubusercontent.com/ondrejsilhacek/lkod-min/main/datové-sady/Objekty%20na%20vodních%20tocích%20–%20hráze.jsonld",
   "typ": "Datová sada",
   "název": {
     "cs": "Objekty na vodních tocích – hráze",
