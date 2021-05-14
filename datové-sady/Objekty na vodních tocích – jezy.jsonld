@@ -39,9 +39,9 @@
   "kontaktní_bod": {
     "typ": "Organizace",
     "jméno": {
-      "cs": "Ondřej Šilháček"
+      "cs": "Ministerstvo zemědělství"
     },
-    "e-mail": "mailto:ondrej.silhacek@mze.cz"
+    "e-mail": "mailto:helpdesk@mze.cz"
   },
   "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/00020478",
   "distribuce": [
