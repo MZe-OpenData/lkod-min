@@ -1,6 +1,6 @@
 {
   "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
-  "iri": "https://data.gov.cz/zdroj/datové-sady/00020478/689082311",
+  "iri": "https://raw.githubusercontent.com/ondrejsilhacek/lkod-min/main/datové-sady/Vodní%20nádrže%20ve%20správě%20s.%20p.%20Povodí%20a%20s.%20p.%20Lesy%20ČR%20v%20územní%20působnosti%20s.%20p.%20Povodí%20Moravy.jsonld",
   "typ": "Datová sada",
   "název": {
     "cs": "Vodní nádrže ve správě s. p. Povodí a s. p. Lesy ČR v územní působnosti s. p. Povodí Moravy",
