@@ -8,7 +8,7 @@
   },
   "popis": {
     "cs": "Soubor ve formátu shp obsahuje body reprezentující vodní nádrže, jejichž povolený objem vzduté nebo akumulované vody přesahuje 1 000 000 m3 nebo ke kterým mají právo hospodaření Lesy ČR, s. p. nebo správci povodí, v územní působnosti státního podniku Povodí Labe. Evidence je aktualizována průběžně, datový soubor pouze jednou ročně. Aktuální data lze prohlížet na vodohospodářském informačním portálu VODA – www.voda.gov.cz.",
-    "en": "The file in the shp format contains the body of a representative water reservoir, the allowed volume of swell or accumulated water exceeds 1,000,000 m3 or to which Lesy ČR s. e. or river basin managers have the right to manage, in the territorial jurisdiction of the state enterprise Povodí Labe. The evidence is updated continuously, the data file only once a year. Current data can be viewed on the water management information portal VODA - www.voda.gov.cz."
+    "en": "The file in the shp format contains the body of a representative water reservoir, the allowed volume of swell or accumulated water exceeds 1,000,000 m3 or to which Forests of the Czech republic s. e. or river basin managers have the right to manage, in the territorial jurisdiction of the state enterprise Elbe River Basin. The evidence is updated continuously, the data file only once a year. Current data can be viewed on the water management information portal VODA - www.voda.gov.cz."
   },
   "prvek_rúian": [
     "https://linked.cuzk.cz/resource/ruian/stat/1"
