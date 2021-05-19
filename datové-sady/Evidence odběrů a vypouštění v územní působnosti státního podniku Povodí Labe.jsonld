@@ -54,8 +54,9 @@
       },
       "soubor_ke_stažení": "https://eagri.cz/public/app/vodev/odbery_vypousteni/download/oav_pla.zip",
       "přístupové_url": "https://eagri.cz/public/app/vodev/odbery_vypousteni/download/oav_pla.zip",
-      "typ_média": "http://www.iana.org/assignments/media-types/application/zip",
-      "formát": "http://publications.europa.eu/resource/authority/file-type/ZIP"
+      "typ_média": "http://www.iana.org/assignments/media-types/application/xml",
+      "formát": "http://publications.europa.eu/resource/authority/file-type/XML",
+      "typ_média_komprese": "http://www.iana.org/assignments/media-types/application/zip"
     }
   ]
 }
