@@ -54,8 +54,9 @@
       },
       "soubor_ke_stažení": "https://eagri.cz/public/app/vodev/oblasti_povodi/download/Mezinarodni_a_dilci_povodi_CR.zip",
       "přístupové_url": "https://eagri.cz/public/app/vodev/oblasti_povodi/download/Mezinarodni_a_dilci_povodi_CR.zip",
-      "typ_média": "http://www.iana.org/assignments/media-types/application/zip",
-      "formát": "http://publications.europa.eu/resource/authority/file-type/ZIP"
+      "typ_média": "http://www.iana.org/assignments/media-types/application/vnd.shp",
+      "formát": "http://publications.europa.eu/resource/authority/file-type/SHP",
+      "typ_média_komprese": "http://www.iana.org/assignments/media-types/application/zip"
     }
   ]
 }
