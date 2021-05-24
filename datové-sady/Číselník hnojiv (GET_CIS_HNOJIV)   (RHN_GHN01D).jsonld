@@ -1,0 +1,79 @@
+{
+  "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
+  "iri": "https://data.gov.cz/zdroj/datové-sady/00020478/908445605/ed6a20750c4e4c3ccce93472a25f91c0",
+  "typ": "Datová sada",
+  "název": {
+    "cs": "Číselník hnojiv (GET_CIS_HNOJIV) / (RHN_GHN01D)",
+    "en": "The code list of fertilizers (GET_CIS_HNOJIV) / (RHN_GHN01D)"
+  },
+  "popis": {
+    "cs": "Služba poskytuje údaje aktuální údaje Registru hnojiv. Služba nevrací hnojiva určená pro malospotřebitele.",
+    "en": "The service provides data current data of the Register of Fertilizers. The service does not return fertilizers intended for small consumers. "
+  },
+  "prvek_rúian": [
+    "https://linked.cuzk.cz/resource/ruian/stat/1"
+  ],
+  "geografické_území": [],
+  "prostorové_pokrytí": [],
+  "klíčové_slovo": {
+    "cs": [
+      "webová služba",
+      "UKZUZ",
+      "bez autorizace",
+      "datová služba",
+      "ciselnik hnojiv",
+      "MZE"
+    ],
+    "en": [
+      "without authorization",
+      "UKZUZ",
+      "code list of fertilizers",
+      "MZE",
+      "data service",
+      "web service"
+    ]
+  },
+  "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/UPDATE_CONT",
+  "dokumentace": "https://eagri.cz/public/web/mze/farmar/elektronicka-vymena-dat/prehled-vystavenych-sluzeb/RHN_rhn-ghn01d.html",
+  "téma": [
+    "http://publications.europa.eu/resource/authority/data-theme/AGRI"
+  ],
+  "koncept_euroVoc": [],
+  "kontaktní_bod": {
+    "typ": "Organizace",
+    "jméno": {
+      "cs": "Ministerstvo zemědělství"
+    },
+    "e-mail": "mailto:helpdesk@mze.cz"
+  },
+  "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/00020478",
+  "distribuce": [
+    {
+      "typ": "Distribuce",
+      "iri": "https://data.gov.cz/zdroj/datové-sady/00020478/908445605/ed6a20750c4e4c3ccce93472a25f91c0/distribuce/0",
+      "název": {
+        "cs": "Číselník hnojiv (GET_CIS_HNOJIV) / (RHN_GHN01D)",
+        "en": "The code list of fertilizers (GET_CIS_HNOJIV) / (RHN_GHN01D)"
+      },
+      "podmínky_užití": {
+        "typ": "Specifikace podmínek užití",
+        "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
+        "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
+        "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
+        "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
+      },
+      "přístupové_url": "https://eagri.cz/ssl/nosso-app/EPO/WS/v2Online/vOKOsrv.ashx",
+      "přístupová_služba": {
+        "typ": "Datová služba",
+        "přístupový_bod": "https://eagri.cz/ssl/nosso-app/EPO/WS/v2Online/vOKOsrv.ashx",
+        "popis_přístupového_bodu": "https://eagri.cz/ssl/nosso-app/EPO/WS/Online/vOKOsrv.aspx?SERVICEID=RHN_GHN01C",
+        "iri": "https://data.gov.cz/zdroj/datové-sady/00020478/908445605/ed6a20750c4e4c3ccce93472a25f91c0/distribuce/0/přístupová-služba",
+        "název": {
+          "cs": "Číselník hnojiv (GET_CIS_HNOJIV) / (RHN_GHN01D)",
+          "en": "The code list of fertilizers (GET_CIS_HNOJIV) / (RHN_GHN01D)"
+        },
+        "poskytuje_datovou_sadu": "https://data.gov.cz/zdroj/datové-sady/00020478/908445605/ed6a20750c4e4c3ccce93472a25f91c0"
+      }
+    }
+  ]
+}
