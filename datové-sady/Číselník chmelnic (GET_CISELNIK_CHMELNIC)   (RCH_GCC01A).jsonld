@@ -1,6 +1,6 @@
 {
   "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
-  "iri": "https://raw.githubusercontent.com/ondrejsilhacek/lkod-min/main/datové-sady.jsonld",
+  "iri": "https://raw.githubusercontent.com/ondrejsilhacek/lkod-min/main/datové-sady/Číselník%20chmelnic%20(GET_CISELNIK_CHMELNIC)%20%20%20(RCH_GCC01A).jsonld",
   "typ": "Datová sada",
   "název": {
     "cs": "Číselník chmelnic (GET_CISELNIK_CHMELNIC) / (RCH_GCC01A)",
