@@ -1,6 +1,6 @@
 {
   "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
-  "iri": "https://raw.githubusercontent.com/ondrejsilhacek/lkod-min/main/datové-sady.jsonld",
+  "iri": "https://raw.githubusercontent.com/ondrejsilhacek/lkod-min/main/datové-sady/Číselník%20hnojiv%20(GET_CIS_HNOJIV)%20%20%20(RHN_GHN01C).jsonld",
   "typ": "Datová sada",
   "název": {
     "cs": "Číselník hnojiv (GET_CIS_HNOJIV) / (RHN_GHN01C)",
