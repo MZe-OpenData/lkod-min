@@ -1,6 +1,6 @@
 {
   "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
-  "iri": "https://data.gov.cz/zdroj/datové-sady/00020478/887415992",
+  "iri": "https://raw.githubusercontent.com/ondrejsilhacek/lkod-min/main/datové-sady/Číselník%20kategorie%20zvířat%20pro%20krmné%20dny%20%20%20(IZR_CKD01A).jsonld",
   "typ": "Datová sada",
   "název": {
     "cs": "Číselník kategorie zvířat pro krmné dny / (IZR_CKD01A)",
