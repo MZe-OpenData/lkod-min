@@ -1,6 +1,6 @@
 {
   "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
-  "iri": "https://data.gov.cz/zdroj/datové-sady/00020478/883700638",
+  "iri": "https://raw.githubusercontent.com/ondrejsilhacek/lkod-min/main/datové-sady/Číselník%20plodin%20-%20verze%20D%20(LPI_GPL01D).jsonld",
   "typ": "Datová sada",
   "název": {
     "cs": "Číselník plodin - verze D (LPI_GPL01D)",
