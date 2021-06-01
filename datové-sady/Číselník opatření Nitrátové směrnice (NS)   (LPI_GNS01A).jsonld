@@ -1,6 +1,6 @@
 {
   "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
-  "iri": "https://data.gov.cz/zdroj/datové-sady/00020478/883700960",
+  "iri": "https://raw.githubusercontent.com/ondrejsilhacek/lkod-min/main/datové-sady/Číselník%20opatření%20Nitrátové%20směrnice%20(NS)%20%20%20(LPI_GNS01A).jsonld",
   "typ": "Datová sada",
   "název": {
     "cs": "Číselník opatření Nitrátové směrnice (NS) / (LPI_GNS01A)",
