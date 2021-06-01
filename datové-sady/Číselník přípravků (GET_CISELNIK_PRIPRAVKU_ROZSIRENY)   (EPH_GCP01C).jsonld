@@ -1,6 +1,6 @@
 {
   "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
-  "iri": "https://data.gov.cz/zdroj/datové-sady/00020478/887416502",
+  "iri": "https://raw.githubusercontent.com/ondrejsilhacek/lkod-min/main/datové-sady/Číselník%20přípravků%20(GET_CISELNIK_PRIPRAVKU_ROZSIRENY)%20%20%20(EPH_GCP01C).jsonld",
   "typ": "Datová sada",
   "název": {
     "cs": "Číselník přípravků (GET_CISELNIK_PRIPRAVKU_ROZSIRENY) / (EPH_GCP01C)",
