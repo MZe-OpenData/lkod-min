@@ -1,6 +1,6 @@
 {
   "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
-  "iri": "https://data.gov.cz/zdroj/datové-sady/00020478/908445605/7ac5ccf2b4e15767bd3de719817dfbff",
+  "iri": "https://github.com/ondrejsilhacek/lkod-min/raw/main/datov%C3%A9-sady/LPIS%20-%20okres%20Krom%C4%9B%C5%99%C3%AD%C5%BE.jsonld",
   "typ": "Datová sada",
   "název": {
     "cs": "LPIS - okres Kroměříž",
