@@ -1,6 +1,6 @@
 {
   "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
-  "iri": "https://data.gov.cz/zdroj/datové-sady/00020478/882156935",
+  "iri": "https://github.com/ondrejsilhacek/lkod-min/raw/main/datov%C3%A9-sady/LPIS%20DPB%20cel%C3%A1%20%C4%8CR%202017.jsonld",
   "typ": "Datová sada",
   "název": {
     "cs": "LPIS DPB celá ČR 2017",
