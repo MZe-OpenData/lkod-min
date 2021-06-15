@@ -1,0 +1,77 @@
+{
+  "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
+  "iri": "https://data.gov.cz/zdroj/datové-sady/00020478/887790245",
+  "typ": "Datová sada",
+  "název": {
+    "cs": "Číselníky / (SZR_CIS01A)",
+    "en": "Code lists / (SZR_CIS01A)"
+  },
+  "popis": {
+    "cs": "Služba poskytuje číselníky oblastí, krajů, okresů, obcí, částí obcí, správních obvodů obcí s rozšířenou působností, správních obvodů obcí s pověřeným obecním úřadem, pražských obvodů, správních obvodů, městských částí, pošt a číselník KÚ z dat SZR (RUIAN).\n",
+    "en": "The service provides code lists of areas, regions, districts, municipalities, parts of municipalities, administrative districts of municipalities with extended powers, administrative districts of municipalities with an authorized municipal office, Prague districts, administrative districts, city districts, post offices and the code list of KÚ (Cadastral territories) from SZR (Common agricultural registry) data - RUIAN (Registry of territorial identification, addresses and real estate). "
+  },
+  "prvek_rúian": [
+    "https://linked.cuzk.cz/resource/ruian/stat/1"
+  ],
+  "geografické_území": [],
+  "prostorové_pokrytí": [],
+  "klíčové_slovo": {
+    "cs": [
+      "webová služba",
+      "bez autorizace",
+      "SZR",
+      "datová služba",
+      "MZE"
+    ],
+    "en": [
+      "web service",
+      "data service",
+      "SZR",
+      "MZE",
+      "without authorization"
+    ]
+  },
+  "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/UPDATE_CONT",
+  "dokumentace": "https://eagri.cz/public/web/mze/farmar/elektronicka-vymena-dat/prehled-vystavenych-sluzeb/SZR_szr-cis01a.html",
+  "téma": [
+    "http://publications.europa.eu/resource/authority/data-theme/AGRI"
+  ],
+  "koncept_euroVoc": [],
+  "kontaktní_bod": {
+    "typ": "Organizace",
+    "jméno": {
+      "cs": "Ministerstvo zemědělství"
+    },
+    "e-mail": "mailto:helpdesk@mze.cz"
+  },
+  "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/00020478",
+  "distribuce": [
+    {
+      "typ": "Distribuce",
+      "iri": "https://data.gov.cz/zdroj/datové-sady/00020478/887790245/distribuce/0",
+      "název": {
+        "cs": "Číselníky / (SZR_CIS01A)",
+        "en": "Code lists / (SZR_CIS01A)"
+      },
+      "podmínky_užití": {
+        "typ": "Specifikace podmínek užití",
+        "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
+        "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
+        "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
+        "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
+      },
+      "přístupové_url": "https://eagri.cz/ssl/nosso-app/EPO/WS/v2Online/vOKOsrv.ashx",
+      "přístupová_služba": {
+        "typ": "Datová služba",
+        "přístupový_bod": "https://eagri.cz/ssl/nosso-app/EPO/WS/v2Online/vOKOsrv.ashx",
+        "popis_přístupového_bodu": "https://eagri.cz/ssl/nosso-app/EPO/WS/Online/vOKOsrv.aspx?SERVICEID=SZR_CIS01A",
+        "iri": "https://data.gov.cz/zdroj/datové-sady/00020478/887790245/distribuce/0/přístupová-služba",
+        "název": {
+          "cs": "Číselníky / (SZR_CIS01A)",
+          "en": "Code lists / (SZR_CIS01A)"
+        },
+        "poskytuje_datovou_sadu": "https://data.gov.cz/zdroj/datové-sady/00020478/887790245"
+      }
+    }
+  ]
+}
