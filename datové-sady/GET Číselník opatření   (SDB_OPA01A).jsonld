@@ -1,0 +1,79 @@
+{
+  "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
+  "iri": "https://data.gov.cz/zdroj/datové-sady/00020478/887790283",
+  "typ": "Datová sada",
+  "název": {
+    "cs": "GET Číselník opatření / (SDB_OPA01A)",
+    "en": "GET Code list of Measures / (SDB_OPA01A)"
+  },
+  "popis": {
+    "cs": "Cílem služby je poskytnout prostřednictvím webové služby (v XML struktuře) číselník dotačních opatření, které jsou používány plošně v systémech MZe a SZIF. Číselníky jsou například používané v datech jednotné žádosti - služba APA_GJZ02A.\n",
+    "en": "The aim of the service is to provide via a web service (in XML structure) a code list of subsidy measures, that are widely used in the systems of the Ministry of Agriculture and State Agricultural Intervention Fund. For example code lists are used in the data of the Single application - APA_GJZ02A service. "
+  },
+  "prvek_rúian": [
+    "https://linked.cuzk.cz/resource/ruian/stat/1"
+  ],
+  "geografické_území": [],
+  "prostorové_pokrytí": [],
+  "klíčové_slovo": {
+    "cs": [
+      "SDB",
+      "webová služba",
+      "bez autorizace",
+      "obecne ciselniky",
+      "datová služba",
+      "MZE"
+    ],
+    "en": [
+      "SDB",
+      "web service",
+      "data service",
+      "without authorization",
+      "MZE",
+      "general code lists"
+    ]
+  },
+  "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/UPDATE_CONT",
+  "dokumentace": "https://eagri.cz/public/web/mze/farmar/elektronicka-vymena-dat/prehled-vystavenych-sluzeb/SZR_sdb-opa01a.html",
+  "téma": [
+    "http://publications.europa.eu/resource/authority/data-theme/AGRI"
+  ],
+  "koncept_euroVoc": [],
+  "kontaktní_bod": {
+    "typ": "Organizace",
+    "jméno": {
+      "cs": "Ministerstvo zemědělství"
+    },
+    "e-mail": "mailto:helpdesk@mze.cz"
+  },
+  "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/00020478",
+  "distribuce": [
+    {
+      "typ": "Distribuce",
+      "iri": "https://data.gov.cz/zdroj/datové-sady/00020478/887790283/distribuce/0",
+      "název": {
+        "cs": "GET Číselník opatření / (SDB_OPA01A)",
+        "en": "GET Code list of Measures / (SDB_OPA01A)"
+      },
+      "podmínky_užití": {
+        "typ": "Specifikace podmínek užití",
+        "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
+        "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
+        "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
+        "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
+      },
+      "přístupové_url": "https://eagri.cz/ssl/nosso-app/EPO/WS/v2Online/vOKOsrv.ashx",
+      "přístupová_služba": {
+        "typ": "Datová služba",
+        "přístupový_bod": "https://eagri.cz/ssl/nosso-app/EPO/WS/v2Online/vOKOsrv.ashx",
+        "popis_přístupového_bodu": "https://eagri.cz/ssl/nosso-app/EPO/WS/Online/vOKOsrv.aspx?SERVICEID=SDB_OPA01A",
+        "iri": "https://data.gov.cz/zdroj/datové-sady/00020478/887790283/distribuce/0/přístupová-služba",
+        "název": {
+          "cs": "GET Číselník opatření / (SDB_OPA01A)",
+          "en": "GET Code list of Measures / (SDB_OPA01A)"
+        },
+        "poskytuje_datovou_sadu": "https://data.gov.cz/zdroj/datové-sady/00020478/887790283"
+      }
+    }
+  ]
+}
