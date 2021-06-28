@@ -1,6 +1,6 @@
 {
   "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
-  "iri": "https://data.gov.cz/zdroj/datové-sady/00020478/888576508",
+  "iri": "https://github.com/ondrejsilhacek/lkod-min/raw/main/datov%C3%A9-sady/Datab%C3%A1ze%20dostupn%C3%BDch%20ekologick%C3%BDch%20osiv%20%20%20(EAA_GMS01A).jsonld",
   "typ": "Datová sada",
   "název": {
     "cs": "Databáze dostupných ekologických osiv / (EAA_GMS01A)",
