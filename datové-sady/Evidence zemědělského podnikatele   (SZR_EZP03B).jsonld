@@ -1,0 +1,78 @@
+{
+  "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
+  "iri": "https://data.gov.cz/zdroj/datové-sady/00020478/887963171",
+  "typ": "Datová sada",
+  "název": {
+    "cs": "Evidence zemědělského podnikatele / (SZR_EZP03B)",
+    "en": "Registry of agricultural entrepreneurs / (SZR_EZP03B)"
+  },
+  "popis": {
+    "cs": "Služba umožňuje získání veřejné údaje z Evidence zemědělského podnikatele (EZP).\n",
+    "en": "The service enables the acquisition of public data from the Registry of Agricultural Entrepreneurs (EZP). "
+  },
+  "prvek_rúian": [
+    "https://linked.cuzk.cz/resource/ruian/stat/1"
+  ],
+  "geografické_území": [],
+  "prostorové_pokrytí": [],
+  "klíčové_slovo": {
+    "cs": [
+      "webová služba",
+      "bez autorizace",
+      "EZP",
+      "datová služba",
+      "evidence zemedelskeho podnikatele",
+      "MZE"
+    ],
+    "en": [
+      "web service",
+      "data service",
+      "EZP",
+      "Registry of agricultural entrepreneurs",
+      "MZE"
+    ]
+  },
+  "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/UPDATE_CONT",
+  "dokumentace": "https://eagri.cz/public/web/mze/farmar/elektronicka-vymena-dat/prehled-vystavenych-sluzeb/EZP_szr-ezp03b.html",
+  "téma": [
+    "http://publications.europa.eu/resource/authority/data-theme/AGRI"
+  ],
+  "koncept_euroVoc": [],
+  "kontaktní_bod": {
+    "typ": "Organizace",
+    "jméno": {
+      "cs": "Ministerstvo zemědělství"
+    },
+    "e-mail": "mailto:helpdesk@mze.cz"
+  },
+  "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/00020478",
+  "distribuce": [
+    {
+      "typ": "Distribuce",
+      "iri": "https://data.gov.cz/zdroj/datové-sady/00020478/887963171/distribuce/0",
+      "název": {
+        "cs": "Evidence zemědělského podnikatele / (SZR_EZP03B)",
+        "en": "Registry of agricultural entrepreneurs / (SZR_EZP03B)"
+      },
+      "podmínky_užití": {
+        "typ": "Specifikace podmínek užití",
+        "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
+        "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
+        "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
+        "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
+      },
+      "přístupové_url": "https://eagri.cz/ssl/nosso-app/EPO/WS/v2Online/vOKOsrv.ashx",
+      "přístupová_služba": {
+        "typ": "Datová služba",
+        "přístupový_bod": "https://eagri.cz/ssl/nosso-app/EPO/WS/v2Online/vOKOsrv.ashx",
+        "popis_přístupového_bodu": "https://eagri.cz/ssl/nosso-app/EPO/WS/Online/vOKOsrv.aspx?SERVICEID=SZR_EZP03B",
+        "iri": "https://data.gov.cz/zdroj/datové-sady/00020478/887963171/distribuce/0/přístupová-služba",
+        "název": {
+          "cs": "Evidence zemědělského podnikatele / (SZR_EZP03B)",
+          "en": "Registry of agricultural entrepreneurs / (SZR_EZP03B)"
+        },
+        "poskytuje_datovou_sadu": "https://data.gov.cz/zdroj/datové-sady/00020478/887963171"
+      }
+    }
+  ]
+}
