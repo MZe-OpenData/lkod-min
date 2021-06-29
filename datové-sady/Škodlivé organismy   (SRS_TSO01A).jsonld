@@ -1,6 +1,6 @@
 {
   "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
-  "iri": "https://data.gov.cz/zdroj/datové-sady/00020478/885212635",
+  "iri": "https://github.com/ondrejsilhacek/lkod-min/raw/main/datov%C3%A9-sady/%C5%A0kodliv%C3%A9%20organismy%20%20%20(SRS_TSO01A).jsonld",
   "typ": "Datová sada",
   "název": {
     "cs": "Škodlivé organismy / (SRS_TSO01A)",
