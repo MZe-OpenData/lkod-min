@@ -1,0 +1,83 @@
+{
+  "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
+  "iri": "https://data.gov.cz/zdroj/datové-sady/00020478/885212862",
+  "typ": "Datová sada",
+  "název": {
+    "cs": "Registr distributorů POR / (EAA_RDP01A)",
+    "en": "Registry of POR Distributors / (EAA_RDP01A) "
+  },
+  "popis": {
+    "cs": "Služba poskytuje data z Registru distributorů přípravků na ochranu rostlin pro profesionální uživatele. Data jsou aktualizována průběžně.\n",
+    "en": "The service provides data from the Registry of Distributors of Plant Protection Products for professional users. The data is updated continuously. \n"
+  },
+  "prvek_rúian": [
+    "https://linked.cuzk.cz/resource/ruian/stat/1"
+  ],
+  "geografické_území": [],
+  "prostorové_pokrytí": [],
+  "klíčové_slovo": {
+    "cs": [
+      "webová služba",
+      "registr distributoru",
+      "pripravky na ochranu rostlin",
+      "UKZUZ",
+      "bez autorizace",
+      "datová služba",
+      "MZE",
+      "POR"
+    ],
+    "en": [
+      "web service",
+      "data service",
+      "without authorization",
+      "UKZUZ",
+      "MZE",
+      "POR",
+      "plant protection products",
+      "registry of distributors"
+    ]
+  },
+  "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/UPDATE_CONT",
+  "dokumentace": "https://eagri.cz/public/web/mze/farmar/elektronicka-vymena-dat/prehled-vystavenych-sluzeb/UKZUZ_eaa-rdp01a.html",
+  "téma": [
+    "http://publications.europa.eu/resource/authority/data-theme/AGRI"
+  ],
+  "koncept_euroVoc": [],
+  "kontaktní_bod": {
+    "typ": "Organizace",
+    "jméno": {
+      "cs": "Ministerstvo zemědělství"
+    },
+    "e-mail": "mailto:helpdesk@mze.cz"
+  },
+  "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/00020478",
+  "distribuce": [
+    {
+      "typ": "Distribuce",
+      "iri": "https://data.gov.cz/zdroj/datové-sady/00020478/885212862/distribuce/0",
+      "název": {
+        "cs": "Registr distributorů POR / (EAA_RDP01A)",
+        "en": "Registry of POR Distributors / (EAA_RDP01A) "
+      },
+      "podmínky_užití": {
+        "typ": "Specifikace podmínek užití",
+        "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
+        "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
+        "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
+        "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
+      },
+      "přístupové_url": "https://eagri.cz/ssl/nosso-app/EPO/WS/v2Online/vOKOsrv.ashx",
+      "přístupová_služba": {
+        "typ": "Datová služba",
+        "přístupový_bod": "https://eagri.cz/ssl/nosso-app/EPO/WS/v2Online/vOKOsrv.ashx",
+        "popis_přístupového_bodu": "https://eagri.cz/ssl/nosso-app/EPO/WS/Online/vOKOsrv.aspx?SERVICEID=EAA_RDP01A",
+        "iri": "https://data.gov.cz/zdroj/datové-sady/00020478/885212862/distribuce/0/přístupová-služba",
+        "název": {
+          "cs": "Registr distributorů POR / (EAA_RDP01A)",
+          "en": "Registry of POR Distributors / (EAA_RDP01A) "
+        },
+        "poskytuje_datovou_sadu": "https://data.gov.cz/zdroj/datové-sady/00020478/885212862"
+      }
+    }
+  ]
+}
