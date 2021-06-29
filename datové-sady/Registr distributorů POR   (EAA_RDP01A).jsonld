@@ -1,6 +1,6 @@
 {
   "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
-  "iri": "https://data.gov.cz/zdroj/datové-sady/00020478/885212862",
+  "iri": "https://github.com/ondrejsilhacek/lkod-min/raw/main/datov%C3%A9-sady/Registr%20distributor%C5%AF%20POR%20%20%20(EAA_RDP01A).jsonld",
   "typ": "Datová sada",
   "název": {
     "cs": "Registr distributorů POR / (EAA_RDP01A)",
