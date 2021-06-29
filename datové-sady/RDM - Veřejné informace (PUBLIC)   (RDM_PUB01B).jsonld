@@ -1,6 +1,6 @@
 {
   "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
-  "iri": "https://data.gov.cz/zdroj/datové-sady/00020478/885212720",
+  "iri": "https://github.com/ondrejsilhacek/lkod-min/raw/main/datov%C3%A9-sady/RDM%20-%20Ve%C5%99ejn%C3%A9%20informace%20(PUBLIC)%20%20%20(RDM_PUB01B).jsonld",
   "typ": "Datová sada",
   "název": {
     "cs": "RDM - Veřejné informace (PUBLIC) / (RDM_PUB01B)",
