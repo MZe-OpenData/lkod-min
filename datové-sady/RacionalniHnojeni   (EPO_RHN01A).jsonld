@@ -1,0 +1,85 @@
+{
+  "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
+  "iri": "https://data.gov.cz/zdroj/datové-sady/00020478/887963405",
+  "typ": "Datová sada",
+  "název": {
+    "cs": "RacionalniHnojeni / (EPO_RHN01A)",
+    "en": "RationalFertilization / (EPO_RHN01A) "
+  },
+  "popis": {
+    "cs": "Služba na základě plodiny, požadovaného výnosu, údajů z AZZP, informací o posledním hnojení a nepovinného seznamu obvykle používaných hnojiv vrací návrh optimálního hnojení.\n",
+    "en": "The service returns a proposal for optimal fertilization based on the crop, the required yield, the AZZP data, the information on the last fertilization and the optional list of commonly used fertilizers. "
+  },
+  "prvek_rúian": [
+    "https://linked.cuzk.cz/resource/ruian/stat/1"
+  ],
+  "geografické_území": [],
+  "prostorové_pokrytí": [],
+  "klíčové_slovo": {
+    "cs": [
+      "webová služba",
+      "vyzkumny ustav zemedelske techniky",
+      "racionalni hnojeni",
+      "bez autorizace",
+      "agrochemicke zkouseni zemedelskych pud",
+      "datová služba",
+      "AZZP",
+      "VUZT",
+      "MZE"
+    ],
+    "en": [
+      "web service",
+      "data service",
+      "without authorization",
+      "rational fertilization",
+      "AZZP",
+      "VUZT",
+      "MZE",
+      "Agrochemical testing of agricultural land",
+      "Research Institute of Agricultural Engineering"
+    ]
+  },
+  "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/UPDATE_CONT",
+  "dokumentace": "https://eagri.cz/public/web/mze/farmar/elektronicka-vymena-dat/prehled-vystavenych-sluzeb/VUZT_epo-rhn01a.html",
+  "téma": [
+    "http://publications.europa.eu/resource/authority/data-theme/AGRI"
+  ],
+  "koncept_euroVoc": [],
+  "kontaktní_bod": {
+    "typ": "Organizace",
+    "jméno": {
+      "cs": "Ministerstvo zemědělství"
+    },
+    "e-mail": "mailto:helpdesk@mze.cz"
+  },
+  "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/00020478",
+  "distribuce": [
+    {
+      "typ": "Distribuce",
+      "iri": "https://data.gov.cz/zdroj/datové-sady/00020478/887963405/distribuce/0",
+      "název": {
+        "cs": "RacionalniHnojeni / (EPO_RHN01A)",
+        "en": "RationalFertilization / (EPO_RHN01A) "
+      },
+      "podmínky_užití": {
+        "typ": "Specifikace podmínek užití",
+        "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
+        "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
+        "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
+        "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
+      },
+      "přístupové_url": "https://eagri.cz/ssl/nosso-app/EPO/WS/v2Online/vOKOsrv.ashx",
+      "přístupová_služba": {
+        "typ": "Datová služba",
+        "přístupový_bod": "https://eagri.cz/ssl/nosso-app/EPO/WS/v2Online/vOKOsrv.ashx",
+        "popis_přístupového_bodu": "https://eagri.cz/ssl/nosso-app/EPO/WS/Online/vOKOsrv.aspx?SERVICEID=EPO_RHN01A",
+        "iri": "https://data.gov.cz/zdroj/datové-sady/00020478/887963405/distribuce/0/přístupová-služba",
+        "název": {
+          "cs": "RacionalniHnojeni / (EPO_RHN01A)",
+          "en": "RationalFertilization / (EPO_RHN01A) "
+        },
+        "poskytuje_datovou_sadu": "https://data.gov.cz/zdroj/datové-sady/00020478/887963405"
+      }
+    }
+  ]
+}
