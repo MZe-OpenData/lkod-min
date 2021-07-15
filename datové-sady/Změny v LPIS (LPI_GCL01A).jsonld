@@ -1,6 +1,6 @@
 {
   "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
-  "iri": "https://data.gov.cz/zdroj/datové-sady/00020478/908445605/ed6a20750c4e4c3ccce93472a25f91c0",
+  "iri": "https://github.com/ondrejsilhacek/lkod-min/raw/main/datov%C3%A9-sady/Zm%C4%9Bny%20v%20LPIS%20(LPI_GCL01A).jsonld",
   "typ": "Datová sada",
   "název": {
     "cs": "Změny v LPIS (LPI_GCL01A)",
