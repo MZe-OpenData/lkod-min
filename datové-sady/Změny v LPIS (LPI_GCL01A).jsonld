@@ -1,0 +1,75 @@
+{
+  "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
+  "iri": "https://data.gov.cz/zdroj/datové-sady/00020478/908445605/ed6a20750c4e4c3ccce93472a25f91c0",
+  "typ": "Datová sada",
+  "název": {
+    "cs": "Změny v LPIS (LPI_GCL01A)",
+    "en": "Changes in LPIS (LPI_GCL01A)"
+  },
+  "popis": {
+    "cs": "K danému ID SZR služba vrátí informaci, zda od daného data z parametru dotazu do dnešního dne neproběhla u subjektu v LPIS změna v příslušných typech dat.",
+    "en": "For the given SZR ID, the service returns information on whether the subject in the LPIS has not changed in the relevant data types from the given date from the query parameter to the present day."
+  },
+  "prvek_rúian": [
+    "https://linked.cuzk.cz/resource/ruian/stat/1"
+  ],
+  "geografické_území": [],
+  "prostorové_pokrytí": [],
+  "klíčové_slovo": {
+    "cs": [
+      "bez autorizace",
+      "webova sluzba",
+      "datova sluzba",
+      "MZE"
+    ],
+    "en": [
+      "without autorization",
+      "MZE",
+      "data service",
+      "web service"
+    ]
+  },
+  "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/MONTHLY",
+  "dokumentace": "https://eagri.cz/public/web/mze/farmar/elektronicka-vymena-dat/prehled-vystavenych-sluzeb/",
+  "téma": [
+    "http://publications.europa.eu/resource/authority/data-theme/AGRI"
+  ],
+  "koncept_euroVoc": [],
+  "kontaktní_bod": {
+    "typ": "Organizace",
+    "jméno": {
+      "cs": "Ministerstvo zemědělství"
+    },
+    "e-mail": "mailto:helpdesk@mze.cz"
+  },
+  "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/00020478",
+  "distribuce": [
+    {
+      "typ": "Distribuce",
+      "iri": "https://data.gov.cz/zdroj/datové-sady/00020478/908445605/ed6a20750c4e4c3ccce93472a25f91c0/distribuce/0",
+      "název": {
+        "cs": "Změny v LPIS (LPI_GCL01A)",
+        "en": "Changes in LPIS (LPI_GCL01A)"
+      },
+      "podmínky_užití": {
+        "typ": "Specifikace podmínek užití",
+        "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
+        "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
+        "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
+        "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
+      },
+      "přístupové_url": "https://eagri.cz/ssl/nosso-app/EPO/WS/v2Online/vOKOsrv.ashx",
+      "přístupová_služba": {
+        "typ": "Datová služba",
+        "přístupový_bod": "https://eagri.cz/ssl/nosso-app/EPO/WS/v2Online/vOKOsrv.ashx",
+        "popis_přístupového_bodu": "https://eagri.cz/ssl/nosso-app/EPO/WS/Online/vOKOsrv.aspx?SERVICEID=LPI_GCL01A",
+        "iri": "https://data.gov.cz/zdroj/datové-sady/00020478/908445605/ed6a20750c4e4c3ccce93472a25f91c0/distribuce/0/přístupová-služba",
+        "název": {
+          "cs": "Změny v LPIS (LPI_GCL01A)",
+          "en": "Changes in LPIS (LPI_GCL01A)"
+        },
+        "poskytuje_datovou_sadu": "https://data.gov.cz/zdroj/datové-sady/00020478/908445605/ed6a20750c4e4c3ccce93472a25f91c0"
+      }
+    }
+  ]
+}
