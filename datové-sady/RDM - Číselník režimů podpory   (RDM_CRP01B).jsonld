@@ -1,6 +1,6 @@
 {
   "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
-  "iri": "https://data.gov.cz/zdroj/datové-sady/00020478/908445605/e513d7f968127cf2096989b9b6abc273",
+  "iri": "https://raw.githubusercontent.com/ondrejsilhacek/lkod-min/main/datové-sady/RDM%20-%20Číselník%20režimů%20podpory%20%20%20(RDM_CRP01B).jsonld",
   "typ": "Datová sada",
   "název": {
     "cs": "RDM - Číselník režimů podpory / (RDM_CRP01B)",
