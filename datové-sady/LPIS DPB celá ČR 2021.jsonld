@@ -1,6 +1,6 @@
 {
   "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
-  "iri": "https://data.gov.cz/zdroj/datové-sady/00020478/bca84075de1409fc3a60ee2cbe54518a",
+  "iri": "https://raw.githubusercontent.com/ondrejsilhacek/lkod-min/main/datové-sady/LPIS%20DPB%20celá%20ČR%202021.jsonld",
   "typ": "Datová sada",
   "název": {
     "cs": "LPIS DPB celá ČR 2021",
