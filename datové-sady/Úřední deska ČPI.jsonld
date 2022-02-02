@@ -1,0 +1,63 @@
+{
+  "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
+  "iri": "https://data.gov.cz/zdroj/datové-sady/00025593/73870e90e93a03333492733b906e643f",
+  "typ": "Datová sada",
+  "název": {
+    "cs": "Úřední deska ČPI"
+  },
+  "popis": {
+    "cs": "Datová sada obsahuje metadatové záznamy z úřední desky České plemenářské inspekce."
+  },
+  "prvek_rúian": [
+    "https://linked.cuzk.cz/resource/ruian/stat/1"
+  ],
+  "geografické_území": [],
+  "prostorové_pokrytí": [],
+  "klíčové_slovo": {
+    "cs": [
+      "úřední deska",
+      "ČPI"
+    ],
+    "en": []
+  },
+  "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/CONT",
+  "dokumentace": "https://ofn.gov.cz/úřední-desky/2021-07-20/schémata/úřední-deska.json",
+  "téma": [
+    "http://publications.europa.eu/resource/authority/data-theme/GOVE",
+    "http://publications.europa.eu/resource/authority/data-theme/AGRI",
+    "http://publications.europa.eu/resource/authority/data-theme/ENVI"
+  ],
+  "koncept_euroVoc": [],
+  "specifikace": [
+    "https://ofn.gov.cz/úřední-desky/"
+  ],
+  "kontaktní_bod": {
+    "typ": "Organizace",
+    "jméno": {
+      "cs": "Ministerstvo zemědělství"
+    },
+    "e-mail": "mailto:helpdesk@mze.cz"
+  },
+  "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/00025593",
+  "distribuce": [
+    {
+      "typ": "Distribuce",
+      "iri": "https://data.gov.cz/zdroj/datové-sady/00025593/73870e90e93a03333492733b906e643f/distribuce/0",
+      "název": {
+        "cs": "Úřední deska ve formátu JSON-LD"
+      },
+      "podmínky_užití": {
+        "typ": "Specifikace podmínek užití",
+        "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
+        "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
+        "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
+        "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
+      },
+      "soubor_ke_stažení": "https://eagri.cz/public/web/cpi/uredni-deska/ceska-plemenarska-inspekce/index.json",
+      "přístupové_url": "https://eagri.cz/public/web/cpi/uredni-deska/ceska-plemenarska-inspekce/index.json",
+      "typ_média": "http://www.iana.org/assignments/media-types/application/ld+json",
+      "formát": "http://publications.europa.eu/resource/authority/file-type/JSON_LD",
+      "schéma": "https://ofn.gov.cz/úřední-desky/2021-07-20/schémata/úřední-deska.json"
+    }
+  ]
+}
