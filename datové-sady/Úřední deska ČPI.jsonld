@@ -1,6 +1,6 @@
 {
   "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
-  "iri": "https://raw.githubusercontent.com/ondrejsilhacek/lkod-min/main/datové-sady/Úřední%20deska%20ČPI.jsonld",
+  "iri": "https://data.gov.cz/zdroj/datové-sady/00020478/b1409be1278604e26f2d1ba08767361a",
   "typ": "Datová sada",
   "název": {
     "cs": "Úřední deska ČPI"
@@ -15,17 +15,17 @@
   "prostorové_pokrytí": [],
   "klíčové_slovo": {
     "cs": [
-      "úřední deska",
-      "ČPI"
+      "ČPI",
+      "úřední deska"
     ],
     "en": []
   },
   "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/CONT",
   "dokumentace": "https://ofn.gov.cz/úřední-desky/2021-07-20/schémata/úřední-deska.json",
   "téma": [
-    "http://publications.europa.eu/resource/authority/data-theme/GOVE",
     "http://publications.europa.eu/resource/authority/data-theme/AGRI",
-    "http://publications.europa.eu/resource/authority/data-theme/ENVI"
+    "http://publications.europa.eu/resource/authority/data-theme/ENVI",
+    "http://publications.europa.eu/resource/authority/data-theme/GOVE"
   ],
   "koncept_euroVoc": [],
   "specifikace": [
@@ -38,11 +38,11 @@
     },
     "e-mail": "mailto:helpdesk@mze.cz"
   },
-  "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/00025593",
+  "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/00020478",
   "distribuce": [
     {
       "typ": "Distribuce",
-      "iri": "https://data.gov.cz/zdroj/datové-sady/00025593/73870e90e93a03333492733b906e643f/distribuce/0",
+      "iri": "https://data.gov.cz/zdroj/datové-sady/00020478/b1409be1278604e26f2d1ba08767361a/distribuce/0",
       "název": {
         "cs": "Úřední deska ve formátu JSON-LD"
       },
@@ -55,7 +55,7 @@
       },
       "soubor_ke_stažení": "https://eagri.cz/public/web/cpi/uredni-deska/ceska-plemenarska-inspekce/index.json",
       "přístupové_url": "https://eagri.cz/public/web/cpi/uredni-deska/ceska-plemenarska-inspekce/index.json",
-      "typ_média": "http://www.iana.org/assignments/media-types/application/ld+json",
+      "typ_média": "http://www.iana.org/assignments/media-types/application/json",
       "formát": "http://publications.europa.eu/resource/authority/file-type/JSON_LD",
       "schéma": "https://ofn.gov.cz/úřední-desky/2021-07-20/schémata/úřední-deska.json"
     }
