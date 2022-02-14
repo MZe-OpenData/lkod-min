@@ -1,6 +1,6 @@
 {
   "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
-  "iri": "https://raw.githubusercontent.com/ondrejsilhacek/lkod-min/main/datové-sady/Úřední%20deska%20ÚKZÚZ.jsonld",
+  "iri": "https://data.gov.cz/zdroj/datové-sady/00020478/9c6a0befaae766dbe8350a494c7554a1",
   "typ": "Datová sada",
   "název": {
     "cs": "Úřední deska ÚKZÚZ"
@@ -32,7 +32,8 @@
   ],
   "koncept_euroVoc": [],
   "specifikace": [
-    "https://ofn.gov.cz/úřední-desky/"
+    "https://ofn.gov.cz/úřední-desky/",
+    "https://ofn.gov.cz/úřední-desky/2021-07-20/"
   ],
   "kontaktní_bod": {
     "typ": "Organizace",
