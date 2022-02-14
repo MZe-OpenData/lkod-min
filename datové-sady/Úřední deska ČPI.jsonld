@@ -1,6 +1,6 @@
 {
   "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
-  "iri": "https://data.gov.cz/zdroj/datové-sady/00020478/b1409be1278604e26f2d1ba08767361a",
+  "iri": "https://raw.githubusercontent.com/ondrejsilhacek/lkod-min/main/datové-sady/Úřední%20deska%20ČPI.jsonld",
   "typ": "Datová sada",
   "název": {
     "cs": "Úřední deska ČPI"
