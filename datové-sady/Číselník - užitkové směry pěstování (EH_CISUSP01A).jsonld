@@ -1,6 +1,6 @@
 {
   "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
-  "iri": "https://data.gov.cz/zdroj/datové-sady/00020478/e513d7f968127cf2096989b9b6abc273",
+  "iri": "https://raw.githubusercontent.com/ondrejsilhacek/lkod-min/main/datové-sady/Číselník%20-%20užitkové%20směry%20pěstování%20(EH_CISUSP01A).jsonld",
   "typ": "Datová sada",
   "název": {
     "cs": "Číselník - užitkové směry pěstování / (EH_CISUSP01A)",
