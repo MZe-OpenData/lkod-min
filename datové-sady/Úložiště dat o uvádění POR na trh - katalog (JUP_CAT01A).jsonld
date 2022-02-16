@@ -1,6 +1,6 @@
 {
   "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
-  "iri": "https://data.gov.cz/zdroj/datové-sady/00020478/e513d7f968127cf2096989b9b6abc273",
+  "iri": "https://raw.githubusercontent.com/ondrejsilhacek/lkod-min/main/datové-sady/Úložiště%20dat%20o%20uvádění%20POR%20na%20trh%20-%20katalog%20(JUP_CAT01A).jsonld",
   "typ": "Datová sada",
   "název": {
     "cs": "Úložiště dat o uvádění POR na trh - katalog / (JUP_CAT01A)",
