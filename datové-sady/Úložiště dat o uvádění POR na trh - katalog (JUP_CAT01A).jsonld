@@ -1,6 +1,6 @@
 {
   "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
-  "iri": "https://raw.githubusercontent.com/ondrejsilhacek/lkod-min/main/datové-sady/Úložiště%20dat%20o%20uvádění%20POR%20na%20trh%20-%20katalog%20(JUP_CAT01A).jsonld",
+  "iri": "https://data.gov.cz/zdroj/datové-sady/00020478/ad5c7afdab3df8535b56098a5ad0e52d",
   "typ": "Datová sada",
   "název": {
     "cs": "Úložiště dat o uvádění POR na trh - katalog / (JUP_CAT01A)",
@@ -18,21 +18,21 @@
   "klíčové_slovo": {
     "cs": [
       "webová služba",
+      "pripravky na ochranu rostlin",
+      "UKZUZ",
       "bez autorizace",
       "datová služba",
       "MZE",
-      "POR",
-      "pripravky na ochranu rostlin",
-      "UKZUZ"
+      "POR"
     ],
     "en": [
       "without authorization",
+      "UKZUZ",
       "MZE",
       "data service",
-      "web service",
       "plant protection products",
-      "POR",
-      "UKZUZ"
+      "web service",
+      "POR"
     ]
   },
   "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/UPDATE_CONT",
@@ -52,7 +52,7 @@
   "distribuce": [
     {
       "typ": "Distribuce",
-      "iri": "https://data.gov.cz/zdroj/datové-sady/00020478/e513d7f968127cf2096989b9b6abc273/distribuce/0",
+      "iri": "https://data.gov.cz/zdroj/datové-sady/00020478/ad5c7afdab3df8535b56098a5ad0e52d/distribuce/0",
       "název": {
         "cs": "Úložiště dat o uvádění POR na trh - katalog / (JUP_CAT01A)",
         "en": "POR Marketing Data Repository - Catalogue / (JUP_CAT01A)"
@@ -69,12 +69,12 @@
         "typ": "Datová služba",
         "přístupový_bod": "https://eagri.cz/ssl/nosso-app/EPO/WS/v2Online/vOKOsrv.ashx",
         "popis_přístupového_bodu": "https://eagri.cz/ssl/nosso-app/EPO/WS/Online/vOKOsrv.aspx?SERVICEID=JUP_CAT01A",
-        "iri": "https://data.gov.cz/zdroj/datové-sady/00020478/e513d7f968127cf2096989b9b6abc273/distribuce/0/přístupová-služba",
+        "iri": "https://data.gov.cz/zdroj/datové-sady/00020478/ad5c7afdab3df8535b56098a5ad0e52d/distribuce/0/přístupová-služba",
         "název": {
           "cs": "Úložiště dat o uvádění POR na trh - katalog / (JUP_CAT01A)",
           "en": "POR Marketing Data Repository - Catalogue / (JUP_CAT01A)"
         },
-        "poskytuje_datovou_sadu": "https://data.gov.cz/zdroj/datové-sady/00020478/e513d7f968127cf2096989b9b6abc273"
+        "poskytuje_datovou_sadu": "https://data.gov.cz/zdroj/datové-sady/00020478/ad5c7afdab3df8535b56098a5ad0e52d"
       }
     }
   ]
