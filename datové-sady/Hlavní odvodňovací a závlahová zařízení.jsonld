@@ -1,6 +1,6 @@
 {
   "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
-  "iri": "https://data.gov.cz/zdroj/datové-sady/00020478/c5d47f40c54e3c7b0bbb40517c12601f",
+  "iri": "https://raw.githubusercontent.com/ondrejsilhacek/lkod-min/main/datové-sady/Hlavní%20odvodňovací%20a%20závlahová%20zařízení.jsonld",
   "typ": "Datová sada",
   "název": {
     "cs": "Hlavní odvodňovací a závlahová zařízení",
