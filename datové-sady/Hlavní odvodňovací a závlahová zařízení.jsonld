@@ -1,0 +1,66 @@
+{
+  "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
+  "iri": "https://data.gov.cz/zdroj/datové-sady/00020478/c5d47f40c54e3c7b0bbb40517c12601f",
+  "typ": "Datová sada",
+  "název": {
+    "cs": "Hlavní odvodňovací a závlahová zařízení",
+    "en": "Main drainage and irrigation facilities"
+  },
+  "popis": {
+    "cs": "Tato datová sada představuje evidenci hlavních odvodňovacích a závlahových zařízení, která jsou v majetku státu. Vodní díla k vodohospodářským melioracím zemědělských pozemků se evidují v rozsahu údajů o jejich územní identifikaci a údajů stanovených ve vyhlášce o vodoprávní evidenci.",
+    "en": "This dataset is a registry of major drainage and irrigation facilities owned by the state. Water bodies for the water melioration of agricultural land shall be recorded to the extent of the data on their territorial identification and the data stipulated in the Decree on water administration registry."
+  },
+  "prvek_rúian": [
+    "https://linked.cuzk.cz/resource/ruian/stat/1"
+  ],
+  "geografické_území": [],
+  "prostorové_pokrytí": [],
+  "klíčové_slovo": {
+    "cs": [
+      "odvodňovací zařízení",
+      "závlahová zařízení",
+      "vodoprávní evidence"
+    ],
+    "en": [
+      "drainage facilities",
+      "irrigation facilities",
+      "water administration registry"
+    ]
+  },
+  "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/ANNUAL",
+  "dokumentace": "https://voda.gov.cz/?page=hlavni-odvodnovaci-a-zavlahova-zařizeni",
+  "téma": [
+    "http://publications.europa.eu/resource/authority/data-theme/ENVI"
+  ],
+  "koncept_euroVoc": [],
+  "kontaktní_bod": {
+    "typ": "Organizace",
+    "jméno": {
+      "cs": "Ministerstvo zemědělství"
+    },
+    "e-mail": "mailto:helpdesk@mze.cz"
+  },
+  "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/00020478",
+  "distribuce": [
+    {
+      "typ": "Distribuce",
+      "iri": "https://data.gov.cz/zdroj/datové-sady/00020478/c5d47f40c54e3c7b0bbb40517c12601f/distribuce/0",
+      "název": {
+        "cs": "Hlavní odvodňovací a závlahová zařízení",
+        "en": "Main drainage and irrigation facilities"
+      },
+      "podmínky_užití": {
+        "typ": "Specifikace podmínek užití",
+        "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
+        "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
+        "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
+        "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
+      },
+      "soubor_ke_stažení": "https://voda.gov.cz/data/ISVSVoda_HOZ.zip",
+      "přístupové_url": "https://voda.gov.cz/data/ISVSVoda_HOZ.zip",
+      "typ_média": "http://www.iana.org/assignments/media-types/application/vnd.shp",
+      "formát": "http://publications.europa.eu/resource/authority/file-type/SHP",
+      "typ_média_komprese": "http://www.iana.org/assignments/media-types/application/zip"
+    }
+  ]
+}
