@@ -1,0 +1,60 @@
+{
+  "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
+  "iri": "https://data.gov.cz/zdroj/datové-sady/00020478/c5d47f40c54e3c7b0bbb40517c12601f",
+  "typ": "Datová sada",
+  "název": {
+    "cs": "Vodní nádrže",
+    "en": "Water reservoirs"
+  },
+  "popis": {
+    "cs": "Datová sada vychází z údajů od jednotlivých státních podniků Povodí a státního podniku Lesů ČR. Tato evidence je založena na evidenci vodních nádrží: jejichž povolený objem vzduté nebo akumulované vody přesahuje 1 mil. m3; jejichž povolený objem vzduté nebo akumulované vody nedosahuje 1 mil. m3 a ke kterým mají právo hospodařit s. p. Lesy ČR; jejichž povolený objem vzduté nebo akumulované vody nedosahuje 1 mil. m3 a ke kterým mají právo hospodařit s. p. Povodí; jejichž hráz je zařazena do I. až IV. kategorie z hlediska technicko-bezpečnostního dohledu podle § 61 odst. 5 vodního zákona",
+    "en": "The dataset is based on data from individual Basin state enterprises and the state enterprise Forests of the Czech Republic. This record is based on the records of reservoirs: whose permitted volume of uplifted or accumulated water exceeds 1 million m3; whose permitted volume of uplifted or accumulated water does not exceed 1 million m3 and which are managed by the State Enterprise Forests of the Czech Republic; whose permitted volume of uplifted or accumulated water does not exceed 1 million m3 and which are managed by the State Enterprise Basin; whose dam is classified as category I to IV in terms of technical and safety supervision pursuant to § 61(5) of the Water Act"
+  },
+  "prvek_rúian": [
+    "https://linked.cuzk.cz/resource/ruian/stat/1"
+  ],
+  "geografické_území": [],
+  "prostorové_pokrytí": [],
+  "klíčové_slovo": {
+    "cs": [
+      "vodní nádrže",
+      "vodní hospodářství"
+    ],
+    "en": [
+      "water reservoirs",
+      "water management"
+    ]
+  },
+  "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/ANNUAL",
+  "dokumentace": "https://voda.gov.cz/?page=vodni-nadrze",
+  "téma": [
+    "http://publications.europa.eu/resource/authority/data-theme/ENVI"
+  ],
+  "koncept_euroVoc": [],
+  "kontaktní_bod": {
+    "typ": "Organizace",
+    "jméno": {
+      "cs": "Ministerstvo zemědělství"
+    },
+    "e-mail": "mailto:helpdesk@mze.cz"
+  },
+  "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/00020478",
+  "distribuce": [
+    {
+      "typ": "Distribuce",
+      "iri": "https://data.gov.cz/zdroj/datové-sady/00020478/c5d47f40c54e3c7b0bbb40517c12601f/distribuce/0",
+      "podmínky_užití": {
+        "typ": "Specifikace podmínek užití",
+        "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
+        "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
+        "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
+        "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
+      },
+      "soubor_ke_stažení": "https://voda.gov.cz/data/ISVSVoda_Vodninadrze.zip",
+      "přístupové_url": "https://voda.gov.cz/data/ISVSVoda_Vodninadrze.zip",
+      "typ_média": "http://www.iana.org/assignments/media-types/application/vnd.shp",
+      "formát": "http://publications.europa.eu/resource/authority/file-type/SHP",
+      "typ_média_komprese": "http://www.iana.org/assignments/media-types/application/zip"
+    }
+  ]
+}
