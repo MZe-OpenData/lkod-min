@@ -1,0 +1,67 @@
+{
+  "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
+  "iri": "https://data.gov.cz/zdroj/datové-sady/00020478/b96adf66786d3fa50259644d71f38909",
+  "typ": "Datová sada",
+  "název": {
+    "cs": "Hráze",
+    "en": "Dams"
+  },
+  "popis": {
+    "cs": "Objektem na vodním toku se rozumí příčná překážka, jako je přehradní hráz, hráz malé vodní nádrže nebo rybníka, jez, stupeň znemožňující přirozenou migraci vodních živočichů nebo stavba sloužící   k pozorování stavu povrchových vod umístěná v korytě vodního toku nebo na pozemku sousedícím   s korytem vodního toku. Evidence objektů na vodních tocích je státními podniky Povodí vedena a aktualizována v rámci provozního informačního systému Povodí (dále jen „ISYPO“). Rozsah zveřejňovaných údajů je dán platnou legislativou.",
+    "en": "Structure on a watercourse means a transverse obstruction such as a dam, a small reservoir or pond, a weir, a level preventing the natural migration of aquatic animals, or a structure used to observe the condition of surface waters located in the watercourse channel or on land adjacent to the watercourse channel. The registration of objects on watercourses is kept and updated by the Basin state enterprises within the framework of the operational information system (ISYPO). The scope of published data is determined by the current legislation."
+  },
+  "prvek_rúian": [
+    "https://linked.cuzk.cz/resource/ruian/stat/1"
+  ],
+  "geografické_území": [],
+  "prostorové_pokrytí": [],
+  "klíčové_slovo": {
+    "cs": [
+      "příčné překážky",
+      "objekty na vodních tocích",
+      "vodní hospodářství"
+    ],
+    "en": [
+      "transverse obstacles ",
+      "objects on watercourses",
+      "water management"
+    ]
+  },
+  "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/UPDATE_CONT",
+  "dokumentace": "https://voda.gov.cz/?page=hraze",
+  "téma": [
+    "http://publications.europa.eu/resource/authority/data-theme/AGRI",
+    "http://publications.europa.eu/resource/authority/data-theme/ENVI"
+  ],
+  "koncept_euroVoc": [],
+  "kontaktní_bod": {
+    "typ": "Organizace",
+    "jméno": {
+      "cs": "Ministerstvo zemědělství"
+    },
+    "e-mail": "mailto:helpdesk@mze.cz"
+  },
+  "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/00020478",
+  "distribuce": [
+    {
+      "typ": "Distribuce",
+      "iri": "https://data.gov.cz/zdroj/datové-sady/00020478/b96adf66786d3fa50259644d71f38909/distribuce/0",
+      "název": {
+        "cs": "Hráze",
+        "en": "Dams"
+      },
+      "podmínky_užití": {
+        "typ": "Specifikace podmínek užití",
+        "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
+        "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
+        "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
+        "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
+      },
+      "soubor_ke_stažení": "https://voda.gov.cz/data/ISVSVoda_Hraze.zip",
+      "přístupové_url": "https://voda.gov.cz/data/ISVSVoda_Hraze.zip",
+      "typ_média": "http://www.iana.org/assignments/media-types/application/vnd.shp",
+      "formát": "http://publications.europa.eu/resource/authority/file-type/SHP",
+      "typ_média_komprese": "http://www.iana.org/assignments/media-types/application/zip"
+    }
+  ]
+}
