@@ -1,6 +1,6 @@
 {
   "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
-  "iri": "https://raw.githubusercontent.com/ondrejsilhacek/lkod-min/main/datové-sady/Jezy.jsonld",
+  "iri": "https://data.gov.cz/zdroj/datové-sady/00020478/1e4da1249a914f0ba02a1da2cf66358f",
   "typ": "Datová sada",
   "název": {
     "cs": "Jezy",
@@ -27,7 +27,7 @@
       "water management"
     ]
   },
-  "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/ANNUAL",
+  "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/UPDATE_CONT",
   "dokumentace": "https://voda.gov.cz/?page=jezy",
   "téma": [
     "http://publications.europa.eu/resource/authority/data-theme/AGRI",
