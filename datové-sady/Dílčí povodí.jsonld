@@ -1,0 +1,65 @@
+{
+  "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
+  "iri": "https://data.gov.cz/zdroj/datové-sady/00020478/1e4da1249a914f0ba02a1da2cf66358f",
+  "typ": "Datová sada",
+  "název": {
+    "cs": "Dílčí povodí",
+    "en": "Sub-basins"
+  },
+  "popis": {
+    "cs": "Rozdělení rozvodnic 1. řádu na dílčí povodí.",
+    "en": "Division of 1st order watersheds into sub-basins."
+  },
+  "prvek_rúian": [
+    "https://linked.cuzk.cz/resource/ruian/stat/1"
+  ],
+  "geografické_území": [],
+  "prostorové_pokrytí": [],
+  "klíčové_slovo": {
+    "cs": [
+      "vodní hospodářství",
+      "dílčí povodí"
+    ],
+    "en": [
+      "water management",
+      "sub-basins"
+    ]
+  },
+  "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/IRREG",
+  "dokumentace": "https://voda.gov.cz/?page=dilci-povodi",
+  "téma": [
+    "http://publications.europa.eu/resource/authority/data-theme/AGRI",
+    "http://publications.europa.eu/resource/authority/data-theme/ENVI"
+  ],
+  "koncept_euroVoc": [],
+  "kontaktní_bod": {
+    "typ": "Organizace",
+    "jméno": {
+      "cs": "Ministerstvo zemědělství"
+    },
+    "e-mail": "mailto:helpdesk@mze.cz"
+  },
+  "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/00020478",
+  "distribuce": [
+    {
+      "typ": "Distribuce",
+      "iri": "https://data.gov.cz/zdroj/datové-sady/00020478/1e4da1249a914f0ba02a1da2cf66358f/distribuce/0",
+      "název": {
+        "cs": "Dílčí povodí",
+        "en": "Sub-basins"
+      },
+      "podmínky_užití": {
+        "typ": "Specifikace podmínek užití",
+        "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
+        "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
+        "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
+        "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
+      },
+      "soubor_ke_stažení": "https://voda.gov.cz/data/ISVSVoda_Mezinarodniadilcipovodi.zip",
+      "přístupové_url": "https://voda.gov.cz/data/ISVSVoda_Mezinarodniadilcipovodi.zip",
+      "typ_média": "http://www.iana.org/assignments/media-types/application/vnd.shp",
+      "formát": "http://publications.europa.eu/resource/authority/file-type/SHP",
+      "typ_média_komprese": "http://www.iana.org/assignments/media-types/application/zip"
+    }
+  ]
+}
