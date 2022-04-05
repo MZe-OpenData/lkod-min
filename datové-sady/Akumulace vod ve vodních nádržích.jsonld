@@ -1,6 +1,6 @@
 {
   "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
-  "iri": "https://raw.githubusercontent.com/ondrejsilhacek/lkod-min/main/datové-sady/Akumulace%20vod%20ve%20vodních%20nádržích.jsonld",
+  "iri": "https://data.gov.cz/zdroj/datové-sady/00020478/cd319ab9ff0ab0f45dea67ba1498be12",
   "typ": "Datová sada",
   "název": {
     "cs": "Akumulace vod ve vodních nádržích",
@@ -17,8 +17,8 @@
   "prostorové_pokrytí": [],
   "klíčové_slovo": {
     "cs": [
-      "vodní hospodářství",
-      "akumulace vod"
+      "akumulace vod",
+      "vodní hospodářství"
     ],
     "en": [
       "water management",
@@ -42,7 +42,7 @@
   "distribuce": [
     {
       "typ": "Distribuce",
-      "iri": "https://data.gov.cz/zdroj/datové-sady/00020478/3a06977eb41d4ecfb4c3c06abf7da114/distribuce/0",
+      "iri": "https://data.gov.cz/zdroj/datové-sady/00020478/cd319ab9ff0ab0f45dea67ba1498be12/distribuce/0",
       "název": {
         "cs": "Akumulace vod ve vodních nádržích",
         "en": "Water accumulation in reservoirs"
@@ -56,7 +56,7 @@
       },
       "soubor_ke_stažení": "https://voda.gov.cz/data/ISVSVoda_Akumulace.zip",
       "přístupové_url": "https://voda.gov.cz/data/ISVSVoda_Akumulace.zip",
-      "typ_média": "http://www.iana.org/assignments/media-types/application/vnd.shp",
+      "typ_média": "http://www.iana.org/assignments/media-types/application/zip",
       "formát": "http://publications.europa.eu/resource/authority/file-type/SHP",
       "typ_média_komprese": "http://www.iana.org/assignments/media-types/application/zip"
     }
