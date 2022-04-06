@@ -56,7 +56,7 @@
       },
       "soubor_ke_stažení": "https://voda.gov.cz/data/ISVSVoda_Akumulace.zip",
       "přístupové_url": "https://voda.gov.cz/data/ISVSVoda_Akumulace.zip",
-      "typ_média": "http://www.iana.org/assignments/media-types/application/zip",
+      "typ_média": "http://www.iana.org/assignments/media-types/application/vnd.shp",
       "formát": "http://publications.europa.eu/resource/authority/file-type/SHP",
       "typ_média_komprese": "http://www.iana.org/assignments/media-types/application/zip"
     }
