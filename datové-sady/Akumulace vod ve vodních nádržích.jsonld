@@ -1,6 +1,6 @@
 {
   "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
-  "iri": "https://data.gov.cz/zdroj/datové-sady/00020478/cd319ab9ff0ab0f45dea67ba1498be12",
+  "iri": "https://raw.githubusercontent.com/ondrejsilhacek/lkod-min/main/datové-sady/Akumulace%20vod%20ve%20vodních%20nádržích.jsonld",
   "typ": "Datová sada",
   "název": {
     "cs": "Akumulace vod ve vodních nádržích",
