@@ -1,6 +1,6 @@
 {
   "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
-  "iri": "https://data.gov.cz/zdroj/datové-sady/00020478/953648e1614a8c8ae705633268937bdd",
+  "iri": "https://raw.githubusercontent.com/ondrejsilhacek/lkod-min/main/datové-sady/Dotační%20opatření%20-%20číselník.jsonld",
   "typ": "Datová sada",
   "název": {
     "cs": "Dotační opatření - číselník",
