@@ -1,6 +1,6 @@
 {
   "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
-  "iri": "https://github.com/ondrejsilhacek/lkod-min/raw/main/datov%C3%A9-sady/Plodiny%20-%20%C4%8D%C3%ADseln%C3%ADk.jsonld",
+  "iri": "https://data.gov.cz/zdroj/datové-sady/00020478/c249e13f100e14bff0186fbe4e24f09c",
   "typ": "Datová sada",
   "název": {
     "cs": "Plodiny - číselník",
@@ -23,10 +23,10 @@
       "mze"
     ],
     "en": [
-      "code list",
-      "crops",
       "eagri",
-      "mze"
+      "mze",
+      "code list",
+      "crops"
     ]
   },
   "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/IRREG",
@@ -46,7 +46,7 @@
   "distribuce": [
     {
       "typ": "Distribuce",
-      "iri": "https://data.gov.cz/zdroj/datové-sady/00020478/794040799/distribuce/0",
+      "iri": "https://data.gov.cz/zdroj/datové-sady/00020478/c249e13f100e14bff0186fbe4e24f09c/distribuce/0",
       "podmínky_užití": {
         "typ": "Specifikace podmínek užití",
         "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
@@ -56,7 +56,7 @@
       },
       "soubor_ke_stažení": "https://eagri.cz/ssl/nosso-app/DataKeStazeni/Plodiny/GetXml",
       "přístupové_url": "https://eagri.cz/ssl/nosso-app/DataKeStazeni/Plodiny/GetXml",
-      "typ_média": "http://www.iana.org/assignments/media-types/application/xml",
+      "typ_média": "http://www.iana.org/assignments/media-types/text/xml",
       "formát": "http://publications.europa.eu/resource/authority/file-type/XML",
       "typ_média_komprese": "http://www.iana.org/assignments/media-types/application/zip"
     }
