@@ -1,6 +1,6 @@
 {
   "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
-  "iri": "https://github.com/ondrejsilhacek/lkod-min/raw/main/datov%C3%A9-sady/Hnojiva%20-%20%C4%8D%C3%ADseln%C3%ADk.jsonld",
+  "iri": "https://data.gov.cz/zdroj/datové-sady/00020478/b7bea02be8ad57d9b79cd36478ef6f47",
   "typ": "Datová sada",
   "název": {
     "cs": "Hnojiva - číselník",
@@ -44,7 +44,7 @@
   "distribuce": [
     {
       "typ": "Distribuce",
-      "iri": "https://data.gov.cz/zdroj/datové-sady/00020478/794039426/distribuce/0",
+      "iri": "https://data.gov.cz/zdroj/datové-sady/00020478/b7bea02be8ad57d9b79cd36478ef6f47/distribuce/0",
       "název": {
         "cs": "Hnojiva - číselník",
         "en": "Fertilizers - code list"
@@ -58,7 +58,7 @@
       },
       "soubor_ke_stažení": "https://eagri.cz/ssl/nosso-app/DataKeStazeni/Hnojiva/GetXml",
       "přístupové_url": "https://eagri.cz/ssl/nosso-app/DataKeStazeni/Hnojiva/GetXml",
-      "typ_média": "http://www.iana.org/assignments/media-types/application/xml",
+      "typ_média": "http://www.iana.org/assignments/media-types/text/xml",
       "formát": "http://publications.europa.eu/resource/authority/file-type/XML",
       "typ_média_komprese": "http://www.iana.org/assignments/media-types/application/zip"
     }
