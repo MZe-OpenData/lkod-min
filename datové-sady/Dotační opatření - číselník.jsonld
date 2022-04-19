@@ -1,6 +1,6 @@
 {
   "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
-  "iri": "https://github.com/ondrejsilhacek/lkod-min/raw/main/datov%C3%A9-sady/Dota%C4%8Dn%C3%AD%20opat%C5%99en%C3%AD%20-%20%C4%8D%C3%ADseln%C3%ADk.jsonld",
+  "iri": "https://data.gov.cz/zdroj/datové-sady/00020478/953648e1614a8c8ae705633268937bdd",
   "typ": "Datová sada",
   "název": {
     "cs": "Dotační opatření - číselník",
@@ -23,9 +23,9 @@
       "MZE"
     ],
     "en": [
-      "code list",
-      "subsidies",
       "eagri",
+      "subsidies",
+      "code list",
       "MZE"
     ]
   },
@@ -46,7 +46,7 @@
   "distribuce": [
     {
       "typ": "Distribuce",
-      "iri": "https://data.gov.cz/zdroj/datové-sady/00020478/793615077/distribuce/0",
+      "iri": "https://data.gov.cz/zdroj/datové-sady/00020478/953648e1614a8c8ae705633268937bdd/distribuce/0",
       "název": {
         "cs": "Dotační opatření - číselník",
         "en": "Subsidy measures - code list"
@@ -60,7 +60,7 @@
       },
       "soubor_ke_stažení": "https://eagri.cz/ssl/nosso-app/DataKeStazeni/Opatreni/GetXml",
       "přístupové_url": "https://eagri.cz/ssl/nosso-app/DataKeStazeni/Opatreni/GetXml",
-      "typ_média": "http://www.iana.org/assignments/media-types/application/xml",
+      "typ_média": "http://www.iana.org/assignments/media-types/text/xml",
       "formát": "http://publications.europa.eu/resource/authority/file-type/XML",
       "typ_média_komprese": "http://www.iana.org/assignments/media-types/application/zip"
     }
