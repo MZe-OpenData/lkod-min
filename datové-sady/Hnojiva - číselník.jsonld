@@ -1,6 +1,6 @@
 {
   "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
-  "iri": "https://data.gov.cz/zdroj/datové-sady/00020478/b7bea02be8ad57d9b79cd36478ef6f47",
+  "iri": "https://raw.githubusercontent.com/ondrejsilhacek/lkod-min/main/datové-sady/Hnojiva%20-%20číselník.jsonld",
   "typ": "Datová sada",
   "název": {
     "cs": "Hnojiva - číselník",
