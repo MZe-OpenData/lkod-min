@@ -1,6 +1,6 @@
 {
   "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
-  "iri": "https://data.gov.cz/zdroj/datové-sady/00020478/c249e13f100e14bff0186fbe4e24f09c",
+  "iri": "https://raw.githubusercontent.com/ondrejsilhacek/lkod-min/main/datové-sady/Plodiny%20-%20číselník.jsonld",
   "typ": "Datová sada",
   "název": {
     "cs": "Plodiny - číselník",
