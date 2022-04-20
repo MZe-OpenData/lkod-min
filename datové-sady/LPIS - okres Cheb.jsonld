@@ -1,6 +1,6 @@
 {
   "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
-  "iri": "https://github.com/ondrejsilhacek/lkod-min/raw/main/datov%C3%A9-sady/LPIS%20-%20okres%20Cheb.jsonld",
+  "iri": "https://data.gov.cz/zdroj/datové-sady/00020478/0f871884a7c9557eb8d05358c7e3a50c",
   "typ": "Datová sada",
   "název": {
     "cs": "LPIS - okres Cheb",
@@ -48,10 +48,10 @@
   "distribuce": [
     {
       "typ": "Distribuce",
-      "iri": "https://data.gov.cz/zdroj/datové-sady/00020478/908445605/692bc4efa863ee87ecf33781872cd208/distribuce/0",
+      "iri": "https://data.gov.cz/zdroj/datové-sady/00020478/0f871884a7c9557eb8d05358c7e3a50c/distribuce/0",
       "název": {
-        "cs": "DPB - SHP",
-        "en": "DPB - SHP"
+        "cs": "PB - SHP",
+        "en": "PB - SHP"
       },
       "podmínky_užití": {
         "typ": "Specifikace podmínek užití",
@@ -60,15 +60,15 @@
         "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
         "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
       },
-      "soubor_ke_stažení": "https://eagri.cz/public/app/eagriapp/lpisdata/3402-DPB-SHP.zip",
-      "přístupové_url": "https://eagri.cz/public/app/eagriapp/lpisdata/3402-DPB-SHP.zip",
+      "soubor_ke_stažení": "https://eagri.cz/public/app/eagriapp/lpisdata/3402-PB-SHP.zip",
+      "přístupové_url": "https://eagri.cz/public/app/eagriapp/lpisdata/3402-PB-SHP.zip",
       "typ_média": "http://www.iana.org/assignments/media-types/application/vnd.shp",
       "formát": "http://publications.europa.eu/resource/authority/file-type/SHP",
       "typ_média_komprese": "http://www.iana.org/assignments/media-types/application/zip"
     },
     {
       "typ": "Distribuce",
-      "iri": "https://data.gov.cz/zdroj/datové-sady/00020478/908445605/692bc4efa863ee87ecf33781872cd208/distribuce/1",
+      "iri": "https://data.gov.cz/zdroj/datové-sady/00020478/0f871884a7c9557eb8d05358c7e3a50c/distribuce/1",
       "název": {
         "cs": "OPV - SHP",
         "en": "OPV - SHP"
@@ -88,7 +88,7 @@
     },
     {
       "typ": "Distribuce",
-      "iri": "https://data.gov.cz/zdroj/datové-sady/00020478/908445605/692bc4efa863ee87ecf33781872cd208/distribuce/2",
+      "iri": "https://data.gov.cz/zdroj/datové-sady/00020478/0f871884a7c9557eb8d05358c7e3a50c/distribuce/2",
       "název": {
         "cs": "DPB - XML - historické",
         "en": "DPB - XML - historical"
@@ -98,7 +98,7 @@
         "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
         "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
         "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
-        "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
+        "osobní_údaje": "https://data.gov.cz/podmínky-užití/obsahuje-osobní-údaje/"
       },
       "soubor_ke_stažení": "https://eagri.cz/public/app/eagriapp/lpisdata/3402-DPB-XML-H.zip",
       "přístupové_url": "https://eagri.cz/public/app/eagriapp/lpisdata/3402-DPB-XML-H.zip",
@@ -108,7 +108,7 @@
     },
     {
       "typ": "Distribuce",
-      "iri": "https://data.gov.cz/zdroj/datové-sady/00020478/908445605/692bc4efa863ee87ecf33781872cd208/distribuce/3",
+      "iri": "https://data.gov.cz/zdroj/datové-sady/00020478/0f871884a7c9557eb8d05358c7e3a50c/distribuce/3",
       "název": {
         "cs": "DPB - XML - aktuální",
         "en": "DPB - XML - current"
@@ -118,7 +118,7 @@
         "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
         "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
         "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
-        "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
+        "osobní_údaje": "https://data.gov.cz/podmínky-užití/obsahuje-osobní-údaje/"
       },
       "soubor_ke_stažení": "https://eagri.cz/public/app/eagriapp/lpisdata/3402-DPB-XML-A.zip",
       "přístupové_url": "https://eagri.cz/public/app/eagriapp/lpisdata/3402-DPB-XML-A.zip",
@@ -128,7 +128,27 @@
     },
     {
       "typ": "Distribuce",
-      "iri": "https://data.gov.cz/zdroj/datové-sady/00020478/908445605/692bc4efa863ee87ecf33781872cd208/distribuce/4",
+      "iri": "https://data.gov.cz/zdroj/datové-sady/00020478/0f871884a7c9557eb8d05358c7e3a50c/distribuce/4",
+      "název": {
+        "cs": "DPB - SHP",
+        "en": "DPB - SHP"
+      },
+      "podmínky_užití": {
+        "typ": "Specifikace podmínek užití",
+        "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
+        "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
+        "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
+        "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
+      },
+      "soubor_ke_stažení": "https://eagri.cz/public/app/eagriapp/lpisdata/3402-DPB-SHP.zip",
+      "přístupové_url": "https://eagri.cz/public/app/eagriapp/lpisdata/3402-DPB-SHP.zip",
+      "typ_média": "http://www.iana.org/assignments/media-types/application/vnd.shp",
+      "formát": "http://publications.europa.eu/resource/authority/file-type/SHP",
+      "typ_média_komprese": "http://www.iana.org/assignments/media-types/application/zip"
+    },
+    {
+      "typ": "Distribuce",
+      "iri": "https://data.gov.cz/zdroj/datové-sady/00020478/0f871884a7c9557eb8d05358c7e3a50c/distribuce/5",
       "název": {
         "cs": "EVP - SHP",
         "en": "EVP - SHP"
@@ -142,26 +162,6 @@
       },
       "soubor_ke_stažení": "https://eagri.cz/public/app/eagriapp/lpisdata/3402-EVP-SHP.zip",
       "přístupové_url": "https://eagri.cz/public/app/eagriapp/lpisdata/3402-EVP-SHP.zip",
-      "typ_média": "http://www.iana.org/assignments/media-types/application/vnd.shp",
-      "formát": "http://publications.europa.eu/resource/authority/file-type/SHP",
-      "typ_média_komprese": "http://www.iana.org/assignments/media-types/application/zip"
-    },
-    {
-      "typ": "Distribuce",
-      "iri": "https://data.gov.cz/zdroj/datové-sady/00020478/908445605/692bc4efa863ee87ecf33781872cd208/distribuce/5",
-      "název": {
-        "cs": "PB - SHP",
-        "en": "PB - SHP"
-      },
-      "podmínky_užití": {
-        "typ": "Specifikace podmínek užití",
-        "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
-        "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
-        "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
-        "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
-      },
-      "soubor_ke_stažení": "https://eagri.cz/public/app/eagriapp/lpisdata/3402-PB-SHP.zip",
-      "přístupové_url": "https://eagri.cz/public/app/eagriapp/lpisdata/3402-PB-SHP.zip",
       "typ_média": "http://www.iana.org/assignments/media-types/application/vnd.shp",
       "formát": "http://publications.europa.eu/resource/authority/file-type/SHP",
       "typ_média_komprese": "http://www.iana.org/assignments/media-types/application/zip"
