@@ -1,6 +1,6 @@
 {
   "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
-  "iri": "https://data.gov.cz/zdroj/datové-sady/00020478/d2b37fcb110dfd13bec465ff9ed205c1",
+  "iri": "https://raw.githubusercontent.com/ondrejsilhacek/lkod-min/main/datové-sady/LPIS%20-%20okres%20Havlíčkův%20Brod.jsonld",
   "typ": "Datová sada",
   "název": {
     "cs": "LPIS - okres Havlíčkův Brod",
