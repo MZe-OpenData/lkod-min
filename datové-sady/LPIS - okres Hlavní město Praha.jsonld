@@ -1,6 +1,6 @@
 {
   "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
-  "iri": "https://data.gov.cz/zdroj/datové-sady/00020478/d4d4a83fe7ff902db698fad7f3d5a86c",
+  "iri": "https://raw.githubusercontent.com/ondrejsilhacek/lkod-min/main/datové-sady/LPIS%20-%20okres%20Hlavní%20město%20Praha.jsonld",
   "typ": "Datová sada",
   "název": {
     "cs": "LPIS - okres Hlavní město Praha",
