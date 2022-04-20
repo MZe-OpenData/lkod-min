@@ -1,6 +1,6 @@
 {
   "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
-  "iri": "https://data.gov.cz/zdroj/datové-sady/00020478/4f39e9c9f25cf57f3abc6f2823663ad1",
+  "iri": "https://raw.githubusercontent.com/ondrejsilhacek/lkod-min/main/datové-sady/LPIS%20-%20okres%20Chrudim.jsonld",
   "typ": "Datová sada",
   "název": {
     "cs": "LPIS - okres Chrudim",
