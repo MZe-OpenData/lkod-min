@@ -1,6 +1,6 @@
 {
   "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
-  "iri": "https://data.gov.cz/zdroj/datové-sady/00020478/bf26b8d22928334c2d4f45d3c3951374",
+  "iri": "https://raw.githubusercontent.com/ondrejsilhacek/lkod-min/main/datové-sady/LPIS%20-%20okres%20Pelhřimov.jsonld",
   "typ": "Datová sada",
   "název": {
     "cs": "LPIS - okres Pelhřimov",
