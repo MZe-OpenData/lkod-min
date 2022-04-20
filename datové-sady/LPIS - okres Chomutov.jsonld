@@ -1,6 +1,6 @@
 {
   "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
-  "iri": "https://data.gov.cz/zdroj/datové-sady/00020478/8f1d3787f0730b395d59f675d1cc5c7c",
+  "iri": "https://raw.githubusercontent.com/ondrejsilhacek/lkod-min/main/datové-sady/LPIS%20-%20okres%20Chomutov.jsonld",
   "typ": "Datová sada",
   "název": {
     "cs": "LPIS - okres Chomutov",
