@@ -1,6 +1,6 @@
 {
   "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
-  "iri": "https://data.gov.cz/zdroj/datové-sady/00020478/f2c556135795095eb9ed14f0b399b78e",
+  "iri": "https://raw.githubusercontent.com/ondrejsilhacek/lkod-min/main/datové-sady/LPIS%20-%20okres%20Žďár%20nad%20Sázavou.jsonld",
   "typ": "Datová sada",
   "název": {
     "cs": "LPIS - okres Žďár nad Sázavou",
