@@ -1,6 +1,6 @@
 {
   "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
-  "iri": "https://data.gov.cz/zdroj/datové-sady/00020478/f2578542c5469fc354c6c5303ccb760a",
+  "iri": "https://raw.githubusercontent.com/ondrejsilhacek/lkod-min/main/datové-sady/LPIS%20-%20okres%20Vsetín.jsonld",
   "typ": "Datová sada",
   "název": {
     "cs": "LPIS - okres Vsetín",
