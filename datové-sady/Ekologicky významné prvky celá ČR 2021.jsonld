@@ -1,6 +1,6 @@
 {
   "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
-  "iri": "https://data.gov.cz/zdroj/datové-sady/00020478/f3de6c8888043773e6bf10dbfd574c62",
+  "iri": "https://raw.githubusercontent.com/ondrejsilhacek/lkod-min/main/datové-sady/Ekologicky%20významné%20prvky%20celá%20ČR%202021.jsonld",
   "typ": "Datová sada",
   "název": {
     "cs": "Ekologicky významné prvky celá ČR 2021",
