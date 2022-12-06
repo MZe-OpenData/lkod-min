@@ -1,0 +1,82 @@
+{
+  "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
+  "iri": "https://data.gov.cz/zdroj/datové-sady/00020478/f3de6c8888043773e6bf10dbfd574c62",
+  "typ": "Datová sada",
+  "název": {
+    "cs": "Ekologicky významné prvky celá ČR 2021",
+    "en": "Ecologically Important Elements (2021)"
+  },
+  "popis": {
+    "cs": "Datová sada obsahuje data EVP (ekologicky významných prvků) v rozsahu celé České republiky ve formátu SHP (shapefile).",
+    "en": "The data set contains spatial data of Ecologically Important Elements (EVP) of the whole Czech Republic in the SHP (shapefile) format."
+  },
+  "prvek_rúian": [
+    "https://linked.cuzk.cz/resource/ruian/stat/1"
+  ],
+  "geografické_území": [],
+  "prostorové_pokrytí": [],
+  "časové_pokrytí": {
+    "typ": "Časový interval",
+    "konec": "2021-12-31"
+  },
+  "klíčové_slovo": {
+    "cs": [
+      "EVP",
+      "LPIS",
+      "celá čr"
+    ],
+    "en": [
+      "EVP",
+      "LPIS",
+      "ecologically important elements"
+    ]
+  },
+  "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/NEVER",
+  "dokumentace": "https://eagri.cz/public/web/mze/farmar/LPIS/uzivatelske-prirucky/prirucky-pro-verejny-lpis/export-dat-lpis.html",
+  "téma": [
+    "http://publications.europa.eu/resource/authority/data-theme/AGRI"
+  ],
+  "koncept_euroVoc": [],
+  "kontaktní_bod": {
+    "typ": "Organizace",
+    "jméno": {
+      "cs": "Ministerstvo zemědělství"
+    },
+    "e-mail": "mailto:helpdesk@mze.cz"
+  },
+  "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/00020478",
+  "distribuce": [
+    {
+      "typ": "Distribuce",
+      "iri": "https://data.gov.cz/zdroj/datové-sady/00020478/f3de6c8888043773e6bf10dbfd574c62/distribuce/0",
+      "podmínky_užití": {
+        "typ": "Specifikace podmínek užití",
+        "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
+        "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
+        "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
+        "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
+      },
+      "soubor_ke_stažení": "https://eagri.cz/public/app/eagriapp/Files/evp_2021-12-31_202211071528_epsg5514.zip",
+      "přístupové_url": "https://eagri.cz/public/app/eagriapp/Files/evp_2021-12-31_202211071528_epsg5514.zip",
+      "typ_média": "http://www.iana.org/assignments/media-types/application/vnd.shp",
+      "formát": "http://publications.europa.eu/resource/authority/file-type/SHP",
+      "typ_média_komprese": "http://www.iana.org/assignments/media-types/application/zip"
+    },
+    {
+      "typ": "Distribuce",
+      "iri": "https://data.gov.cz/zdroj/datové-sady/00020478/f3de6c8888043773e6bf10dbfd574c62/distribuce/1",
+      "podmínky_užití": {
+        "typ": "Specifikace podmínek užití",
+        "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
+        "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
+        "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
+        "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
+      },
+      "soubor_ke_stažení": "https://eagri.cz/public/app/eagriapp/Files/evp_2021-12-31_202211071528_epsg4258.zip",
+      "přístupové_url": "https://eagri.cz/public/app/eagriapp/Files/evp_2021-12-31_202211071528_epsg4258.zip",
+      "typ_média": "http://www.iana.org/assignments/media-types/application/SGML",
+      "formát": "http://publications.europa.eu/resource/authority/file-type/GMZ",
+      "typ_média_komprese": "http://www.iana.org/assignments/media-types/application/zip"
+    }
+  ]
+}
