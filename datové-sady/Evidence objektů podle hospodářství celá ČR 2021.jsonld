@@ -1,6 +1,6 @@
 {
   "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
-  "iri": "https://data.gov.cz/zdroj/datové-sady/00020478/daac9b10569c54f812e9eceae378e2bc",
+  "iri": "https://raw.githubusercontent.com/ondrejsilhacek/lkod-min/main/datové-sady/Evidence%20objektů%20podle%20hospodářství%20celá%20ČR%202021.jsonld",
   "typ": "Datová sada",
   "název": {
     "cs": "Evidence objektů podle hospodářství celá ČR 2021",
