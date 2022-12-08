@@ -1,6 +1,6 @@
 {
   "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
-  "iri": "https://raw.githubusercontent.com/ondrejsilhacek/lkod-min/main/datové-sady/Evidence%20objektů%20podle%20hospodářství%20celá%20ČR%202021.jsonld",
+  "iri": "https://data.gov.cz/zdroj/datové-sady/00020478/daac9b10569c54f812e9eceae378e2bc",
   "typ": "Datová sada",
   "název": {
     "cs": "Evidence objektů podle hospodářství celá ČR 2021",
@@ -8,7 +8,7 @@
   },
   "popis": {
     "cs": "Evidence objektů podle hospodářství evidované na základě zákona č. 252/1997 Sb., o zemědělství. Rozdělují se na trvalé, vodní a ostatní objekty.\nDatová sada obsahuje objekty hospodářství v rozsahu celé České republiky ve formátu SHP (shapefile) k 31.12.2021.",
-    "en": "Records of agricultural and aquaculture facilities registered on the basis of Act No. 252/1997 Coll., on Agriculture. They are divided into permanent, aquatic and other objects.\nDataset is in the extent of the whole Czech Republic in SHP (shapefile) format as of 31.12.2021."
+    "en": "Records of agricultural and aquaculture facilities registered on the basis of Act No. 252/1997 Coll., on Agriculture. They are divided into permanent, aquatic and other objects.\nThe dataset contains spatial data in the extent of the entire Czech Republic in SHP (shapefile) format as of 31.12.2021."
   },
   "prvek_rúian": [
     "https://linked.cuzk.cz/resource/ruian/stat/1"
@@ -26,8 +26,8 @@
       "evidence objektů podle hospodářství"
     ],
     "en": [
-      "LPIS",
-      "Agricultural and aquaculture facilities"
+      "Agricultural and aquaculture facilities",
+      "LPIS"
     ]
   },
   "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/NEVER",
@@ -46,7 +46,7 @@
   "distribuce": [
     {
       "typ": "Distribuce",
-      "iri": "https://data.gov.cz/zdroj/datové-sady/00020478/f3de6c8888043773e6bf10dbfd574c62/distribuce/0",
+      "iri": "https://data.gov.cz/zdroj/datové-sady/00020478/daac9b10569c54f812e9eceae378e2bc/distribuce/0",
       "podmínky_užití": {
         "typ": "Specifikace podmínek užití",
         "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
@@ -62,7 +62,7 @@
     },
     {
       "typ": "Distribuce",
-      "iri": "https://data.gov.cz/zdroj/datové-sady/00020478/f3de6c8888043773e6bf10dbfd574c62/distribuce/1",
+      "iri": "https://data.gov.cz/zdroj/datové-sady/00020478/daac9b10569c54f812e9eceae378e2bc/distribuce/1",
       "podmínky_užití": {
         "typ": "Specifikace podmínek užití",
         "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
