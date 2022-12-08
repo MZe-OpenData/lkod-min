@@ -1,6 +1,6 @@
 {
   "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
-  "iri": "https://raw.githubusercontent.com/ondrejsilhacek/lkod-min/main/datové-sady/Ekologicky%20významné%20prvky%20celá%20ČR%202021.jsonld",
+  "iri": "https://data.gov.cz/zdroj/datové-sady/00020478/d8579621bbd2af8fe186ce2c677c69b5",
   "typ": "Datová sada",
   "název": {
     "cs": "Ekologicky významné prvky celá ČR 2021",
@@ -8,7 +8,7 @@
   },
   "popis": {
     "cs": "Datová sada obsahuje data EVP (ekologicky významných prvků) v rozsahu celé České republiky ve formátu SHP (shapefile).",
-    "en": "The data set contains spatial data of Ecologically Important Elements (EVP) of the whole Czech Republic in the SHP (shapefile) format."
+    "en": "The data set contains spatial data of Ecologically Important Elements (EVP) in the extent of the entire Czech Republic in the SHP (shapefile) format."
   },
   "prvek_rúian": [
     "https://linked.cuzk.cz/resource/ruian/stat/1"
@@ -21,13 +21,13 @@
   },
   "klíčové_slovo": {
     "cs": [
-      "EVP",
       "LPIS",
+      "EVP",
       "celá čr"
     ],
     "en": [
-      "EVP",
       "LPIS",
+      "EVP",
       "ecologically important elements"
     ]
   },
@@ -48,7 +48,7 @@
   "distribuce": [
     {
       "typ": "Distribuce",
-      "iri": "https://data.gov.cz/zdroj/datové-sady/00020478/f3de6c8888043773e6bf10dbfd574c62/distribuce/0",
+      "iri": "https://data.gov.cz/zdroj/datové-sady/00020478/d8579621bbd2af8fe186ce2c677c69b5/distribuce/0",
       "podmínky_užití": {
         "typ": "Specifikace podmínek užití",
         "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
@@ -64,7 +64,7 @@
     },
     {
       "typ": "Distribuce",
-      "iri": "https://data.gov.cz/zdroj/datové-sady/00020478/f3de6c8888043773e6bf10dbfd574c62/distribuce/1",
+      "iri": "https://data.gov.cz/zdroj/datové-sady/00020478/d8579621bbd2af8fe186ce2c677c69b5/distribuce/1",
       "podmínky_užití": {
         "typ": "Specifikace podmínek užití",
         "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
