@@ -1,6 +1,6 @@
 {
   "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
-  "iri": "https://raw.githubusercontent.com/ondrejsilhacek/lkod-min/main/datové-sady/Ekologicky%20významné%20prvky%20celá%20ČR%202021.jsonld",
+  "iri": "https://data.gov.cz/zdroj/datové-sady/00020478/d8579621bbd2af8fe186ce2c677c69b5",
   "typ": "Datová sada",
   "název": {
     "cs": "Ekologicky významné prvky celá ČR 2021",
@@ -56,10 +56,10 @@
         "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
         "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
       },
-      "soubor_ke_stažení": "https://eagri.cz/public/app/eagriapp/Files/evp_2021-12-31_202211071528_epsg5514.zip",
-      "přístupové_url": "https://eagri.cz/public/app/eagriapp/Files/evp_2021-12-31_202211071528_epsg5514.zip",
-      "typ_média": "http://www.iana.org/assignments/media-types/application/vnd.shp",
-      "formát": "http://publications.europa.eu/resource/authority/file-type/SHP",
+      "soubor_ke_stažení": "https://eagri.cz/public/app/eagriapp/Files/evp_2021-12-31_202211071528_epsg4258.zip",
+      "přístupové_url": "https://eagri.cz/public/app/eagriapp/Files/evp_2021-12-31_202211071528_epsg4258.zip",
+      "typ_média": "http://www.iana.org/assignments/media-types/application/SGML",
+      "formát": "http://publications.europa.eu/resource/authority/file-type/GMZ",
       "typ_média_komprese": "http://www.iana.org/assignments/media-types/application/zip"
     },
     {
@@ -72,10 +72,10 @@
         "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
         "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
       },
-      "soubor_ke_stažení": "https://eagri.cz/public/app/eagriapp/Files/evp_2021-12-31_202211071528_epsg4258.zip",
-      "přístupové_url": "https://eagri.cz/public/app/eagriapp/Files/evp_2021-12-31_202211071528_epsg4258.zip",
-      "typ_média": "http://www.iana.org/assignments/media-types/application/SGML",
-      "formát": "http://publications.europa.eu/resource/authority/file-type/GMZ",
+      "soubor_ke_stažení": "https://eagri.cz/public/app/eagriapp/Files/evp_2021-12-31_202211071528_epsg5514.zip",
+      "přístupové_url": "https://eagri.cz/public/app/eagriapp/Files/evp_2021-12-31_202211071528_epsg5514.zip",
+      "typ_média": "http://www.iana.org/assignments/media-types/application/vnd.shp",
+      "formát": "http://publications.europa.eu/resource/authority/file-type/SHP",
       "typ_média_komprese": "http://www.iana.org/assignments/media-types/application/zip"
     }
   ]
