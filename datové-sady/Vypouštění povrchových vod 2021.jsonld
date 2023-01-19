@@ -1,6 +1,6 @@
 {
   "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
-  "iri": "https://data.gov.cz/zdroj/datové-sady/00020478/3ccc205b6f03324c4fa4f07700cba770",
+  "iri": "https://raw.githubusercontent.com/ondrejsilhacek/lkod-min/main/datové-sady/Vypouštění%20povrchových%20vod%202021.jsonld",
   "typ": "Datová sada",
   "název": {
     "cs": "Vypouštění povrchových vod 2021",
