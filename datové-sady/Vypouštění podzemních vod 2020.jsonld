@@ -1,6 +1,6 @@
 {
   "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
-  "iri": "https://data.gov.cz/zdroj/datové-sady/00020478/c25be01ce114947820c345946b2b536d",
+  "iri": "https://raw.githubusercontent.com/ondrejsilhacek/lkod-min/main/datové-sady/Vypouštění%20podzemních%20vod%202020.jsonld",
   "typ": "Datová sada",
   "název": {
     "cs": "Vypouštění podzemních vod 2020",
