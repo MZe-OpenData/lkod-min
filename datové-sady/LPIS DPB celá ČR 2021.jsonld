@@ -1,14 +1,14 @@
 {
   "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
-  "iri": "https://raw.githubusercontent.com/ondrejsilhacek/lkod-min/main/datové-sady/LPIS%20DPB%20celá%20ČR%202021.jsonld",
+  "iri": "https://data.gov.cz/zdroj/datové-sady/00020478/fe42c2a15c1a823280db903ae9b51e36",
   "typ": "Datová sada",
   "název": {
     "cs": "LPIS DPB celá ČR 2021",
-    "en": "LPIS Farmer's blocks 2021 (The whole Czech republic) "
+    "en": "LPIS Farmer's blocks 2021 "
   },
   "popis": {
     "cs": "Datová sada obsahuje prostorová data dílů půdních bloků (DPB) v rozsahu celé České republiky ve formátu SHP (shapefile). \nDPB je základní jednotkou LPIS, který představuje souvislou plochu zemědělsky obhospodařované půdy užívanou právě jedním uživatelem s jednou zemědělskou\nkulturou.",
-    "en": "The data set contains spatial data of Farmer's blocks (DPB) of the whole Czech Republic in the SHP (shapefile) format.\nFarmer's block is the basic unit of LPIS, which represents a continuous area of agricultural land used by just one user with one agricultural culture."
+    "en": "The data set contains spatial data of Farmer's blocks (DPB) in the extent of the entire Czech Republic in the SHP (shapefile) format.\nFarmer's block is the basic unit of LPIS, which represents a continuous area of agricultural land used by just one user with one agricultural culture."
   },
   "prvek_rúian": [
     "https://linked.cuzk.cz/resource/ruian/stat/1"
@@ -49,7 +49,11 @@
   "distribuce": [
     {
       "typ": "Distribuce",
-      "iri": "https://data.gov.cz/zdroj/datové-sady/00020478/bca84075de1409fc3a60ee2cbe54518a/distribuce/0",
+      "iri": "https://data.gov.cz/zdroj/datové-sady/00020478/fe42c2a15c1a823280db903ae9b51e36/distribuce/0",
+      "název": {
+        "cs": "LPIS DPB celá ČR 2021 (SHP EPSG:5514)",
+        "en": "LPIS Farmer's blocks 2021 (SHP EPSG:5514)"
+      },
       "podmínky_užití": {
         "typ": "Specifikace podmínek užití",
         "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
@@ -62,6 +66,25 @@
       "typ_média": "http://www.iana.org/assignments/media-types/application/vnd.shp",
       "formát": "http://publications.europa.eu/resource/authority/file-type/SHP",
       "typ_média_komprese": "http://www.iana.org/assignments/media-types/application/zip"
+    },
+    {
+      "typ": "Distribuce",
+      "iri": "https://data.gov.cz/zdroj/datové-sady/00020478/fe42c2a15c1a823280db903ae9b51e36/distribuce/1",
+      "název": {
+        "cs": "LPIS DPB celá ČR 2021 (GML EPSG:4258)",
+        "en": "LPIS Farmer's blocks 2021 (GML EPSG:4258)"
+      },
+      "podmínky_užití": {
+        "typ": "Specifikace podmínek užití",
+        "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
+        "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
+        "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
+        "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
+      },
+      "soubor_ke_stažení": "https://portal.mze.cz/ssl/app/eagriapp/Files/insp_202211141334_epsg4258.zip",
+      "přístupové_url": "https://portal.mze.cz/ssl/app/eagriapp/Files/insp_202211141334_epsg4258.zip",
+      "typ_média": "http://www.iana.org/assignments/media-types/application/SGML",
+      "formát": "http://publications.europa.eu/resource/authority/file-type/GMZ"
     }
   ]
 }
