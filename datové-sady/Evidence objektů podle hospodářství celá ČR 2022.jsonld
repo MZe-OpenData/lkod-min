@@ -1,0 +1,76 @@
+{
+  "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
+  "iri": "https://data.gov.cz/zdroj/datové-sady/00020478/daac9b10569c54f812e9eceae378e2bc",
+  "typ": "Datová sada",
+  "název": {
+    "cs": "Evidence objektů podle hospodářství celá ČR 2022",
+    "en": "Agricultural and aquaculture facilities (2022)"
+  },
+  "popis": {
+    "cs": "Evidence objektů podle hospodářství evidované na základě zákona č. 252/1997 Sb., o zemědělství. Rozdělují se na trvalé, vodní a ostatní objekty.\nDatová sada obsahuje objekty hospodářství v rozsahu celé České republiky ve formátu SHP (shapefile) k 31.12.2021.",
+    "en": "Records of agricultural and aquaculture facilities registered on the basis of Act No. 252/1997 Coll., on Agriculture. They are divided into permanent, aquatic and other objects.\nThe dataset contains spatial data in the extent of the entire Czech Republic in SHP (shapefile) format as of 31.12.2021."
+  },
+  "prvek_rúian": [
+    "https://linked.cuzk.cz/resource/ruian/stat/1"
+  ],
+  "geografické_území": [],
+  "prostorové_pokrytí": [],
+  "klíčové_slovo": {
+    "cs": [
+      "LPIS",
+      "celá čr",
+      "evidence objektů podle hospodářství"
+    ],
+    "en": [
+      "Agricultural and aquaculture facilities",
+      "LPIS"
+    ]
+  },
+  "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/NEVER",
+  "téma": [
+    "http://publications.europa.eu/resource/authority/data-theme/AGRI"
+  ],
+  "koncept_euroVoc": [],
+  "kontaktní_bod": {
+    "typ": "Organizace",
+    "jméno": {
+      "cs": "Ministerstvo zemědělství"
+    },
+    "e-mail": "mailto:helpdesk@mze.cz"
+  },
+  "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/00020478",
+  "distribuce": [
+    {
+      "typ": "Distribuce",
+      "iri": "https://data.gov.cz/zdroj/datové-sady/00020478/daac9b10569c54f812e9eceae378e2bc/distribuce/0",
+      "podmínky_užití": {
+        "typ": "Specifikace podmínek užití",
+        "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
+        "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
+        "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
+        "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
+      },
+      "soubor_ke_stažení": "https://eagri.cz/public/app/eagriapp/Files/insp_202301200849_epsg5514.zip",
+      "přístupové_url": "https://eagri.cz/public/app/eagriapp/Files/insp_202301200849_epsg5514.zip",
+      "typ_média": "http://www.iana.org/assignments/media-types/application/vnd.shp",
+      "formát": "http://publications.europa.eu/resource/authority/file-type/SHP",
+      "typ_média_komprese": "http://www.iana.org/assignments/media-types/application/zip"
+    },
+    {
+      "typ": "Distribuce",
+      "iri": "https://data.gov.cz/zdroj/datové-sady/00020478/daac9b10569c54f812e9eceae378e2bc/distribuce/1",
+      "podmínky_užití": {
+        "typ": "Specifikace podmínek užití",
+        "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
+        "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
+        "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
+        "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
+      },
+      "soubor_ke_stažení": "https://eagri.cz/public/app/eagriapp/Files/isnp_202301200849_epsg4258.zip",
+      "přístupové_url": "https://eagri.cz/public/app/eagriapp/Files/isnp_202301200849_epsg4258.zip",
+      "typ_média": "http://www.iana.org/assignments/media-types/application/SGML",
+      "formát": "http://publications.europa.eu/resource/authority/file-type/GMZ",
+      "typ_média_komprese": "http://www.iana.org/assignments/media-types/application/zip"
+    }
+  ]
+}
