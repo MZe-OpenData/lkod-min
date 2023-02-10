@@ -1,6 +1,6 @@
 {
   "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
-  "iri": "https://raw.githubusercontent.com/ondrejsilhacek/lkod-min/main/datové-sady/LPIS%20DPB%20celá%20ČR%202022.jsonld",
+  "iri": "https://data.gov.cz/zdroj/datové-sady/00020478/549ccbd784164f7367bdaf418c9564ef",
   "typ": "Datová sada",
   "název": {
     "cs": "LPIS DPB celá ČR 2022",
@@ -49,7 +49,7 @@
   "distribuce": [
     {
       "typ": "Distribuce",
-      "iri": "https://data.gov.cz/zdroj/datové-sady/00020478/fe42c2a15c1a823280db903ae9b51e36/distribuce/0",
+      "iri": "https://data.gov.cz/zdroj/datové-sady/00020478/549ccbd784164f7367bdaf418c9564ef/distribuce/0",
       "podmínky_užití": {
         "typ": "Specifikace podmínek užití",
         "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
@@ -57,11 +57,30 @@
         "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
         "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
       },
-      "soubor_ke_stažení": "https://portal.mze.cz/ssl/app/eagriapp/LpisData/20221231-CR-DPB-SHP.zip",
-      "přístupové_url": "https://portal.mze.cz/ssl/app/eagriapp/LpisData/20221231-CR-DPB-SHP.zip",
+      "soubor_ke_stažení": "https://eagri.cz/public/app/eagriapp/LpisData/20221231-CR-DPB-SHP.zip",
+      "přístupové_url": "https://eagri.cz/public/app/eagriapp/LpisData/20221231-CR-DPB-SHP.zip",
       "typ_média": "http://www.iana.org/assignments/media-types/application/vnd.shp",
       "formát": "http://publications.europa.eu/resource/authority/file-type/SHP",
       "typ_média_komprese": "http://www.iana.org/assignments/media-types/application/zip"
+    },
+    {
+      "typ": "Distribuce",
+      "iri": "https://data.gov.cz/zdroj/datové-sady/00020478/549ccbd784164f7367bdaf418c9564ef/distribuce/1",
+      "název": {
+        "cs": "LPIS DPB celá ČR 2022 (GML EPSG:4258)",
+        "en": "LPIS Farmer's blocks 2022 (GML EPSG:4258)"
+      },
+      "podmínky_užití": {
+        "typ": "Specifikace podmínek užití",
+        "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
+        "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
+        "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
+        "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
+      },
+      "soubor_ke_stažení": "https://eagri.cz/public/app/eagriapp/Files/dpb_verejny_gui_2022-12-31_202301271343_epsg4258.zip",
+      "přístupové_url": "https://eagri.cz/public/app/eagriapp/Files/dpb_verejny_gui_2022-12-31_202301271343_epsg4258.zip",
+      "typ_média": "http://www.iana.org/assignments/media-types/application/SGML",
+      "formát": "http://publications.europa.eu/resource/authority/file-type/GMZ"
     }
   ]
 }
