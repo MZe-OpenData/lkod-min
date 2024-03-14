@@ -48,7 +48,7 @@
   "distribuce": [
     {
       "typ": "Distribuce",
-      "iri": "https://data.gov.cz/zdroj/datové-sady/00020478/19a4d94e133353ce15f0494cee214564/distribuce/0",
+      "iri": "https://raw.githubusercontent.com/MZe-OpenData/lkod-min/main/datové-sady/Úřední%20deska%20MZe.jsonld/distribuce/0",
       "název": {
         "cs": "Úřední deska ve formátu JSON-LD"
       },
@@ -59,8 +59,8 @@
         "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
         "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
       },
-      "soubor_ke_stažení": "https://eagri.cz/public/web/mze/uredni-desky/ministerstvo-zemedelstvi/ministerstvo-zemedelstvi/index.json",
-      "přístupové_url": "https://eagri.cz/public/web/mze/uredni-desky/ministerstvo-zemedelstvi/ministerstvo-zemedelstvi/index.json",
+      "soubor_ke_stažení": "https://eagri.cz/public/portal/mze/uredni-desky/ministerstvo-zemedelstvi.json",
+      "přístupové_url": "https://eagri.cz/public/portal/mze/uredni-desky/ministerstvo-zemedelstvi.json",
       "typ_média": "http://www.iana.org/assignments/media-types/application/json",
       "formát": "http://publications.europa.eu/resource/authority/file-type/JSON_LD",
       "schéma": "https://ofn.gov.cz/úřední-desky/2021-07-20/schémata/úřední-deska.json"
