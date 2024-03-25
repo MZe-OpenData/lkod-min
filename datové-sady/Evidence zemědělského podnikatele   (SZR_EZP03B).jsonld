@@ -1,6 +1,6 @@
 {
   "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
-  "iri": "https://github.com/ondrejsilhacek/lkod-min/raw/main/datov%C3%A9-sady/Evidence%20zem%C4%9Bd%C4%9Blsk%C3%A9ho%20podnikatele%20%20%20(SZR_EZP03B).jsonld",
+  "iri": "https://github.com/MZe-OpenData/lkod-min/raw/main/datov%C3%A9-sady/Evidence%20zem%C4%9Bd%C4%9Blsk%C3%A9ho%20podnikatele%20%20%20(SZR_EZP03B).jsonld",
   "typ": "Datová sada",
   "název": {
     "cs": "Evidence zemědělského podnikatele / (SZR_EZP03B)",
@@ -43,7 +43,7 @@
     "jméno": {
       "cs": "Ministerstvo zemědělství"
     },
-    "e-mail": "mailto:helpdesk@mze.cz"
+    "e-mail": "mailto:helpdesk@mze.gov.cz"
   },
   "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/00020478",
   "distribuce": [
