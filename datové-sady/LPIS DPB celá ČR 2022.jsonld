@@ -1,6 +1,6 @@
 {
   "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
-  "iri": "https://raw.githubusercontent.com/ondrejsilhacek/lkod-min/main/datové-sady/LPIS%20DPB%20celá%20ČR%202022.jsonld",
+  "iri": "https://raw.githubusercontent.com/MZe-OpenData/lkod-min/main/datové-sady/LPIS%20DPB%20celá%20ČR%202022.jsonld",
   "typ": "Datová sada",
   "název": {
     "cs": "LPIS DPB celá ČR 2022",
