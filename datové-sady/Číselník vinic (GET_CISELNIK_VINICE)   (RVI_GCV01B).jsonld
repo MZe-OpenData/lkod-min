@@ -1,6 +1,6 @@
 {
   "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
-  "iri": "https://github.com/MZe-OpenData/lkod-min/raw/main/datov%C3%A9-sady/%C4%8C%C3%ADseln%C3%ADk%20vinic%20(GET_CISELNIK_VINICE)%20%20%20(RVI_GCV01B).jsonld",
+  "iri": "https://raw.githubusercontent.com/MZe-OpenData/lkod-min/raw/main/datov%C3%A9-sady/%C4%8C%C3%ADseln%C3%ADk%20vinic%20(GET_CISELNIK_VINICE)%20%20%20(RVI_GCV01B).jsonld",
   "typ": "Datová sada",
   "název": {
     "cs": "Číselník vinic (GET_CISELNIK_VINICE) / (RVI_GCV01B)",
