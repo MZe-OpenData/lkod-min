@@ -1,6 +1,6 @@
 {
   "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
-  "iri": "https://github.com/MZe-OpenData/lkod-min/raw/main/datov%C3%A9-sady/Informace%20o%20odr%C5%AFd%C3%A1ch%20%20%20(RVI_NOU01B).jsonld",
+  "iri": "https://raw.githubusercontent.com/MZe-OpenData/lkod-min/raw/main/datov%C3%A9-sady/Informace%20o%20odr%C5%AFd%C3%A1ch%20%20%20(RVI_NOU01B).jsonld",
   "typ": "Datová sada",
   "název": {
     "cs": "Informace o odrůdách / (RVI_NOU01B)",
