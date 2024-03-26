@@ -1,6 +1,6 @@
 {
   "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
-  "iri": "https://github.com/MZe-OpenData/lkod-min/raw/main/datov%C3%A9-sady/Seznam%20d%C3%ADl%C5%AF%20p%C5%AFdn%C3%ADch%20blok%C5%AF%20(GET%20DPB)%20(LPI_GDP01B).jsonld",
+  "iri": "https://raw.githubusercontent.com/MZe-OpenData/lkod-min/raw/main/datov%C3%A9-sady/Seznam%20d%C3%ADl%C5%AF%20p%C5%AFdn%C3%ADch%20blok%C5%AF%20(GET%20DPB)%20(LPI_GDP01B).jsonld",
   "typ": "Datová sada",
   "název": {
     "cs": "Seznam dílů půdních bloků (GET DPB) (LPI_GDP01B)",
