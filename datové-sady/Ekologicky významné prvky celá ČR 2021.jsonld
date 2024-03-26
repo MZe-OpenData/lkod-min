@@ -58,8 +58,8 @@
       },
       "soubor_ke_stažení": "https://eagri.cz/public/app/eagriapp/Files/evp_2021-12-31_202211071528_epsg4258.zip",
       "přístupové_url": "https://eagri.cz/public/app/eagriapp/Files/evp_2021-12-31_202211071528_epsg4258.zip",
-      "typ_média": "http://www.iana.org/assignments/media-types/application/SGML",
-      "formát": "http://publications.europa.eu/resource/authority/file-type/GMZ",
+      "typ_média": "http://www.iana.org/assignments/media-types/application/vnd.shp",
+      "formát": "http://publications.europa.eu/resource/authority/file-type/SHP",
       "typ_média_komprese": "http://www.iana.org/assignments/media-types/application/zip"
     },
     {
@@ -74,8 +74,8 @@
       },
       "soubor_ke_stažení": "https://eagri.cz/public/app/eagriapp/Files/evp_2021-12-31_202211071528_epsg5514.zip",
       "přístupové_url": "https://eagri.cz/public/app/eagriapp/Files/evp_2021-12-31_202211071528_epsg5514.zip",
-      "typ_média": "http://www.iana.org/assignments/media-types/application/vnd.shp",
-      "formát": "http://publications.europa.eu/resource/authority/file-type/SHP",
+      "typ_média": "http://www.iana.org/assignments/media-types/application/SGML",
+      "formát": "http://publications.europa.eu/resource/authority/file-type/GMZ",
       "typ_média_komprese": "http://www.iana.org/assignments/media-types/application/zip"
     }
   ]
