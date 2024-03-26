@@ -1,6 +1,6 @@
 {
   "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
-  "iri": "https://github.com/ondrejsilhacek/lkod-min/raw/main/datov%C3%A9-sady/%C4%8C%C3%ADseln%C3%ADk%20%C5%A1kodliv%C3%BDch%20organism%C5%AF%20(GET_CISELNIK_SO)%20%20%20(EPH_GSO01B).jsonld",
+  "iri": "https://github.com/MZe-OpenData/lkod-min/raw/main/datov%C3%A9-sady/%C4%8C%C3%ADseln%C3%ADk%20%C5%A1kodliv%C3%BDch%20organism%C5%AF%20(GET_CISELNIK_SO)%20%20%20(EPH_GSO01B).jsonld",
   "typ": "Datová sada",
   "název": {
     "cs": "Číselník škodlivých organismů (GET_CISELNIK_SO) / (EPH_GSO01B)",
@@ -36,7 +36,7 @@
     ]
   },
   "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/UPDATE_CONT",
-  "dokumentace": "https://eagri.cz/public/web/mze/farmar/elektronicka-vymena-dat/prehled-vystavenych-sluzeb/EPH_eph-gso01b.html",
+  "dokumentace": "https://eagri.cz/public/web/mze/farmar/elektronicka-vymena-dat/prehled-vystavenych-sluzeb/EPH/eph-gso01b.html",
   "téma": [
     "http://publications.europa.eu/resource/authority/data-theme/AGRI"
   ],
@@ -46,7 +46,7 @@
     "jméno": {
       "cs": "Ministerstvo zemědělství"
     },
-    "e-mail": "mailto:helpdesk@mze.cz"
+    "e-mail": "mailto:helpdesk@mze.gov.cz"
   },
   "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/00020478",
   "distribuce": [
