@@ -1,6 +1,6 @@
 {
   "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
-  "iri": "https://raw.githubusercontent.com/ondrejsilhacek/lkod-min/main/datové-sady/RDM%20-%20Číselník%20režimů%20podpory%20%20%20(RDM_CRP01B).jsonld",
+  "iri": "https://raw.githubusercontent.com/MZe-OpenData/lkod-min/main/datové-sady/RDM%20-%20Číselník%20režimů%20podpory%20%20%20(RDM_CRP01B).jsonld",
   "typ": "Datová sada",
   "název": {
     "cs": "RDM - Číselník režimů podpory / (RDM_CRP01B)",
@@ -36,7 +36,7 @@
     ]
   },
   "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/UPDATE_CONT",
-  "dokumentace": "https://eagri.cz/public/web/mze/farmar/elektronicka-vymena-dat/prehled-vystavenych-sluzeb/RDM_rdm-crp01b.html",
+  "dokumentace": "https://eagri.cz/public/web/mze/farmar/elektronicka-vymena-dat/prehled-vystavenych-sluzeb/RDM/rdm-crp01b.html",
   "téma": [
     "http://publications.europa.eu/resource/authority/data-theme/AGRI"
   ],
@@ -46,7 +46,7 @@
     "jméno": {
       "cs": "Ministerstvo zemědělství"
     },
-    "e-mail": "mailto:helpdesk@mze.cz"
+    "e-mail": "mailto:helpdesk@mze.gov.cz"
   },
   "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/00020478",
   "distribuce": [
