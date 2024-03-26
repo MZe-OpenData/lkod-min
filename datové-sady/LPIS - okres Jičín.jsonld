@@ -1,6 +1,6 @@
 {
   "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
-  "iri": "https://raw.githubusercontent.com/ondrejsilhacek/lkod-min/main/datové-sady/LPIS%20-%20okres%20Jičín.jsonld",
+  "iri": "https://raw.githubusercontent.com/MZe-OpenData/lkod-min/main/datové-sady/LPIS%20-%20okres%20Jičín.jsonld",
   "typ": "Datová sada",
   "název": {
     "cs": "LPIS - okres Jičín",
@@ -42,7 +42,7 @@
     "jméno": {
       "cs": "Ministerstvo zemědělství"
     },
-    "e-mail": "mailto:helpdesk@mze.cz"
+    "e-mail": "mailto:helpdesk@mze.gov.cz"
   },
   "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/00020478",
   "distribuce": [
