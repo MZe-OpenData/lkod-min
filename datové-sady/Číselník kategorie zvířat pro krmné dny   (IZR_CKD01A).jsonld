@@ -1,6 +1,6 @@
 {
   "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
-  "iri": "https://raw.githubusercontent.com/ondrejsilhacek/lkod-min/main/datové-sady/Číselník%20kategorie%20zvířat%20pro%20krmné%20dny%20%20%20(IZR_CKD01A).jsonld",
+  "iri": "https://raw.githubusercontent.com/MZe-OpenData/lkod-min/main/datové-sady/Číselník%20kategorie%20zvířat%20pro%20krmné%20dny%20%20%20(IZR_CKD01A).jsonld",
   "typ": "Datová sada",
   "název": {
     "cs": "Číselník kategorie zvířat pro krmné dny / (IZR_CKD01A)",
@@ -34,7 +34,7 @@
     ]
   },
   "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/UPDATE_CONT",
-  "dokumentace": "https://eagri.cz/public/web/mze/farmar/elektronicka-vymena-dat/prehled-vystavenych-sluzeb/IZR_izr-ckd01a.html",
+  "dokumentace": "https://eagri.cz/public/web/mze/farmar/elektronicka-vymena-dat/prehled-vystavenych-sluzeb/IZR/izr-ckd01a.html",
   "téma": [
     "http://publications.europa.eu/resource/authority/data-theme/AGRI"
   ],
@@ -44,7 +44,7 @@
     "jméno": {
       "cs": "Ministerstvo zemědělství"
     },
-    "e-mail": "mailto:helpdesk@mze.cz"
+    "e-mail": "mailto:helpdesk@mze.gov.cz"
   },
   "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/00020478",
   "distribuce": [
