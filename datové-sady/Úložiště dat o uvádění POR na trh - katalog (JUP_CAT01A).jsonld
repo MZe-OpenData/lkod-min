@@ -1,6 +1,6 @@
 {
   "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
-  "iri": "https://raw.githubusercontent.com/ondrejsilhacek/lkod-min/main/datové-sady/Úložiště%20dat%20o%20uvádění%20POR%20na%20trh%20-%20katalog%20(JUP_CAT01A).jsonld",
+  "iri": "https://raw.githubusercontent.com/MZe-OpenData/lkod-min/main/datové-sady/Úložiště%20dat%20o%20uvádění%20POR%20na%20trh%20-%20katalog%20(JUP_CAT01A).jsonld",
   "typ": "Datová sada",
   "název": {
     "cs": "Úložiště dat o uvádění POR na trh - katalog / (JUP_CAT01A)",
@@ -46,7 +46,7 @@
     "jméno": {
       "cs": "Ministerstvo zemědělství"
     },
-    "e-mail": "mailto:helpdesk@mze.cz"
+    "e-mail": "mailto:helpdesk@mze.gov.cz"
   },
   "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/00020478",
   "distribuce": [
