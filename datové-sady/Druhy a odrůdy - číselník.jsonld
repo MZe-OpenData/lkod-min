@@ -7,8 +7,8 @@
     "en": "Species and varieties - code list "
   },
   "popis": {
-    "cs": "Datová sada obsahuje číselník druhů a odrůd ve formátu XML. Všechny číselníky jsou dostupné na této adrese: https://eagri.cz/ssl/nosso-app/DataKeStazeni/ ",
-    "en": "The data set contains a code list of species and varieties in XML format. All code lists are available at this address: https://eagri.cz/ssl/nosso-app/DataKeStazeni/ "
+    "cs": "Datová sada obsahuje číselník druhů a odrůd ve formátu XML. Všechny číselníky jsou dostupné na této adrese: https://mze.gov.cz/ssl/nosso-app/DataKeStazeni/ ",
+    "en": "The data set contains a code list of species and varieties in XML format. All code lists are available at this address: https://mze.gov.cz/ssl/nosso-app/DataKeStazeni/ "
   },
   "prvek_rúian": [
     "https://linked.cuzk.cz/resource/ruian/stat/1"
@@ -32,7 +32,7 @@
     ]
   },
   "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/IRREG",
-  "dokumentace": "https://eagri.cz/public/web/mze/farmar/data-ke-stazeni/",
+  "dokumentace": "https://mze.gov.cz/public/web/mze/farmar/data-ke-stazeni/",
   "téma": [
     "http://publications.europa.eu/resource/authority/data-theme/AGRI"
   ],
@@ -56,8 +56,8 @@
         "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
         "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
       },
-      "soubor_ke_stažení": "https://eagri.cz/ssl/nosso-app/DataKeStazeni/Odruda/GetXml",
-      "přístupové_url": "https://eagri.cz/ssl/nosso-app/DataKeStazeni/Odruda/GetXml",
+      "soubor_ke_stažení": "https://mze.gov.cz/ssl/nosso-app/DataKeStazeni/Odruda/GetXml",
+      "přístupové_url": "https://mze.gov.cz/ssl/nosso-app/DataKeStazeni/Odruda/GetXml",
       "typ_média": "http://www.iana.org/assignments/media-types/text/xml",
       "formát": "http://publications.europa.eu/resource/authority/file-type/XML",
       "typ_média_komprese": "http://www.iana.org/assignments/media-types/application/zip"
