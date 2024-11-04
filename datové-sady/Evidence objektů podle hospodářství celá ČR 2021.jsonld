@@ -54,8 +54,8 @@
         "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
         "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
       },
-      "soubor_ke_stažení": "https://eagri.cz/public/app/eagriapp/Files/insp_202211141334_epsg5514.zip",
-      "přístupové_url": "https://eagri.cz/public/app/eagriapp/Files/insp_202211141334_epsg5514.zip",
+      "soubor_ke_stažení": "https://mze.gov.cz/public/app/eagriapp/Files/insp_202211141334_epsg5514.zip",
+      "přístupové_url": "https://mze.gov.cz/public/app/eagriapp/Files/insp_202211141334_epsg5514.zip",
       "typ_média": "http://www.iana.org/assignments/media-types/application/vnd.shp",
       "formát": "http://publications.europa.eu/resource/authority/file-type/SHP",
       "typ_média_komprese": "http://www.iana.org/assignments/media-types/application/zip"
@@ -70,8 +70,8 @@
         "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
         "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
       },
-      "soubor_ke_stažení": "https://eagri.cz/public/app/eagriapp/Files/insp_202211141334_epsg4258.zip",
-      "přístupové_url": "https://eagri.cz/public/app/eagriapp/Files/insp_202211141334_epsg4258.zip",
+      "soubor_ke_stažení": "https://mze.gov.cz/public/app/eagriapp/Files/insp_202211141334_epsg4258.zip",
+      "přístupové_url": "https://mze.gov.cz/public/app/eagriapp/Files/insp_202211141334_epsg4258.zip",
       "typ_média": "http://www.iana.org/assignments/media-types/application/SGML",
       "formát": "http://publications.europa.eu/resource/authority/file-type/GMZ",
       "typ_média_komprese": "http://www.iana.org/assignments/media-types/application/zip"
