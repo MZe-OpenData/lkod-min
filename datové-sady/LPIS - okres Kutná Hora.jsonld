@@ -32,7 +32,7 @@
     ]
   },
   "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/WEEKLY",
-  "dokumentace": "https://eagri.cz/public/web/mze/farmar/LPIS/uzivatelske-prirucky/prirucky-pro-verejny-lpis/export-dat-lpis.html",
+  "dokumentace": "https://mze.gov.cz/public/web/mze/farmar/LPIS/uzivatelske-prirucky/prirucky-pro-verejny-lpis/export-dat-lpis.html",
   "téma": [
     "http://publications.europa.eu/resource/authority/data-theme/AGRI"
   ],
@@ -60,8 +60,8 @@
         "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
         "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
       },
-      "soubor_ke_stažení": "https://eagri.cz/public/app/eagriapp/lpisdata/3205-DPB-SHP.zip",
-      "přístupové_url": "https://eagri.cz/public/app/eagriapp/lpisdata/3205-DPB-SHP.zip",
+      "soubor_ke_stažení": "https://mze.gov.cz/public/app/eagriapp/lpisdata/3205-DPB-SHP.zip",
+      "přístupové_url": "https://mze.gov.cz/public/app/eagriapp/lpisdata/3205-DPB-SHP.zip",
       "typ_média": "http://www.iana.org/assignments/media-types/application/vnd.shp",
       "formát": "http://publications.europa.eu/resource/authority/file-type/SHP",
       "typ_média_komprese": "http://www.iana.org/assignments/media-types/application/zip"
@@ -80,8 +80,8 @@
         "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
         "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
       },
-      "soubor_ke_stažení": "https://eagri.cz/public/app/eagriapp/lpisdata/3205-EVP-SHP.zip",
-      "přístupové_url": "https://eagri.cz/public/app/eagriapp/lpisdata/3205-EVP-SHP.zip",
+      "soubor_ke_stažení": "https://mze.gov.cz/public/app/eagriapp/lpisdata/3205-EVP-SHP.zip",
+      "přístupové_url": "https://mze.gov.cz/public/app/eagriapp/lpisdata/3205-EVP-SHP.zip",
       "typ_média": "http://www.iana.org/assignments/media-types/application/vnd.shp",
       "formát": "http://publications.europa.eu/resource/authority/file-type/SHP",
       "typ_média_komprese": "http://www.iana.org/assignments/media-types/application/zip"
@@ -100,8 +100,8 @@
         "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
         "osobní_údaje": "https://data.gov.cz/podmínky-užití/obsahuje-osobní-údaje/"
       },
-      "soubor_ke_stažení": "https://eagri.cz/public/app/eagriapp/lpisdata/3205-DPB-XML-H.zip",
-      "přístupové_url": "https://eagri.cz/public/app/eagriapp/lpisdata/3205-DPB-XML-H.zip",
+      "soubor_ke_stažení": "https://mze.gov.cz/public/app/eagriapp/lpisdata/3205-DPB-XML-H.zip",
+      "přístupové_url": "https://mze.gov.cz/public/app/eagriapp/lpisdata/3205-DPB-XML-H.zip",
       "typ_média": "http://www.iana.org/assignments/media-types/application/xml",
       "formát": "http://publications.europa.eu/resource/authority/file-type/XML",
       "typ_média_komprese": "http://www.iana.org/assignments/media-types/application/zip"
@@ -120,8 +120,8 @@
         "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
         "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
       },
-      "soubor_ke_stažení": "https://eagri.cz/public/app/eagriapp/lpisdata/3205-PB-SHP.zip",
-      "přístupové_url": "https://eagri.cz/public/app/eagriapp/lpisdata/3205-PB-SHP.zip",
+      "soubor_ke_stažení": "https://mze.gov.cz/public/app/eagriapp/lpisdata/3205-PB-SHP.zip",
+      "přístupové_url": "https://mze.gov.cz/public/app/eagriapp/lpisdata/3205-PB-SHP.zip",
       "typ_média": "http://www.iana.org/assignments/media-types/application/vnd.shp",
       "formát": "http://publications.europa.eu/resource/authority/file-type/SHP",
       "typ_média_komprese": "http://www.iana.org/assignments/media-types/application/zip"
@@ -140,8 +140,8 @@
         "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
         "osobní_údaje": "https://data.gov.cz/podmínky-užití/obsahuje-osobní-údaje/"
       },
-      "soubor_ke_stažení": "https://eagri.cz/public/app/eagriapp/lpisdata/3205-DPB-XML-A.zip",
-      "přístupové_url": "https://eagri.cz/public/app/eagriapp/lpisdata/3205-DPB-XML-A.zip",
+      "soubor_ke_stažení": "https://mze.gov.cz/public/app/eagriapp/lpisdata/3205-DPB-XML-A.zip",
+      "přístupové_url": "https://mze.gov.cz/public/app/eagriapp/lpisdata/3205-DPB-XML-A.zip",
       "typ_média": "http://www.iana.org/assignments/media-types/application/xml",
       "formát": "http://publications.europa.eu/resource/authority/file-type/XML",
       "typ_média_komprese": "http://www.iana.org/assignments/media-types/application/zip"
@@ -160,8 +160,8 @@
         "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
         "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
       },
-      "soubor_ke_stažení": "https://eagri.cz/public/app/eagriapp/lpisdata/3205-OPV-SHP.zip",
-      "přístupové_url": "https://eagri.cz/public/app/eagriapp/lpisdata/3205-OPV-SHP.zip",
+      "soubor_ke_stažení": "https://mze.gov.cz/public/app/eagriapp/lpisdata/3205-OPV-SHP.zip",
+      "přístupové_url": "https://mze.gov.cz/public/app/eagriapp/lpisdata/3205-OPV-SHP.zip",
       "typ_média": "http://www.iana.org/assignments/media-types/application/vnd.shp",
       "formát": "http://publications.europa.eu/resource/authority/file-type/SHP",
       "typ_média_komprese": "http://www.iana.org/assignments/media-types/application/zip"
