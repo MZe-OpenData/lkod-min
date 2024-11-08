@@ -8,7 +8,7 @@
   },
   "popis": {
     "cs": "Datová sada obsahuje prostorová data půdních bloků, dílů půdních bloků, osázených ploch vinic a ekologicky významných prvků ve formátu SHP. Dále obsahuje aktuální a historická data dílů půdních bloků ve formátu XML. DPB - Díly půdních bloků, PB - Půdní bloky, OPV - Osázená plocha vinic, EVP - Ekologicky významné prvky\n",
-    "en": "The data set contains spatial data of soil blocks, farmer's blocks, vineyards and ecologically important elements in SHP format. It also contains current and historical data of farmer's blocks in XML format. DPB - Farmer's blocks, PB - Soil blocks, OPV - Vineyards, EVP - Ecologically important elements "
+    "en": "The data set contains spatial data of physical blocks, farmer's blocks, vineyards and ecologically important elements (landscape features) in SHP format. It also contains current and historical data of farmer's blocks in XML format. DPB - Farmer's blocks, PB - Physical blocks, OPV - Vineyards, EVP - Ecologically important elements (landscape features)"
   },
   "prvek_rúian": [
     "https://linked.cuzk.cz/resource/ruian/okres/3702"
@@ -24,11 +24,11 @@
       "PB"
     ],
     "en": [
-      "soil blocks",
+      "physical blocks",
       "LPIS",
       "vineyards",
       "farmer's blocks",
-      "ecologically important elements"
+      "ecologically important elements (landscape features)"
     ]
   },
   "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/WEEKLY",
