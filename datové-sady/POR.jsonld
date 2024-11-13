@@ -7,8 +7,8 @@
     "en": "Plant protection products "
   },
   "popis": {
-    "cs": "Datová sada obsahuje data z registru povolených přípravků na ochranu rostlin, který vede Ústřední kontrolní a zkušební ústav zemědělský (ÚKZÚZ).\n\nDatabáze zahrnuje přípravky registrované v České republice a souběžně dovážené přípravky na ochranu rostlin podle zákona č. 326/2004 Sb., o rostlinolékařské péči. \n\nData jsou ve formátu XLS a XML. Údaje o přípravcích jsou také dostupné prostřednictvím datových služeb (webservices - EPH_GCP01F) ve formátu XML - více informací zde: http://eagri.cz/public/web/mze/farmar/elektronicka-vymena-dat/prehled-vystavenych-sluzeb/#eph ",
-    "en": "The data set contains data from the register of authorized plant protection products maintained by the Central Institute for Supervising and Testing in Agriculture (ÚKZÚZ).\n\nThe database includes products registered in the Czech Republic and concurrently imported plant protection products according to Act No. 326/2004 Coll., on phytosanitary care.\n\nThe data is in XLS and XML format. Data on products are also available through data services (webservices - EPH_GCP01F) in XML format - more information here: http://eagri.cz/public/web/mze/farmar/elektronicka-vymena-dat/prehled-vystavenych-sluzeb/ #eph "
+    "cs": "Datová sada obsahuje data z registru povolených přípravků na ochranu rostlin, který vede Ústřední kontrolní a zkušební ústav zemědělský (ÚKZÚZ).\n\nDatabáze zahrnuje přípravky registrované v České republice a souběžně dovážené přípravky na ochranu rostlin podle zákona č. 326/2004 Sb., o rostlinolékařské péči. \n\nData jsou ve formátu XLS a XML. Údaje o přípravcích jsou také dostupné prostřednictvím datových služeb (webservices - EPH_GCP01F) ve formátu XML - více informací zde: http://mze.gov.cz/public/web/mze/farmar/elektronicka-vymena-dat/prehled-vystavenych-sluzeb/#eph ",
+    "en": "The data set contains data from the register of authorized plant protection products maintained by the Central Institute for Supervising and Testing in Agriculture (ÚKZÚZ).\n\nThe database includes products registered in the Czech Republic and concurrently imported plant protection products according to Act No. 326/2004 Coll., on phytosanitary care.\n\nThe data is in XLS and XML format. Data on products are also available through data services (webservices - EPH_GCP01F) in XML format - more information here: http://mze.gov.cz/public/web/mze/farmar/elektronicka-vymena-dat/prehled-vystavenych-sluzeb/ #eph "
   },
   "prvek_rúian": [
     "https://linked.cuzk.cz/resource/ruian/stat/1"
@@ -30,7 +30,7 @@
     ]
   },
   "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/DAILY",
-  "dokumentace": "https://eagri.cz/public/app/eagriapp/POR/",
+  "dokumentace": "https://mze.gov.cz/public/app/eagriapp/POR/",
   "téma": [
     "http://publications.europa.eu/resource/authority/data-theme/AGRI"
   ],
@@ -54,8 +54,8 @@
         "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
         "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
       },
-      "soubor_ke_stažení": "https://eagri.cz/public/app/eagriapp/POR/export.xml",
-      "přístupové_url": "https://eagri.cz/public/app/eagriapp/POR/export.xml",
+      "soubor_ke_stažení": "https://mze.gov.cz/public/app/eagriapp/POR/export.xml",
+      "přístupové_url": "https://mze.gov.cz/public/app/eagriapp/POR/export.xml",
       "typ_média": "http://www.iana.org/assignments/media-types/text/xml",
       "formát": "http://publications.europa.eu/resource/authority/file-type/XML"
     },
@@ -69,8 +69,8 @@
         "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
         "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
       },
-      "soubor_ke_stažení": "https://eagri.cz/public/app/eagriapp/POR/export.xlsx",
-      "přístupové_url": "https://eagri.cz/public/app/eagriapp/POR/export.xlsx",
+      "soubor_ke_stažení": "https://mze.gov.cz/public/app/eagriapp/POR/export.xlsx",
+      "přístupové_url": "https://mze.gov.cz/public/app/eagriapp/POR/export.xlsx",
       "typ_média": "http://www.iana.org/assignments/media-types/application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
       "formát": "http://publications.europa.eu/resource/authority/file-type/XLSX"
     }
