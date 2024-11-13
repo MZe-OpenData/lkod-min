@@ -34,7 +34,7 @@
     ]
   },
   "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/UPDATE_CONT",
-  "dokumentace": "https://eagri.cz/public/web/mze/farmar/elektronicka-vymena-dat/prehled-vystavenych-sluzeb/IZR/izr-pro01b.html",
+  "dokumentace": "https://mze.gov.cz/public/web/mze/farmar/elektronicka-vymena-dat/prehled-vystavenych-sluzeb/IZR/izr-pro01b.html",
   "téma": [
     "http://publications.europa.eu/resource/authority/data-theme/AGRI"
   ],
@@ -62,11 +62,11 @@
         "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
         "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
       },
-      "přístupové_url": "https://eagri.cz/ssl/nosso-app/EPO/WS/v2Online/vOKOsrv.ashx",
+      "přístupové_url": "https://mze.gov.cz/ssl/nosso-app/EPO/WS/v2Online/vOKOsrv.ashx",
       "přístupová_služba": {
         "typ": "Datová služba",
-        "přístupový_bod": "https://eagri.cz/ssl/nosso-app/EPO/WS/v2Online/vOKOsrv.ashx",
-        "popis_přístupového_bodu": "https://eagri.cz/ssl/nosso-app/EPO/WS/Online/vOKOsrv.aspx?SERVICEID=IZR_PRO01B",
+        "přístupový_bod": "https://mze.gov.cz/ssl/nosso-app/EPO/WS/v2Online/vOKOsrv.ashx",
+        "popis_přístupového_bodu": "https://mze.gov.cz/ssl/nosso-app/EPO/WS/Online/vOKOsrv.aspx?SERVICEID=IZR_PRO01B",
         "iri": "https://data.gov.cz/zdroj/datové-sady/00020478/884750419/distribuce/0/přístupová-služba",
         "název": {
           "cs": "Provozovny (IZR_PRO01B)",
