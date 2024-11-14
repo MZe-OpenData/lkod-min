@@ -13,10 +13,10 @@
     "kontaktní_bod": {
         "typ": "Organizace",
         "jméno": {
-          "cs": "Martin Havlíček",
-          "en": "Martin Havlicek"
+          "cs": "Ondřej Tesař",
+          "en": "Ondrej Tesar"
         },
-        "e-mail": "mailto:martin.havlicek@mze.cz"
+        "e-mail": "mailto:ondrej.tesar@mze.gov.cz"
     },
     "domovská_stránka": "https://data.gov.cz",
     "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/00020478",
