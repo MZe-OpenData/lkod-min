@@ -54,8 +54,8 @@
         "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
         "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
       },
-      "soubor_ke_stažení": "https://eagri.cz/public/web/cpi/uredni-deska/ceska-plemenarska-inspekce/index.json",
-      "přístupové_url": "https://eagri.cz/public/web/cpi/uredni-deska/ceska-plemenarska-inspekce/index.json",
+      "soubor_ke_stažení": "https://mze.gov.cz/public/web/cpi/uredni-deska/ceska-plemenarska-inspekce/index.json",
+      "přístupové_url": "https://mze.gov.cz/public/web/cpi/uredni-deska/ceska-plemenarska-inspekce/index.json",
       "typ_média": "http://www.iana.org/assignments/media-types/application/json",
       "formát": "http://publications.europa.eu/resource/authority/file-type/JSON_LD",
       "schéma": "https://ofn.gov.cz/úřední-desky/2021-07-20/schémata/úřední-deska.json"
