@@ -4,11 +4,11 @@
   "typ": "Datová sada",
   "název": {
     "cs": "LPIS DPB celá ČR 2023",
-    "en": "LPIS Farmer's blocks 2023 (The whole Czech Republic) "
+    "en": "LPIS Farmer's blocks 2023"
   },
   "popis": {
     "cs": "Datová sada obsahuje prostorová data dílů půdních bloků (DPB) v rozsahu celé České republiky ve formátu SHP (shapefile). \nDPB je základní jednotkou LPIS, který představuje souvislou plochu zemědělsky obhospodařované půdy užívanou právě jedním uživatelem s jednou zemědělskou\nkulturou.",
-    "en": "The data set contains spatial data of Farmer's blocks (DPB) of the whole Czech Republic in the SHP (shapefile) format.\nFarmer's block is the basic unit of LPIS, which represents a continuous area of agricultural land used by just one user with one agricultural culture."
+    "en": "The data set contains spatial data of Farmer's blocks (DPB) in the extent of the entire Czech Republic in the SHP (shapefile) format.\nFarmer's block is the basic unit of LPIS, which represents a continuous area of agricultural land used by just one user with one agricultural culture."
   },
   "prvek_rúian": [
     "https://linked.cuzk.cz/resource/ruian/stat/1"
@@ -24,12 +24,12 @@
     "cs": [
       "DPB",
       "verejny LPIS",
-      "celá čr"
+      "celá ČR"
     ],
     "en": [
       "public LPIS",
-      "the whole Czech Republic",
-      "farmer's blocks"
+      "farmer's blocks",
+      "the whole Czech Republic"
     ]
   },
   "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/NEVER",
@@ -43,13 +43,17 @@
     "jméno": {
       "cs": "Ministerstvo zemědělství"
     },
-    "e-mail": "mailto:helpdesk@mze.cz"
+    "e-mail": "mailto:helpdesk@mze.gov.cz"
   },
   "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/00020478",
   "distribuce": [
     {
       "typ": "Distribuce",
       "iri": "https://raw.githubusercontent.com/MZe-OpenData/lkod-min/main/datové-sady/LPIS%20DPB%20celá%20ČR%202023.jsonld/distribuce/0",
+      "název": {
+        "cs": "LPIS DPB celá ČR 2023 (SHP EPSG:5514)",
+        "en": "LPIS Farmer's blocks 2023 (SHP EPSG:5514)"
+      },
       "podmínky_užití": {
         "typ": "Specifikace podmínek užití",
         "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
@@ -63,3 +67,5 @@
       "formát": "http://publications.europa.eu/resource/authority/file-type/SHP",
       "typ_média_komprese": "http://www.iana.org/assignments/media-types/application/zip"
     }
+  ]
+}
