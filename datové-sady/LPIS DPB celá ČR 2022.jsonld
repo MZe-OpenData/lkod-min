@@ -4,7 +4,7 @@
   "typ": "Datová sada",
   "název": {
     "cs": "LPIS DPB celá ČR 2022",
-    "en": "LPIS Farmer's blocks 2022 (The whole Czech republic) "
+    "en": "LPIS Farmer's blocks 2022 (The whole Czech Republic)"
   },
   "popis": {
     "cs": "Datová sada obsahuje prostorová data dílů půdních bloků (DPB) v rozsahu celé České republiky ve formátu SHP (shapefile). \nDPB je základní jednotkou LPIS, který představuje souvislou plochu zemědělsky obhospodařované půdy užívanou právě jedním uživatelem s jednou zemědělskou\nkulturou.",
@@ -22,14 +22,14 @@
   },
   "klíčové_slovo": {
     "cs": [
+      "veřejný LPIS",
       "DPB",
-      "verejny LPIS",
-      "celá čr"
+      "celá ČR"
     ],
     "en": [
       "public LPIS",
-      "the whole czech republic",
-      "farmer's blocks"
+      "farmer's blocks",
+      "the whole Czech Republic"
     ]
   },
   "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/NEVER",
@@ -43,13 +43,17 @@
     "jméno": {
       "cs": "Ministerstvo zemědělství"
     },
-    "e-mail": "mailto:helpdesk@mze.cz"
+    "e-mail": "mailto:helpdesk@mze.gov.cz"
   },
   "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/00020478",
   "distribuce": [
     {
       "typ": "Distribuce",
       "iri": "https://raw.githubusercontent.com/MZe-OpenData/lkod-min/main/datové-sady/LPIS%20DPB%20celá%20ČR%202022.jsonld/distribuce/0",
+      "název": {
+        "cs": "LPIS DPB celá ČR 2022 (SHP EPSG:5514)",
+        "en": "LPIS Farmer's blocks 2022 (SHP EPSG:5514)"
+      },
       "podmínky_užití": {
         "typ": "Specifikace podmínek užití",
         "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
