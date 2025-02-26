@@ -4,11 +4,11 @@
   "typ": "Datová sada",
   "název": {
     "cs": "LPIS DPB celá ČR 2023",
-    "en": "LPIS Farmer's blocks 2023"
+    "en": "LPIS Farmer's blocks 2023 (The whole Czech Republic) "
   },
   "popis": {
-    "cs": "Datová sada obsahuje prostorová data dílů půdních bloků (DPB) v rozsahu celé České republiky ve formátu SHP (shapefile). \nDPB je základní jednotkou LPIS, který představuje souvislou plochu zemědělsky obhospodařované půdy užívanou právě jedním uživatelem s jednou zemědělskou\nkulturou.",
-    "en": "The data set contains spatial data of Farmer's blocks (DPB) in the extent of the entire Czech Republic in the SHP (shapefile) format.\nFarmer's block is the basic unit of LPIS, which represents a continuous area of agricultural land used by just one user with one agricultural culture."
+    "cs": "Datová sada obsahuje prostorová data dílů půdních bloků (DPB) v rozsahu celé České republiky ve formátu SHP (shapefile).\nDPB je základní jednotkou LPIS, který představuje souvislou plochu zemědělsky obhospodařované půdy užívanou právě jedním uživatelem s jednou zemědělskou\nkulturou.",
+    "en": "The data set contains spatial data of Farmer's blocks (DPB) of the whole Czech Republic in the SHP (shapefile) format.\nFarmer's block is the basic unit of LPIS, which represents a continuous area of agricultural land used by just one user with one agricultural culture."
   },
   "prvek_rúian": [
     "https://linked.cuzk.cz/resource/ruian/stat/1"
@@ -22,8 +22,8 @@
   },
   "klíčové_slovo": {
     "cs": [
+      "veřejný LPIS",
       "DPB",
-      "verejny LPIS",
       "celá ČR"
     ],
     "en": [
