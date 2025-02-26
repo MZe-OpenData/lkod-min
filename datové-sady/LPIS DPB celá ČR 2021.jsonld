@@ -4,7 +4,7 @@
   "typ": "Datová sada",
   "název": {
     "cs": "LPIS DPB celá ČR 2021",
-    "en": "LPIS Farmer's blocks 2021"
+    "en": "LPIS Farmer's blocks 2021 (The whole Czech Republic)"
   },
   "popis": {
     "cs": "Datová sada obsahuje prostorová data dílů půdních bloků (DPB) v rozsahu celé České republiky ve formátu SHP (shapefile).\nDPB je základní jednotkou LPIS, který představuje souvislou plochu zemědělsky obhospodařované půdy užívanou právě jedním uživatelem s jednou zemědělskou\nkulturou.",
