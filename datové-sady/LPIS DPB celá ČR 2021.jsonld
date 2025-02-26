@@ -1,13 +1,13 @@
 {
-  "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
+  "@context": "https://ofn.gov.cz/dcat-ap-cz-rozhraní-katalogů-otevřených-dat/2024-05-28/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
   "iri": "https://raw.githubusercontent.com/MZe-OpenData/lkod-min/main/datové-sady/LPIS%20DPB%20celá%20ČR%202021.jsonld",
   "typ": "Datová sada",
   "název": {
     "cs": "LPIS DPB celá ČR 2021",
-    "en": "LPIS Farmer's blocks 2021 "
+    "en": "LPIS Farmer's blocks 2021"
   },
   "popis": {
-    "cs": "Datová sada obsahuje prostorová data dílů půdních bloků (DPB) v rozsahu celé České republiky ve formátu SHP (shapefile). \nDPB je základní jednotkou LPIS, který představuje souvislou plochu zemědělsky obhospodařované půdy užívanou právě jedním uživatelem s jednou zemědělskou\nkulturou.",
+    "cs": "Datová sada obsahuje prostorová data dílů půdních bloků (DPB) v rozsahu celé České republiky ve formátu SHP (shapefile).\nDPB je základní jednotkou LPIS, který představuje souvislou plochu zemědělsky obhospodařované půdy užívanou právě jedním uživatelem s jednou zemědělskou\nkulturou.",
     "en": "The data set contains spatial data of Farmer's blocks (DPB) in the extent of the entire Czech Republic in the SHP (shapefile) format.\nFarmer's block is the basic unit of LPIS, which represents a continuous area of agricultural land used by just one user with one agricultural culture."
   },
   "prvek_rúian": [
@@ -22,14 +22,14 @@
   },
   "klíčové_slovo": {
     "cs": [
+      "veřejný LPIS",
       "DPB",
-      "verejny LPIS",
-      "celá čr"
+      "celá ČR"
     ],
     "en": [
       "public LPIS",
-      "the whole czech republic",
-      "farmer's blocks"
+      "farmer's blocks",
+      "the whole Czech Republic"
     ]
   },
   "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/NEVER",
@@ -49,7 +49,7 @@
   "distribuce": [
     {
       "typ": "Distribuce",
-      "iri": "https://data.gov.cz/zdroj/datové-sady/00020478/fe42c2a15c1a823280db903ae9b51e36/distribuce/0",
+      "iri": "https://raw.githubusercontent.com/MZe-OpenData/lkod-min/main/datové-sady/LPIS%20DPB%20celá%20ČR%202021.jsonld/distribuce/0",
       "název": {
         "cs": "LPIS DPB celá ČR 2021 (SHP EPSG:5514)",
         "en": "LPIS Farmer's blocks 2021 (SHP EPSG:5514)"
@@ -69,7 +69,7 @@
     },
     {
       "typ": "Distribuce",
-      "iri": "https://data.gov.cz/zdroj/datové-sady/00020478/fe42c2a15c1a823280db903ae9b51e36/distribuce/1",
+      "iri": "https://raw.githubusercontent.com/MZe-OpenData/lkod-min/main/datové-sady/LPIS%20DPB%20celá%20ČR%202021.jsonld/distribuce/1",
       "název": {
         "cs": "LPIS DPB celá ČR 2021 (GML EPSG:4258)",
         "en": "LPIS Farmer's blocks 2021 (GML EPSG:4258)"
