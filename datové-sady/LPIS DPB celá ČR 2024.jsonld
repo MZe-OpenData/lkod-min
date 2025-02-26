@@ -7,7 +7,7 @@
     "en": "LPIS Farmer's blocks 2024 (The whole Czech Republic) "
   },
   "popis": {
-    "cs": "Datová sada obsahuje prostorová data dílů půdních bloků (DPB) v rozsahu celé České republiky ve formátu SHP (shapefile). \nDPB je základní jednotkou LPIS, který představuje souvislou plochu zemědělsky obhospodařované půdy užívanou právě jedním uživatelem s jednou zemědělskou\nkulturou.",
+    "cs": "Datová sada obsahuje prostorová data dílů půdních bloků (DPB) v rozsahu celé České republiky ve formátu SHP (shapefile).\nDPB je základní jednotkou LPIS, který představuje souvislou plochu zemědělsky obhospodařované půdy užívanou právě jedním uživatelem s jednou zemědělskou\nkulturou.",
     "en": "The data set contains spatial data of Farmer's blocks (DPB) of the whole Czech Republic in the SHP (shapefile) format.\nFarmer's block is the basic unit of LPIS, which represents a continuous area of agricultural land used by just one user with one agricultural culture."
   },
   "prvek_rúian": [
@@ -22,8 +22,8 @@
   },
   "klíčové_slovo": {
     "cs": [
+      "veřejný LPIS",
       "DPB",
-      "verejny LPIS",
       "celá ČR"
     ],
     "en": [
@@ -43,7 +43,7 @@
     "jméno": {
       "cs": "Ministerstvo zemědělství"
     },
-    "e-mail": "mailto:helpdesk@mze.cz"
+    "e-mail": "mailto:helpdesk@mze.gov.cz"
   },
   "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/00020478",
   "distribuce": [
