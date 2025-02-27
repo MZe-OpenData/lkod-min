@@ -85,6 +85,7 @@
       "přístupové_url": "https://mze.gov.cz/public/app/eagriapp/Files/evp_2023-12-31_202401231141_epsg4258.zip",
       "typ_média": "http://www.iana.org/assignments/media-types/application/vnd.shp",
       "formát": "http://publications.europa.eu/resource/authority/file-type/SHP"
+      "typ_média_komprese": "http://www.iana.org/assignments/media-types/application/zip"
     }
   ]
 }
