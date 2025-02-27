@@ -1,6 +1,6 @@
 {
-  "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
-  "iri": "https://raw.githubusercontent.com/MZe-OpenData/lkod-min/raw/main/datov%C3%A9-sady/Informace%20o%20odr%C5%AFd%C3%A1ch%20%20%20(RVI_NOU01B).jsonld",
+  "@context": "https://ofn.gov.cz/dcat-ap-cz-rozhraní-katalogů-otevřených-dat/2024-05-28/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
+  "iri": "https://raw.githubusercontent.com/MZe-OpenData/lkod-min/main/datové-sady/Informace%20o%20odrůdách%20(RVI_NOU01B).jsonld",
   "typ": "Datová sada",
   "název": {
     "cs": "Informace o odrůdách / (RVI_NOU01B)",
@@ -8,7 +8,7 @@
   },
   "popis": {
     "cs": "Služba zprostředkovává veřejně publikovatelné informace o plodinách, odrůdách, subjektech a jejich vazbách na odrůdy, registraci odrůd, právní ochraně odrůd, genetických modifikacích odrůd, klonech odrůd, popisech odrůd, fakturacích za registraci a zkoušky odrůd a číslo zápisu do státní odrůdové knihy.\n",
-    "en": "The service provides publicly publishable informations about crops, plant varieties, subjects and their links to varieties, variety registration, legal protection of varieties, genetic modifications of varieties, clones of varieties, descriptions of varieties, invoices for registration and testing of varieties and registration number in the state variety book. "
+    "en": "The service provides publicly publishable informations about crops, plant varieties, subjects and their links to varieties, variety registration, legal protection of varieties, genetic modifications of varieties, clones of varieties, descriptions of varieties, invoices for registration and testing of varieties and registration number in the state variety book."
   },
   "prvek_rúian": [
     "https://linked.cuzk.cz/resource/ruian/stat/1"
@@ -28,7 +28,7 @@
       "web service",
       "data service",
       "UKZUZ",
-      "MZE",
+      "Ministry of Agriculture",
       "without authorization",
       "plant varieties"
     ]
@@ -50,7 +50,7 @@
   "distribuce": [
     {
       "typ": "Distribuce",
-      "iri": "https://data.gov.cz/zdroj/datové-sady/00020478/885212606/distribuce/0",
+      "iri": "https://raw.githubusercontent.com/MZe-OpenData/lkod-min/main/datové-sady/Informace%20o%20odrůdách%20(RVI_NOU01B).jsonld/distribuce/0",
       "název": {
         "cs": "Informace o odrůdách / (RVI_NOU01B)",
         "en": "Informations about plant varieties / (RVI_NOU01B)"
@@ -67,12 +67,12 @@
         "typ": "Datová služba",
         "přístupový_bod": "https://mze.gov.cz/ssl/nosso-app/EPO/WS/v2Online/vOKOsrv.ashx",
         "popis_přístupového_bodu": "https://mze.gov.cz/ssl/nosso-app/EPO/WS/Online/vOKOsrv.aspx?SERVICEID=RVI_NOU01B",
-        "iri": "https://data.gov.cz/zdroj/datové-sady/00020478/885212606/distribuce/0/přístupová-služba",
+        "iri": "https://raw.githubusercontent.com/MZe-OpenData/lkod-min/main/datové-sady/Informace%20o%20odrůdách%20(RVI_NOU01B).jsonld/distribuce/0/přístupová-služba",
         "název": {
           "cs": "Informace o odrůdách / (RVI_NOU01B)",
           "en": "Informations about plant varieties / (RVI_NOU01B)"
         },
-        "poskytuje_datovou_sadu": "https://data.gov.cz/zdroj/datové-sady/00020478/885212606"
+        "poskytuje_datovou_sadu": "https://raw.githubusercontent.com/MZe-OpenData/lkod-min/main/datové-sady/Informace%20o%20odrůdách%20(RVI_NOU01B).jsonld"
       }
     }
   ]
