@@ -1,6 +1,6 @@
 {
-  "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
-  "iri": "https://raw.githubusercontent.com/MZe-OpenData/lkod-min/raw/main/datov%C3%A9-sady/RDM%20-%20%C4%8C%C3%ADseln%C3%ADk%20re%C5%BEim%C5%AF%20podpory%20%20%20(RDM_CRP01A).jsonld",
+  "@context": "https://ofn.gov.cz/dcat-ap-cz-rozhraní-katalogů-otevřených-dat/2024-05-28/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
+  "iri": "https://raw.githubusercontent.com/MZe-OpenData/lkod-min/main/datové-sady/RDM%20-%20Číselník%20režimů%20podpory%20(RDM_CRP01A).jsonld",
   "typ": "Datová sada",
   "název": {
     "cs": "RDM - Číselník režimů podpory / (RDM_CRP01A)",
@@ -8,7 +8,7 @@
   },
   "popis": {
     "cs": "Služba poskytuje aktuální stav číselníku režimů podpory.\n",
-    "en": "The service provides the current status of the code list of support schemes. \n"
+    "en": "The service provides the current status of the code list of support schemes.\n"
   },
   "prvek_rúian": [
     "https://linked.cuzk.cz/resource/ruian/stat/1"
@@ -30,9 +30,9 @@
       "data service",
       "without authorization",
       "RDM",
-      "MZE",
       "de minimis registry",
-      "small scale aid registry"
+      "small scale aid registry",
+      "Ministry of Agriculture"
     ]
   },
   "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/UPDATE_CONT",
@@ -52,7 +52,7 @@
   "distribuce": [
     {
       "typ": "Distribuce",
-      "iri": "https://data.gov.cz/zdroj/datové-sady/00020478/885212644/distribuce/0",
+      "iri": "https://raw.githubusercontent.com/MZe-OpenData/lkod-min/main/datové-sady/RDM%20-%20Číselník%20režimů%20podpory%20(RDM_CRP01A).jsonld/distribuce/0",
       "název": {
         "cs": "Číselník režimů podpory / (RDM_CRP01A)",
         "en": "RDM (De minimis registry) - Code list of support schemes / (RDM_CRP01A)"
@@ -69,12 +69,12 @@
         "typ": "Datová služba",
         "přístupový_bod": "https://mze.gov.cz/ssl/nosso-app/EPO/WS/v2Online/vOKOsrv.ashx",
         "popis_přístupového_bodu": "https://mze.gov.cz/ssl/nosso-app/EPO/WS/Online/vOKOsrv.aspx?SERVICEID=RDM_CRP01A",
-        "iri": "https://data.gov.cz/zdroj/datové-sady/00020478/885212644/distribuce/0/přístupová-služba",
+        "iri": "https://raw.githubusercontent.com/MZe-OpenData/lkod-min/main/datové-sady/RDM%20-%20Číselník%20režimů%20podpory%20(RDM_CRP01A).jsonld/distribuce/0/přístupová-služba",
         "název": {
           "cs": "Číselník režimů podpory / (RDM_CRP01A)",
           "en": "RDM (De minimis registry) - Code list of support schemes / (RDM_CRP01A)"
         },
-        "poskytuje_datovou_sadu": "https://data.gov.cz/zdroj/datové-sady/00020478/885212644"
+        "poskytuje_datovou_sadu": "https://raw.githubusercontent.com/MZe-OpenData/lkod-min/main/datové-sady/RDM%20-%20Číselník%20režimů%20podpory%20(RDM_CRP01A).jsonld"
       }
     }
   ]
