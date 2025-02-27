@@ -71,8 +71,8 @@
       "typ": "Distribuce",
       "iri": "https://raw.githubusercontent.com/MZe-OpenData/lkod-min/main/datové-sady/Ekologicky%20významné%20prvky%20celá%20ČR%202023.jsonld/distribuce/1",
       "název": {
-        "cs": "EVP celá ČR 2023 (GML EPSG:4258)",
-        "en": "Ecologically Important Elements 2023 (GML EPSG:4258)"
+        "cs": "EVP celá ČR 2023 (SHP EPSG:4258)",
+        "en": "Ecologically Important Elements 2023 (SHP EPSG:4258)"
       },
       "podmínky_užití": {
         "typ": "Specifikace podmínek užití",
