@@ -1,6 +1,6 @@
 {
-  "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
-  "iri": "https://raw.githubusercontent.com/MZe-OpenData/lkod-min/raw/main/datov%C3%A9-sady/Data%20meliorac%C3%AD%20-%20historick%C3%A1.jsonld",
+  "@context": "https://ofn.gov.cz/dcat-ap-cz-rozhraní-katalogů-otevřených-dat/2024-05-28/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
+  "iri": "https://raw.githubusercontent.com/MZe-OpenData/lkod-min/main/datové-sady/Data%20meliorací%20-%20historická.jsonld",
   "typ": "Datová sada",
   "název": {
     "cs": "Data meliorací - historická",
@@ -46,7 +46,7 @@
   "distribuce": [
     {
       "typ": "Distribuce",
-      "iri": "https://data.gov.cz/zdroj/datové-sady/00020478/882157216/distribuce/0",
+      "iri": "https://raw.githubusercontent.com/MZe-OpenData/lkod-min/main/datové-sady/Data%20meliorací%20-%20historická.jsonld/distribuce/0",
       "název": {
         "cs": "Data meliorací - historická",
         "en": "Amelioration data - historical"
