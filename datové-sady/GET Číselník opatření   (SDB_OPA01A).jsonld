@@ -1,6 +1,6 @@
 {
-  "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
-  "iri": "https://raw.githubusercontent.com/MZe-OpenData/lkod-min/raw/main/datov%C3%A9-sady/GET%20%C4%8C%C3%ADseln%C3%ADk%20opat%C5%99en%C3%AD%20%20%20(SDB_OPA01A).jsonld",
+  "@context": "https://ofn.gov.cz/dcat-ap-cz-rozhraní-katalogů-otevřených-dat/2024-05-28/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
+  "iri": "https://raw.githubusercontent.com/MZe-OpenData/lkod-min/main/datové-sady/GET%20Číselník%20opatření%20(SDB_OPA01A).jsonld",
   "typ": "Datová sada",
   "název": {
     "cs": "GET Číselník opatření / (SDB_OPA01A)",
@@ -8,7 +8,7 @@
   },
   "popis": {
     "cs": "Cílem služby je poskytnout prostřednictvím webové služby (v XML struktuře) číselník dotačních opatření, které jsou používány plošně v systémech MZe a SZIF. Číselníky jsou například používané v datech jednotné žádosti - služba APA_GJZ02A.\n",
-    "en": "The aim of the service is to provide via a web service (in XML structure) a code list of subsidy measures, that are widely used in the systems of the Ministry of Agriculture and State Agricultural Intervention Fund. For example code lists are used in the data of the Single application - APA_GJZ02A service. "
+    "en": "The aim of the service is to provide via a web service (in XML structure) a code list of subsidy measures, that are widely used in the systems of the Ministry of Agriculture and State Agricultural Intervention Fund. For example code lists are used in the data of the Single application - APA_GJZ02A service."
   },
   "prvek_rúian": [
     "https://linked.cuzk.cz/resource/ruian/stat/1"
@@ -29,7 +29,7 @@
       "web service",
       "data service",
       "without authorization",
-      "MZE",
+      "Ministry of Agriculture",
       "general code lists"
     ]
   },
@@ -50,7 +50,7 @@
   "distribuce": [
     {
       "typ": "Distribuce",
-      "iri": "https://data.gov.cz/zdroj/datové-sady/00020478/887790283/distribuce/0",
+      "iri": "https://raw.githubusercontent.com/MZe-OpenData/lkod-min/main/datové-sady/GET%20Číselník%20opatření%20(SDB_OPA01A).jsonld/distribuce/0",
       "název": {
         "cs": "GET Číselník opatření / (SDB_OPA01A)",
         "en": "GET Code list of Measures / (SDB_OPA01A)"
@@ -67,12 +67,12 @@
         "typ": "Datová služba",
         "přístupový_bod": "https://mze.gov.cz/ssl/nosso-app/EPO/WS/v2Online/vOKOsrv.ashx",
         "popis_přístupového_bodu": "https://mze.gov.cz/ssl/nosso-app/EPO/WS/Online/vOKOsrv.aspx?SERVICEID=SDB_OPA01A",
-        "iri": "https://data.gov.cz/zdroj/datové-sady/00020478/887790283/distribuce/0/přístupová-služba",
+        "iri": "https://raw.githubusercontent.com/MZe-OpenData/lkod-min/main/datové-sady/GET%20Číselník%20opatření%20(SDB_OPA01A).jsonld/distribuce/0/přístupová-služba",
         "název": {
           "cs": "GET Číselník opatření / (SDB_OPA01A)",
           "en": "GET Code list of Measures / (SDB_OPA01A)"
         },
-        "poskytuje_datovou_sadu": "https://data.gov.cz/zdroj/datové-sady/00020478/887790283"
+        "poskytuje_datovou_sadu": "https://raw.githubusercontent.com/MZe-OpenData/lkod-min/main/datové-sady/GET%20Číselník%20opatření%20(SDB_OPA01A).jsonld"
       }
     }
   ]
