@@ -71,8 +71,8 @@
       "typ": "Distribuce",
       "iri": "https://raw.githubusercontent.com/MZe-OpenData/lkod-min/main/datové-sady/Ekologicky%20významné%20prvky%20celá%20ČR%202023.jsonld/distribuce/1",
       "název": {
-        "cs": "EVP celá ČR 2022 (GML EPSG:4258)",
-        "en": "Ecologically Important Elements 2022 (GML EPSG:4258)"
+        "cs": "EVP celá ČR 2023 (GML EPSG:4258)",
+        "en": "Ecologically Important Elements 2023 (GML EPSG:4258)"
       },
       "podmínky_užití": {
         "typ": "Specifikace podmínek užití",
@@ -83,12 +83,8 @@
       },
       "soubor_ke_stažení": "https://mze.gov.cz/public/app/eagriapp/Files/evp_2023-12-31_202401231141_epsg4258.zip",
       "přístupové_url": "https://mze.gov.cz/public/app/eagriapp/Files/evp_2023-12-31_202401231141_epsg4258.zip",
-      "typ_média": [
-        "http://www.iana.org/assignments/media-types/application/vnd.shp"
-      ],
-      "formát": [
-        "http://publications.europa.eu/resource/authority/file-type/SHP"
-      ]
+      "typ_média": "http://www.iana.org/assignments/media-types/application/vnd.shp",
+      "formát": "http://publications.europa.eu/resource/authority/file-type/SHP"
     }
   ]
 }
