@@ -84,12 +84,9 @@
       },
       "soubor_ke_stažení": "https://mze.gov.cz/public/app/eagriapp/Files/geoprostor_zadosti23_2023-08-01_202401251009_epsg4258.zip",
       "přístupové_url": "https://mze.gov.cz/public/app/eagriapp/Files/geoprostor_zadosti23_2023-08-01_202401251009_epsg4258.zip",
-      "typ_média": [
-        "http://www.iana.org/assignments/media-types/application/vnd.shp"
-      ],
-      "formát": [
-        "http://publications.europa.eu/resource/authority/file-type/SHP"
-      ]
+      "typ_média": "http://www.iana.org/assignments/media-types/application/vnd.shp",
+      "formát": "http://publications.europa.eu/resource/authority/file-type/SHP",
+      "typ_média_komprese": "http://www.iana.org/assignments/media-types/application/zip"
     }
   ]
 }
