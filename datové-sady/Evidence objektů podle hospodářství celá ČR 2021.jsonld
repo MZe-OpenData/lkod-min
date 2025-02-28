@@ -1,5 +1,5 @@
 {
-  "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
+  "@context": "https://ofn.gov.cz/dcat-ap-cz-rozhraní-katalogů-otevřených-dat/2024-05-28/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
   "iri": "https://raw.githubusercontent.com/MZe-OpenData/lkod-min/main/datové-sady/Evidence%20objektů%20podle%20hospodářství%20celá%20ČR%202021.jsonld",
   "typ": "Datová sada",
   "název": {
@@ -22,12 +22,13 @@
   "klíčové_slovo": {
     "cs": [
       "LPIS",
-      "celá čr",
-      "evidence objektů podle hospodářství"
+      "evidence objektů podle hospodářství",
+      "celá ČR"
     ],
     "en": [
       "Agricultural and aquaculture facilities",
-      "LPIS"
+      "LPIS",
+      "the whole Czech Republic"
     ]
   },
   "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/NEVER",
@@ -46,7 +47,7 @@
   "distribuce": [
     {
       "typ": "Distribuce",
-      "iri": "https://data.gov.cz/zdroj/datové-sady/00020478/daac9b10569c54f812e9eceae378e2bc/distribuce/0",
+      "iri": "https://raw.githubusercontent.com/MZe-OpenData/lkod-min/main/datové-sady/Evidence%20objektů%20podle%20hospodářství%20celá%20ČR%202021.jsonld/distribuce/0",
       "podmínky_užití": {
         "typ": "Specifikace podmínek užití",
         "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
@@ -62,7 +63,7 @@
     },
     {
       "typ": "Distribuce",
-      "iri": "https://data.gov.cz/zdroj/datové-sady/00020478/daac9b10569c54f812e9eceae378e2bc/distribuce/1",
+      "iri": "https://raw.githubusercontent.com/MZe-OpenData/lkod-min/main/datové-sady/Evidence%20objektů%20podle%20hospodářství%20celá%20ČR%202021.jsonld/distribuce/1",
       "podmínky_užití": {
         "typ": "Specifikace podmínek užití",
         "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
