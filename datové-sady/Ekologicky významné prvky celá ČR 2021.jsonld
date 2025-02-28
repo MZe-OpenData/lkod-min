@@ -83,9 +83,7 @@
       },
       "soubor_ke_stažení": "https://mze.gov.cz/public/app/eagriapp/Files/evp_2021-12-31_202211071528_epsg4258.zip",
       "přístupové_url": "https://mze.gov.cz/public/app/eagriapp/Files/evp_2021-12-31_202211071528_epsg4258.zip",
-      "typ_média": [
-        "http://www.iana.org/assignments/media-types/application/SGML"
-      ],
+      "typ_média": "http://www.iana.org/assignments/media-types/application/SGML",
       "formát": "http://publications.europa.eu/resource/authority/file-type/GMZ",
       "typ_média_komprese": "http://www.iana.org/assignments/media-types/application/zip"
     }
