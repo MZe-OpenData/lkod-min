@@ -1,5 +1,5 @@
 {
-  "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
+  "@context": "https://ofn.gov.cz/dcat-ap-cz-rozhraní-katalogů-otevřených-dat/2024-05-28/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
   "iri": "https://raw.githubusercontent.com/MZe-OpenData/lkod-min/main/datové-sady/Evidence%20objektů%20podle%20hospodářství%20celá%20ČR%202022.jsonld",
   "typ": "Datová sada",
   "název": {
@@ -7,23 +7,28 @@
     "en": "Agricultural and aquaculture facilities (2022)"
   },
   "popis": {
-    "cs": "Evidence objektů podle hospodářství evidované na základě zákona č. 252/1997 Sb., o zemědělství. Rozdělují se na trvalé, vodní a ostatní objekty.\nDatová sada obsahuje objekty hospodářství v rozsahu celé České republiky ve formátu SHP (shapefile) k 31.12.2021.",
-    "en": "Records of agricultural and aquaculture facilities registered on the basis of Act No. 252/1997 Coll., on Agriculture. They are divided into permanent, aquatic and other objects.\nThe dataset contains spatial data in the extent of the entire Czech Republic in SHP (shapefile) format as of 31.12.2021."
+    "cs": "Evidence objektů podle hospodářství evidované na základě zákona č. 252/1997 Sb., o zemědělství. Rozdělují se na trvalé, vodní a ostatní objekty.\nDatová sada obsahuje objekty hospodářství v rozsahu celé České republiky ve formátu SHP (shapefile) k 31.12.2022.",
+    "en": "Records of agricultural and aquaculture facilities registered on the basis of Act No. 252/1997 Coll., on Agriculture. They are divided into permanent, aquatic and other objects.\nThe dataset contains spatial data in the extent of the entire Czech Republic in SHP (shapefile) format as of 31.12.2022."
   },
   "prvek_rúian": [
     "https://linked.cuzk.cz/resource/ruian/stat/1"
   ],
   "geografické_území": [],
   "prostorové_pokrytí": [],
+  "časové_pokrytí": {
+    "typ": "Časový interval",
+    "konec": "2022-12-31"
+  },
   "klíčové_slovo": {
     "cs": [
       "LPIS",
-      "celá čr",
-      "evidence objektů podle hospodářství"
+      "evidence objektů podle hospodářství",
+      "celá ČR"
     ],
     "en": [
       "Agricultural and aquaculture facilities",
-      "LPIS"
+      "LPIS",
+      "the whole Czech Republic"
     ]
   },
   "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/NEVER",
@@ -42,7 +47,7 @@
   "distribuce": [
     {
       "typ": "Distribuce",
-      "iri": "https://data.gov.cz/zdroj/datové-sady/00020478/daac9b10569c54f812e9eceae378e2bc/distribuce/0",
+      "iri": "https://raw.githubusercontent.com/MZe-OpenData/lkod-min/main/datové-sady/Evidence%20objektů%20podle%20hospodářství%20celá%20ČR%202022.jsonld/distribuce/0",
       "podmínky_užití": {
         "typ": "Specifikace podmínek užití",
         "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
@@ -58,7 +63,7 @@
     },
     {
       "typ": "Distribuce",
-      "iri": "https://data.gov.cz/zdroj/datové-sady/00020478/daac9b10569c54f812e9eceae378e2bc/distribuce/1",
+      "iri": "https://raw.githubusercontent.com/MZe-OpenData/lkod-min/main/datové-sady/Evidence%20objektů%20podle%20hospodářství%20celá%20ČR%202022.jsonld/distribuce/1",
       "podmínky_užití": {
         "typ": "Specifikace podmínek užití",
         "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
@@ -66,8 +71,8 @@
         "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
         "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
       },
-      "soubor_ke_stažení": "https://mze.gov.cz/public/app/eagriapp/Files/isnp_202301200849_epsg4258.zip",
-      "přístupové_url": "https://mze.gov.cz/public/app/eagriapp/Files/isnp_202301200849_epsg4258.zip",
+      "soubor_ke_stažení": "https://mze.gov.cz/public/app/eagriapp/Files/insp_202301200849_epsg4258.zip",
+      "přístupové_url": "https://mze.gov.cz/public/app/eagriapp/Files/insp_202301200849_epsg4258.zip",
       "typ_média": "http://www.iana.org/assignments/media-types/application/SGML",
       "formát": "http://publications.europa.eu/resource/authority/file-type/GMZ",
       "typ_média_komprese": "http://www.iana.org/assignments/media-types/application/zip"
