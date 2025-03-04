@@ -48,7 +48,7 @@
   "distribuce": [
     {
       "typ": "Distribuce",
-      "iri": "https://raw.githubusercontent.com/MZe-OpenData/lkod-min/main/datové-sady/Databáze%20dostupných%20ekologických%20osiv%20(EAA_GMS01A).jsonld/distribuce/0",
+      "iri": "https://raw.githubusercontent.com/MZe-OpenData/lkod-min/main/datové-sady/Databáze%20dostupných%20ekologických%20osiv%20(EAA_GMS01A).jsonld",
       "název": {
         "cs": "Databáze dostupných ekologických osiv / (EAA_GMS01A)",
         "en": "Database of available organic seeds / (EAA_GMS01A) "
@@ -65,7 +65,7 @@
         "typ": "Datová služba",
         "přístupový_bod": "https://mze.gov.cz/ssl/nosso-app/EPO/WS/v2Online/vOKOsrv.ashx",
         "popis_přístupového_bodu": "https://mze.gov.cz/ssl/nosso-app/EPO/WS/Online/vOKOsrv.aspx?SERVICEID=EAA_GMS01A",
-        "iri": "https://raw.githubusercontent.com/MZe-OpenData/lkod-min/main/datové-sady/Databáze%20dostupných%20ekologických%20osiv%20(EAA_GMS01A).jsonld/distribuce/0/přístupová-služba",
+        "iri": "https://raw.githubusercontent.com/MZe-OpenData/lkod-min/main/datové-sady/Databáze%20dostupných%20ekologických%20osiv%20(EAA_GMS01A).jsonld",
         "název": {
           "cs": "Databáze dostupných ekologických osiv / (EAA_GMS01A)",
           "en": "Database of available organic seeds / (EAA_GMS01A) "
