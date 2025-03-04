@@ -7,8 +7,8 @@
     "en": "Database of available organic seeds / (EAA_GMS01A)"
   },
   "popis": {
-    "cs": "Služba poskytuje přístup do databáze ekologických osiv vedené ÚKZÚZ s možností různých filtračních kritérií.\\n",
-    "en": "The service provides access to the database of organic seeds maintained by ÚKZÚZ with the possibility of various filtering criteria.\\n"
+    "cs": "Služba poskytuje přístup do databáze ekologických osiv vedené ÚKZÚZ s možností různých filtračních kritérií.\n",
+    "en": "The service provides access to the database of organic seeds maintained by ÚKZÚZ with the possibility of various filtering criteria.\n"
   },
   "prvek_rúian": [
     "https://linked.cuzk.cz/resource/ruian/stat/1"
@@ -44,7 +44,7 @@
     },
     "e-mail": "mailto:helpdesk@mze.gov.cz"
   },
-  "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/org%C3%A1n-ve%C5%99ejn%C3%A9-moci/00020478",
+  "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/00020478",
   "distribuce": [
     {
       "typ": "Distribuce",
