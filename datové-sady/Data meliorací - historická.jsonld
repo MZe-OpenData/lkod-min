@@ -1,14 +1,14 @@
 {
   "@context": "https://ofn.gov.cz/dcat-ap-cz-rozhraní-katalogů-otevřených-dat/2024-05-28/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
-  "iri": "https://raw.githubusercontent.com/MZe-OpenData/lkod-min/main/datové-sady/Data%20meliorací%20-%20historická.jsonld",
+  "iri": "https://raw.githubusercontent.com/MZe-OpenData/lkod-min/main/datové-sady/Databáze%20dostupných%20ekologických%20osiv%20(EAA_GMS01A).jsonld",
   "typ": "Datová sada",
   "název": {
-    "cs": "Data meliorací - historická",
-    "en": "Amelioration data - historical"
+    "cs": "Databáze dostupných ekologických osiv / (EAA_GMS01A)",
+    "en": "Database of available organic seeds / (EAA_GMS01A)"
   },
   "popis": {
-    "cs": "Data meliorací jsou volně dostupná ke stažení ve vektorovém formátu shapefile (shp). Jedná se o neaktualizovaná historická data pořízená Zemědělskou vodohospodářskou správou (ZVHS) digitalizací analogových map. Vzhledem ke skutečnosti, že neexistuje evidence meliorací a jejich změn v terénu, tak geometrický i atributový rozsah dat není kompletní. Data jsou poskytována bezplatně. Podmínkou pro další prezentaci či jiné použití těchto dat je vždy uvedení informace o zdroji (Zemědělská vodohospodářská správa/Ministerstvo zemědělství). Data lze používat pouze pro účely, které jsou v souladu s uvedenými vlastnostmi dat. Podrobnější informace o datech jsou uvedeny v přiloženém souboru Metodika digitalizace, který je součástí souboru ke stažení. Struktura dat je popsána v souborech Datový model HMS – vrstvy popis a Struktura SHP. Data jsou rozdělená do složek podle okresů ČR.",
-    "en": "Land amelioration data are free for download in shapefile vector format. These are non-updated historical data acquired by the Agricultural Water Management Administration (ZVHS) by digitizing analog maps. Due to the fact that there is no record of land amelioration and their changes in the field, the geometric and attribute range of data is not complete. Data is provided free of charge. The condition for further presentation or other use of this data is always the provision of information about the source (Agricultural Water Management Administration / Ministry of Agriculture). The data may only be used for purposes that are consistent with the stated data properties. More detailed information about the data is given in the attached file Digitization Methodology, that is part of the dataset. The data structure is described in the files HMS Data Model - description layers and SHP structure. The data are divided into folders according to the districts of the Czech Republic."
+    "cs": "Služba poskytuje přístup do databáze ekologických osiv vedené ÚKZÚZ s možností různých filtračních kritérií.\\n",
+    "en": "The service provides access to the database of organic seeds maintained by ÚKZÚZ with the possibility of various filtering criteria.\\n"
   },
   "prvek_rúian": [
     "https://linked.cuzk.cz/resource/ruian/stat/1"
@@ -17,20 +17,22 @@
   "prostorové_pokrytí": [],
   "klíčové_slovo": {
     "cs": [
-      "zemedelska vodohospodarska sprava",
-      "meliorace",
-      "ministerstvo zemedelstvi",
-      "historicka data"
+      "webová služba",
+      "UKZUZ",
+      "bez autorizace",
+      "datová služba",
+      "MZE"
     ],
     "en": [
-      "Agricultural Water Management Administration",
-      "historical data",
-      "amelioration",
+      "web service",
+      "data service",
+      "UKZUZ",
+      "without authorization",
       "Ministry of Agriculture"
     ]
   },
-  "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/NEVER",
-  "dokumentace": "https://mze.gov.cz/public/web/mze/farmar/LPIS/data-melioraci/",
+  "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/UPDATE_CONT",
+  "dokumentace": "https://mze.gov.cz/public/web/mze/farmar/elektronicka-vymena-dat/prehled-vystavenych-sluzeb/OOS/eaa-gms01a.html",
   "téma": [
     "http://publications.europa.eu/resource/authority/data-theme/AGRI"
   ],
@@ -42,14 +44,14 @@
     },
     "e-mail": "mailto:helpdesk@mze.gov.cz"
   },
-  "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/00020478",
+  "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/org%C3%A1n-ve%C5%99ejn%C3%A9-moci/00020478",
   "distribuce": [
     {
       "typ": "Distribuce",
-      "iri": "https://raw.githubusercontent.com/MZe-OpenData/lkod-min/main/datové-sady/Data%20meliorací%20-%20historická.jsonld/distribuce/0",
+      "iri": "https://raw.githubusercontent.com/MZe-OpenData/lkod-min/main/datové-sady/Databáze%20dostupných%20ekologických%20osiv%20(EAA_GMS01A).jsonld/distribuce/0",
       "název": {
-        "cs": "Data meliorací - historická",
-        "en": "Amelioration data - historical"
+        "cs": "Databáze dostupných ekologických osiv / (EAA_GMS01A)",
+        "en": "Database of available organic seeds / (EAA_GMS01A)"
       },
       "podmínky_užití": {
         "typ": "Specifikace podmínek užití",
@@ -58,11 +60,18 @@
         "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
         "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
       },
-      "soubor_ke_stažení": "https://mze.gov.cz/public/web/file/467411/pulec_farmar.zip",
-      "přístupové_url": "https://mze.gov.cz/public/web/file/467411/pulec_farmar.zip",
-      "typ_média": "http://www.iana.org/assignments/media-types/application/vnd.shp",
-      "formát": "http://publications.europa.eu/resource/authority/file-type/SHP",
-      "typ_média_komprese": "http://www.iana.org/assignments/media-types/application/zip"
+      "přístupové_url": "https://mze.gov.cz/ssl/nosso-app/EPO/WS/v2Online/vOKOsrv.ashx",
+      "přístupová_služba": {
+        "typ": "Datová služba",
+        "přístupový_bod": "https://mze.gov.cz/ssl/nosso-app/EPO/WS/v2Online/vOKOsrv.ashx",
+        "popis_přístupového_bodu": "https://epomze.gov.cz/ssl/nosso-app/EPO/WS/Online/vOKOsrv.aspx?SERVICEID=EAA_GMS01A",
+        "iri": "https://raw.githubusercontent.com/MZe-OpenData/lkod-min/main/datové-sady/Databáze%20dostupných%20ekologických%20osiv%20(EAA_GMS01A).jsonld/distribuce/0/přístupová-služba",
+        "název": {
+          "cs": "Databáze dostupných ekologických osiv / (EAA_GMS01A)",
+          "en": "Database of available organic seeds / (EAA_GMS01A)"
+        },
+        "poskytuje_datovou_sadu": "https://raw.githubusercontent.com/MZe-OpenData/lkod-min/main/datové-sady/Databáze%20dostupných%20ekologických%20osiv%20(EAA_GMS01A).jsonld"
+      }
     }
   ]
 }
