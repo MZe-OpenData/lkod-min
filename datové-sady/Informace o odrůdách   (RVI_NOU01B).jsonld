@@ -1,6 +1,6 @@
 {
   "@context": "https://ofn.gov.cz/dcat-ap-cz-rozhraní-katalogů-otevřených-dat/2024-05-28/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
-  "iri": "https://raw.githubusercontent.com/MZe-OpenData/lkod-min/main/datové-sady/Informace%20o%20odrůdách%20(RVI_NOU01B).jsonld",
+  "iri": "https://raw.githubusercontent.com/MZe-OpenData/lkod-min/main/datové-sady/Informace%20o%20odrůdách%20%20%20(RVI_NOU01B).jsonld",
   "typ": "Datová sada",
   "název": {
     "cs": "Informace o odrůdách / (RVI_NOU01B)",
@@ -50,7 +50,7 @@
   "distribuce": [
     {
       "typ": "Distribuce",
-      "iri": "https://raw.githubusercontent.com/MZe-OpenData/lkod-min/main/datové-sady/Informace%20o%20odrůdách%20(RVI_NOU01B).jsonld/distribuce/0",
+      "iri": "https://raw.githubusercontent.com/MZe-OpenData/lkod-min/main/datové-sady/Informace%20o%20odrůdách%20%20%20(RVI_NOU01B).jsonld/distribuce/0",
       "název": {
         "cs": "Informace o odrůdách / (RVI_NOU01B)",
         "en": "Informations about plant varieties / (RVI_NOU01B)"
@@ -67,12 +67,12 @@
         "typ": "Datová služba",
         "přístupový_bod": "https://mze.gov.cz/ssl/nosso-app/EPO/WS/v2Online/vOKOsrv.ashx",
         "popis_přístupového_bodu": "https://mze.gov.cz/ssl/nosso-app/EPO/WS/Online/vOKOsrv.aspx?SERVICEID=RVI_NOU01B",
-        "iri": "https://raw.githubusercontent.com/MZe-OpenData/lkod-min/main/datové-sady/Informace%20o%20odrůdách%20(RVI_NOU01B).jsonld/distribuce/0/přístupová-služba",
+        "iri": "https://raw.githubusercontent.com/MZe-OpenData/lkod-min/main/datové-sady/Informace%20o%20odrůdách%20%20%20(RVI_NOU01B).jsonld/distribuce/0/přístupová-služba",
         "název": {
           "cs": "Informace o odrůdách / (RVI_NOU01B)",
           "en": "Informations about plant varieties / (RVI_NOU01B)"
         },
-        "poskytuje_datovou_sadu": "https://raw.githubusercontent.com/MZe-OpenData/lkod-min/main/datové-sady/Informace%20o%20odrůdách%20(RVI_NOU01B).jsonld"
+        "poskytuje_datovou_sadu": "https://raw.githubusercontent.com/MZe-OpenData/lkod-min/main/datové-sady/Informace%20o%20odrůdách%20%20%20(RVI_NOU01B).jsonld"
       }
     }
   ]
