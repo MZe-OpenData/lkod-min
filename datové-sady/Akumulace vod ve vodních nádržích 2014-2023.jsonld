@@ -25,7 +25,7 @@
       "water accumulation"
     ]
   },
-  "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/ANNUAL",
+  "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/NEVER",
   "dokumentace": "https://voda.gov.cz/?page=akumulace-vod-ve-vodnich-nadrzich",
   "téma": [
     "http://publications.europa.eu/resource/authority/data-theme/ENVI"
@@ -42,7 +42,7 @@
   "distribuce": [
     {
       "typ": "Distribuce",
-      "iri": "https://raw.githubusercontent.com/MZe-OpenData/lkod-min/main/datové-sady/Akumulace%20vod%20ve%20vodních%20nádržích%202014%20-%202023.jsonld/distribuce/0",
+      "iri": "https://raw.githubusercontent.com/MZe-OpenData/lkod-min/main/datové-sady/Akumulace%20vod%20ve%20vodních%20nádržích%202014-2023.jsonld/distribuce/0",
       "název": {
         "cs": "Akumulace vod ve vodních nádržích (SHP EPSG:5514)",
         "en": "Water accumulation in reservoirs (SHP EPSG:5514)"
