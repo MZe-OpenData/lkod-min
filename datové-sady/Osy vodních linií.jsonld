@@ -1,5 +1,5 @@
 {
-  "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
+  "@context": "https://ofn.gov.cz/dcat-ap-cz-rozhraní-katalogů-otevřených-dat/2024-05-28/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
   "iri": "https://raw.githubusercontent.com/MZe-OpenData/lkod-min/main/datové-sady/Osy%20vodních%20linií.jsonld",
   "typ": "Datová sada",
   "název": {
@@ -7,8 +7,8 @@
     "en": "Waterline axes"
   },
   "popis": {
-    "cs": "V této datové sadě jsou znázorněny nejen vodní toky, ale i ostatní vodní linie. Vodní toky jsou definovány jako povrchové vody tekoucí vlastním spádem v korytě trvale nebo po převažující část roku (§ 43 vodního zákona) a mají určeného správce. Ostatní vodní linie jsou jiné povrchové vody liniového charakteru (které nesplňují definici vodního toku) jako jsou např. náhony, převody vody, obtoky, příkopy apod. Ostatní vodní linie zpravidla bezprostředně navazují na vodní toky a utváří kontinuálně propojenou říční síť a nemají určeného správce. \n\nVedení a aktualizaci dat o vodních tocích a ostatních vodních liniích zajišťují státní podniky Povodí Labe, Povodí Vltavy, Povodí Ohře, Povodí Moravy, Povodí Odry a Lesy České republiky v rámci tzv. Centrální evidence vodních linií. Jedná se o liniové znázornění, které vychází z podkladu ZABAGED a je postupně oboustranně zpřesňováno.  \n\nVrstva osy vodních linií ukazuje oficiální ustanovení vodních toků dle zákona a je zásadní pro správní úkony, které se týkají vodního hospodářství. ",
-    "en": "Not only watercourses but also other water lines are shown in this dataset. Watercourses are defined as surface waters flowing through their own channel permanently or for most of the year (§ 43 of the Water Act) and have a designated administrator. Other watercourses are other surface waters of a linear nature (which do not meet the definition of a watercourse) such as embankments, water transfers, bypasses, ditches, etc. Other watercourses are generally immediately adjacent to watercourses and form a continuously connected river network and do not have a designated administrator. \n\nData on watercourses and other water lines are maintained and updated by the state enterprises Elbe River Basin, Vltava River Basin, Ohře River Basin, Morava River Basin, Odra River Basin and the Forests of the Czech Republic within the framework of the so-called Central Water Line Register. It is a line representation based on the ZABAGED base and is gradually improved on both sides.  \n\nThe waterline axis layer shows the official provisions of watercourses according to the law and is essential for administrative actions related to water management. "
+    "cs": "V této datové sadě jsou znázorněny nejen vodní toky, ale i ostatní vodní linie. Vodní toky jsou definovány jako povrchové vody tekoucí vlastním spádem v korytě trvale nebo po převažující část roku (§ 43 vodního zákona) a mají určeného správce. Ostatní vodní linie jsou jiné povrchové vody liniového charakteru (které nesplňují definici vodního toku) jako jsou např. náhony, převody vody, obtoky, příkopy apod. Ostatní vodní linie zpravidla bezprostředně navazují na vodní toky a utváří kontinuálně propojenou říční síť a nemají určeného správce. \n\nVedení a aktualizaci dat o vodních tocích a ostatních vodních liniích zajišťují státní podniky Povodí Labe, Povodí Vltavy, Povodí Ohře, Povodí Moravy, Povodí Odry a Lesy České republiky v rámci tzv. Centrální evidence vodních linií. Jedná se o liniové znázornění, které vychází z podkladu ZABAGED a je postupně oboustranně zpřesňováno.  \n\nVrstva osy vodních linií ukazuje oficiální ustanovení vodních toků dle zákona a je zásadní pro správní úkony, které se týkají vodního hospodářství.",
+    "en": "Not only watercourses but also other water lines are shown in this dataset. Watercourses are defined as surface waters flowing through their own channel permanently or for most of the year (§ 43 of the Water Act) and have a designated administrator. Other watercourses are other surface waters of a linear nature (which do not meet the definition of a watercourse) such as embankments, water transfers, bypasses, ditches, etc. Other watercourses are generally immediately adjacent to watercourses and form a continuously connected river network and do not have a designated administrator. \n\nData on watercourses and other water lines are maintained and updated by the state enterprises Elbe River Basin, Vltava River Basin, Ohře River Basin, Morava River Basin, Odra River Basin and the Forests of the Czech Republic within the framework of the so-called Central Water Line Register. It is a line representation based on the ZABAGED base and is gradually improved on both sides.  \n\nThe waterline axis layer shows the official provisions of watercourses according to the law and is essential for administrative actions related to water management."
   },
   "prvek_rúian": [
     "https://linked.cuzk.cz/resource/ruian/stat/1"
@@ -28,7 +28,7 @@
     ]
   },
   "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/ANNUAL",
-  "dokumentace": "https://www.voda.gov.cz/?page=osy-vodnich-linii&views=Legenda----",
+  "dokumentace": "https://agrigis.cz/isvs-voda/?page=osy-vodnich-linii",
   "téma": [
     "http://publications.europa.eu/resource/authority/data-theme/AGRI",
     "http://publications.europa.eu/resource/authority/data-theme/ENVI"
@@ -45,10 +45,10 @@
   "distribuce": [
     {
       "typ": "Distribuce",
-      "iri": "https://data.gov.cz/zdroj/datové-sady/00020478/ba3e91084d47780c1aecac7b380eb019/distribuce/0",
+      "iri": "https://raw.githubusercontent.com/MZe-OpenData/lkod-min/main/datové-sady/Osy%20vodních%20linií.jsonld/distribuce/0",
       "název": {
-        "cs": "Osy vodních linií",
-        "en": "Waterline axes"
+        "cs": "Osy vodních linií (SHP EPSG:5514)",
+        "en": "Waterline axes (SHP EPSG:5514)"
       },
       "podmínky_užití": {
         "typ": "Specifikace podmínek užití",
