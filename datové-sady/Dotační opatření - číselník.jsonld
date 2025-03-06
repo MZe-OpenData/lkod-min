@@ -1,5 +1,5 @@
 {
-  "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
+  "@context": "https://ofn.gov.cz/dcat-ap-cz-rozhraní-katalogů-otevřených-dat/2024-05-28/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
   "iri": "https://raw.githubusercontent.com/MZe-OpenData/lkod-min/main/datové-sady/Dotační%20opatření%20-%20číselník.jsonld",
   "typ": "Datová sada",
   "název": {
@@ -26,7 +26,7 @@
       "eagri",
       "subsidies",
       "code list",
-      "MZE"
+      "Ministry of Agriculture"
     ]
   },
   "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/IRREG",
@@ -46,7 +46,7 @@
   "distribuce": [
     {
       "typ": "Distribuce",
-      "iri": "https://data.gov.cz/zdroj/datové-sady/00020478/953648e1614a8c8ae705633268937bdd/distribuce/0",
+      "iri": "https://raw.githubusercontent.com/MZe-OpenData/lkod-min/main/datové-sady/Dotační%20opatření%20-%20číselník.jsonld/distribuce/0",
       "název": {
         "cs": "Dotační opatření - číselník",
         "en": "Subsidy measures - code list"
