@@ -69,12 +69,12 @@
         "typ": "Datová služba",
         "přístupový_bod": "https://mze.gov.cz/ssl/nosso-app/EPO/WS/v2Online/vOKOsrv.ashx",
         "popis_přístupového_bodu": "https://mze.gov.cz/ssl/nosso-app/EPO/WS/Online/vOKOsrv.aspx?SERVICEID=RDM_CRP01A",
-        "iri": "https://raw.githubusercontent.com/MZe-OpenData/lkod-min/main/datové-sady/RDM%20-%20Veřejné%20informace%20(PUBLIC)%20%20%20(RDM_PUB01C).jsonld/distribuce/0/přístupová-služba",
+        "iri": "https://raw.githubusercontent.com/MZe-OpenData/lkod-min/main/datové-sady/RDM%20-%20Číselník%20režimů%20podpory%20%20%20(RDM_CRP01A).jsonld/distribuce/0/přístupová-služba",
         "název": {
           "cs": "Číselník režimů podpory / (RDM_CRP01A)",
           "en": "RDM (De minimis registry) - Code list of support schemes / (RDM_CRP01A)"
         },
-        "poskytuje_datovou_sadu": "https://raw.githubusercontent.com/MZe-OpenData/lkod-min/main/datové-sady/RDM%20-%20Veřejné%20informace%20(PUBLIC)%20%20%20(RDM_PUB01C).jsonld"
+        "poskytuje_datovou_sadu": "https://raw.githubusercontent.com/MZe-OpenData/lkod-min/main/datové-sady/RDM%20-%20Číselník%20režimů%20podpory%20%20%20(RDM_CRP01A).jsonld"
       }
     }
   ]
