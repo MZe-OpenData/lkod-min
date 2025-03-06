@@ -1,5 +1,5 @@
 {
-  "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
+  "@context": "https://ofn.gov.cz/dcat-ap-cz-rozhraní-katalogů-otevřených-dat/2024-05-28/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
   "iri": "https://raw.githubusercontent.com/MZe-OpenData/lkod-min/main/datové-sady/Hráze.jsonld",
   "typ": "Datová sada",
   "název": {
@@ -28,7 +28,7 @@
     ]
   },
   "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/UPDATE_CONT",
-  "dokumentace": "https://voda.gov.cz/?page=hraze",
+  "dokumentace": "https://agrigis.cz/isvs-voda/?page=hraze",
   "téma": [
     "http://publications.europa.eu/resource/authority/data-theme/AGRI",
     "http://publications.europa.eu/resource/authority/data-theme/ENVI"
@@ -45,7 +45,7 @@
   "distribuce": [
     {
       "typ": "Distribuce",
-      "iri": "https://data.gov.cz/zdroj/datové-sady/00020478/b96adf66786d3fa50259644d71f38909/distribuce/0",
+      "iri": "https://raw.githubusercontent.com/MZe-OpenData/lkod-min/main/datové-sady/Hráze.jsonld/distribuce/0",
       "název": {
         "cs": "Hráze",
         "en": "Dams"
