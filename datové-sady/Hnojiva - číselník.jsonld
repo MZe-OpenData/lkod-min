@@ -1,5 +1,5 @@
 {
-  "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
+  "@context": "https://ofn.gov.cz/dcat-ap-cz-rozhraní-katalogů-otevřených-dat/2024-05-28/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
   "iri": "https://raw.githubusercontent.com/MZe-OpenData/lkod-min/main/datové-sady/Hnojiva%20-%20číselník.jsonld",
   "typ": "Datová sada",
   "název": {
@@ -18,12 +18,12 @@
   "klíčové_slovo": {
     "cs": [
       "eagri",
-      "mze",
+      "MZE",
       "hnojiva"
     ],
     "en": [
       "eagri",
-      "MZE",
+      "Ministry of Agriculture",
       "fertilizers"
     ]
   },
@@ -44,7 +44,7 @@
   "distribuce": [
     {
       "typ": "Distribuce",
-      "iri": "https://data.gov.cz/zdroj/datové-sady/00020478/b7bea02be8ad57d9b79cd36478ef6f47/distribuce/0",
+      "iri": "https://raw.githubusercontent.com/MZe-OpenData/lkod-min/main/datové-sady/Hnojiva%20-%20číselník.jsonld/distribuce/0",
       "název": {
         "cs": "Hnojiva - číselník",
         "en": "Fertilizers - code list"
