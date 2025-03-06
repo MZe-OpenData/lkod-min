@@ -1,5 +1,5 @@
 {
-  "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
+  "@context": "https://ofn.gov.cz/dcat-ap-cz-rozhraní-katalogů-otevřených-dat/2024-05-28/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
   "iri": "https://raw.githubusercontent.com/MZe-OpenData/lkod-min/main/datové-sady/Vodní%20nádrže.jsonld",
   "typ": "Datová sada",
   "název": {
@@ -26,7 +26,7 @@
     ]
   },
   "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/ANNUAL",
-  "dokumentace": "https://voda.gov.cz/?page=vodni-nadrze",
+  "dokumentace": "https://agrigis.cz/isvs-voda/?page=vodni-nadrze",
   "téma": [
     "http://publications.europa.eu/resource/authority/data-theme/ENVI"
   ],
@@ -42,7 +42,11 @@
   "distribuce": [
     {
       "typ": "Distribuce",
-      "iri": "https://data.gov.cz/zdroj/datové-sady/00020478/c5d47f40c54e3c7b0bbb40517c12601f/distribuce/0",
+      "iri": "https://raw.githubusercontent.com/MZe-OpenData/lkod-min/main/datové-sady/Vodní%20nádrže.jsonld/distribuce/0",
+      "název": {
+        "cs": "Vodní nádrže (SHP EPSG:5514)",
+        "en": "Water reservoirs (SHP EPSG:5514)"
+      },
       "podmínky_užití": {
         "typ": "Specifikace podmínek užití",
         "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
