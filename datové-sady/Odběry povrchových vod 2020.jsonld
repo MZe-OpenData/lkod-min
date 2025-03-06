@@ -1,5 +1,5 @@
 {
-  "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
+  "@context": "https://ofn.gov.cz/dcat-ap-cz-rozhraní-katalogů-otevřených-dat/2024-05-28/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
   "iri": "https://raw.githubusercontent.com/MZe-OpenData/lkod-min/main/datové-sady/Odběry%20povrchových%20vod%202020.jsonld",
   "typ": "Datová sada",
   "název": {
@@ -7,7 +7,7 @@
     "en": "Surface water withdrawals 2020"
   },
   "popis": {
-    "cs": "Evidence odběrů povrchových a podzemních vod, vypouštění odpadních a důlních vod a akumulace či vzdouvání povrchových vod ve vodních nádržích je jednotlivými správci povodí zřízena, vedena a aktualizována v rámci zjišťování a hodnocení stavu povrchových a podzemních vod [§ 21 odst. 2 písm. c) bod 4 zákona č. 254/2001 Sb., o vodách, ve znění pozdějších předpisů, dále jen „vodní zákon“]. ",
+    "cs": "Evidence odběrů povrchových a podzemních vod, vypouštění odpadních a důlních vod a akumulace či vzdouvání povrchových vod ve vodních nádržích je jednotlivými správci povodí zřízena, vedena a aktualizována v rámci zjišťování a hodnocení stavu povrchových a podzemních vod [§ 21 odst. 2 písm. c) bod 4 zákona č. 254/2001 Sb., o vodách, ve znění pozdějších předpisů, dále jen „vodní zákon“].",
     "en": "Records of surface and groundwater withdrawals, wastewater and mine water releases, and surface water accumulation or discharge in reservoirs are established, maintained and updated by individual river basin authorities as part of the survey and assessment of the status of surface and groundwater (§ 21(2)(c)(4) of Act No. 254/2001 Coll., on Water, as amended, further referred to as the \"Water Act\")."
   },
   "prvek_rúian": [
@@ -26,7 +26,7 @@
     ]
   },
   "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/ANNUAL",
-  "dokumentace": "https://voda.gov.cz/?page=odbery-povrchovych-vod",
+  "dokumentace": "https://agrigis.cz/isvs-voda/?page=odbery-povrchovych-vod",
   "téma": [
     "http://publications.europa.eu/resource/authority/data-theme/ENVI"
   ],
@@ -42,10 +42,10 @@
   "distribuce": [
     {
       "typ": "Distribuce",
-      "iri": "https://data.gov.cz/zdroj/datové-sady/00020478/0915b4accff4935e5054fdfe187f4a30/distribuce/0",
+      "iri": "https://raw.githubusercontent.com/MZe-OpenData/lkod-min/main/datové-sady/Odběry%20povrchových%20vod%202020.jsonld/distribuce/0",
       "název": {
-        "cs": "Odběry povrchových vod",
-        "en": "Surface water withdrawals"
+        "cs": "Odběry povrchových vod (SHP EPSG:5514)",
+        "en": "Surface water withdrawals (SHP EPSG:5514)"
       },
       "podmínky_užití": {
         "typ": "Specifikace podmínek užití",
