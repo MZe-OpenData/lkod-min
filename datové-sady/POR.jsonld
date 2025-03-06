@@ -1,14 +1,14 @@
 {
-  "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
+  "@context": "https://ofn.gov.cz/dcat-ap-cz-rozhraní-katalogů-otevřených-dat/2024-05-28/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
   "iri": "https://raw.githubusercontent.com/MZe-OpenData/lkod-min/main/datové-sady/POR.jsonld",
   "typ": "Datová sada",
   "název": {
     "cs": "Přípravky na ochranu rostlin",
-    "en": "Plant protection products "
+    "en": "Plant protection products"
   },
   "popis": {
-    "cs": "Datová sada obsahuje data z registru povolených přípravků na ochranu rostlin, který vede Ústřední kontrolní a zkušební ústav zemědělský (ÚKZÚZ).\n\nDatabáze zahrnuje přípravky registrované v České republice a souběžně dovážené přípravky na ochranu rostlin podle zákona č. 326/2004 Sb., o rostlinolékařské péči. \n\nData jsou ve formátu XLS a XML. Údaje o přípravcích jsou také dostupné prostřednictvím datových služeb (webservices - EPH_GCP01F) ve formátu XML - více informací zde: http://mze.gov.cz/public/web/mze/farmar/elektronicka-vymena-dat/prehled-vystavenych-sluzeb/#eph ",
-    "en": "The data set contains data from the register of authorized plant protection products maintained by the Central Institute for Supervising and Testing in Agriculture (ÚKZÚZ).\n\nThe database includes products registered in the Czech Republic and concurrently imported plant protection products according to Act No. 326/2004 Coll., on phytosanitary care.\n\nThe data is in XLS and XML format. Data on products are also available through data services (webservices - EPH_GCP01F) in XML format - more information here: http://mze.gov.cz/public/web/mze/farmar/elektronicka-vymena-dat/prehled-vystavenych-sluzeb/ #eph "
+    "cs": "Datová sada obsahuje data z registru povolených přípravků na ochranu rostlin, který vede Ústřední kontrolní a zkušební ústav zemědělský (ÚKZÚZ).\n\nDatabáze zahrnuje přípravky registrované v České republice a souběžně dovážené přípravky na ochranu rostlin podle zákona č. 326/2004 Sb., o rostlinolékařské péči. \n\nData jsou ve formátu XLS a XML. Údaje o přípravcích jsou také dostupné prostřednictvím datových služeb (webservices - EPH_GCP01F) ve formátu XML - více informací zde: http://mze.gov.cz/public/web/mze/farmar/elektronicka-vymena-dat/prehled-vystavenych-sluzeb/#eph",
+    "en": "The data set contains data from the register of authorized plant protection products maintained by the Central Institute for Supervising and Testing in Agriculture (ÚKZÚZ).\n\nThe database includes products registered in the Czech Republic and concurrently imported plant protection products according to Act No. 326/2004 Coll., on phytosanitary care.\n\nThe data is in XLS and XML format. Data on products are also available through data services (webservices - EPH_GCP01F) in XML format - more information here: http://mze.gov.cz/public/web/mze/farmar/elektronicka-vymena-dat/prehled-vystavenych-sluzeb/ #eph"
   },
   "prvek_rúian": [
     "https://linked.cuzk.cz/resource/ruian/stat/1"
@@ -25,8 +25,8 @@
     "en": [
       "plant protection products",
       "UKZUZ",
-      "MZE",
-      "POR"
+      "POR",
+      "Ministry of Agriculture"
     ]
   },
   "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/DAILY",
@@ -46,7 +46,7 @@
   "distribuce": [
     {
       "typ": "Distribuce",
-      "iri": "https://raw.githubusercontent.com/opendata-mvcr/lkod-min/main/datové-sady/datová-sada.jsonld/distribuce/0",
+      "iri": "https://raw.githubusercontent.com/MZe-OpenData/lkod-min/main/datové-sady/POR.jsonld/distribuce/0",
       "podmínky_užití": {
         "typ": "Specifikace podmínek užití",
         "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
@@ -61,7 +61,7 @@
     },
     {
       "typ": "Distribuce",
-      "iri": "https://raw.githubusercontent.com/opendata-mvcr/lkod-min/main/datové-sady/datová-sada.jsonld/distribuce/1",
+      "iri": "https://raw.githubusercontent.com/MZe-OpenData/lkod-min/main/datové-sady/POR.jsonld/distribuce/1",
       "podmínky_užití": {
         "typ": "Specifikace podmínek užití",
         "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
