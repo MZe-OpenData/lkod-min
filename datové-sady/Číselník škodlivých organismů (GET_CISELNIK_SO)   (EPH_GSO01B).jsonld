@@ -1,6 +1,6 @@
 {
-  "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
-  "iri": "https://raw.githubusercontent.com/MZe-OpenData/lkod-min/raw/main/datov%C3%A9-sady/%C4%8C%C3%ADseln%C3%ADk%20%C5%A1kodliv%C3%BDch%20organism%C5%AF%20(GET_CISELNIK_SO)%20%20%20(EPH_GSO01B).jsonld",
+  "@context": "https://ofn.gov.cz/dcat-ap-cz-rozhraní-katalogů-otevřených-dat/2024-05-28/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
+  "iri": "https://raw.githubusercontent.com/MZe-OpenData/lkod-min/main/datové-sady/Číselník%20škodlivých%20organismů%20(GET_CISELNIK_SO)%20%20%20(EPH_GSO01B).jsonld",
   "typ": "Datová sada",
   "název": {
     "cs": "Číselník škodlivých organismů (GET_CISELNIK_SO) / (EPH_GSO01B)",
@@ -30,7 +30,7 @@
       "data service",
       "EPH",
       "UKZUZ",
-      "MZE",
+      "Ministry of Agriculture",
       "without authorization",
       "registry of fertilizers"
     ]
@@ -52,7 +52,7 @@
   "distribuce": [
     {
       "typ": "Distribuce",
-      "iri": "https://data.gov.cz/zdroj/datové-sady/00020478/887418078/distribuce/0",
+      "iri": "https://raw.githubusercontent.com/MZe-OpenData/lkod-min/main/datové-sady/Číselník%20škodlivých%20organismů%20(GET_CISELNIK_SO)%20%20%20(EPH_GSO01B).jsonld/distribuce/0",
       "název": {
         "cs": "Číselník škodlivých organismů (GET_CISELNIK_SO) / (EPH_GSO01B)",
         "en": "Code list of pests (GET_CISELNIK_SO) / (EPH_GSO01B)"
@@ -69,12 +69,12 @@
         "typ": "Datová služba",
         "přístupový_bod": "https://mze.gov.cz/ssl/nosso-app/EPO/WS/v2Online/vOKOsrv.ashx",
         "popis_přístupového_bodu": "https://mze.gov.cz/ssl/nosso-app/EPO/WS/Online/vOKOsrv.aspx?SERVICEID=EPH_GSO01B",
-        "iri": "https://data.gov.cz/zdroj/datové-sady/00020478/887418078/distribuce/0/přístupová-služba",
+        "iri": "https://raw.githubusercontent.com/MZe-OpenData/lkod-min/main/datové-sady/Číselník%20škodlivých%20organismů%20(GET_CISELNIK_SO)%20%20%20(EPH_GSO01B).jsonld/distribuce/0/přístupová-služba",
         "název": {
           "cs": "Číselník škodlivých organismů (GET_CISELNIK_SO) / (EPH_GSO01B)",
           "en": "Code list of pests (GET_CISELNIK_SO) / (EPH_GSO01B)"
         },
-        "poskytuje_datovou_sadu": "https://data.gov.cz/zdroj/datové-sady/00020478/887418078"
+        "poskytuje_datovou_sadu": "https://raw.githubusercontent.com/MZe-OpenData/lkod-min/main/datové-sady/Číselník%20škodlivých%20organismů%20(GET_CISELNIK_SO)%20%20%20(EPH_GSO01B).jsonld"
       }
     }
   ]
