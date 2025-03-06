@@ -1,6 +1,6 @@
 {
-  "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
-  "iri": "https://raw.githubusercontent.com/MZe-OpenData/lkod-min/raw/main/datov%C3%A9-sady/%C4%8C%C3%ADseln%C3%ADk%20vinic%20(GET_CISELNIK_VINICE)%20%20%20(RVI_GCV01B).jsonld",
+  "@context": "https://ofn.gov.cz/dcat-ap-cz-rozhraní-katalogů-otevřených-dat/2024-05-28/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
+  "iri": "https://raw.githubusercontent.com/MZe-OpenData/lkod-min/main/datové-sady/Číselník%20vinic%20(GET_CISELNIK_VINICE)%20%20%20(RVI_GCV01B).jsonld",
   "typ": "Datová sada",
   "název": {
     "cs": "Číselník vinic (GET_CISELNIK_VINICE) / (RVI_GCV01B)",
@@ -29,7 +29,7 @@
       "web service",
       "data service",
       "UKZUZ",
-      "MZE",
+      "Ministry of Agriculture",
       "RVIN",
       "without authorization",
       "registry of vineyards"
@@ -52,7 +52,7 @@
   "distribuce": [
     {
       "typ": "Distribuce",
-      "iri": "https://data.gov.cz/zdroj/datové-sady/00020478/887790192/distribuce/0",
+      "iri": "https://raw.githubusercontent.com/MZe-OpenData/lkod-min/main/datové-sady/Číselník%20vinic%20(GET_CISELNIK_VINICE)%20%20%20(RVI_GCV01B).jsonld/distribuce/0",
       "název": {
         "cs": "Číselník vinic (GET_CISELNIK_VINICE) / (RVI_GCV01B)",
         "en": "Code list of vineyards (GET_CISELNIK_VINICE) / (RVI_GCV01B)"
@@ -69,12 +69,12 @@
         "typ": "Datová služba",
         "přístupový_bod": "https://mze.gov.cz/ssl/nosso-app/EPO/WS/v2Online/vOKOsrv.ashx",
         "popis_přístupového_bodu": "https://mze.gov.cz/ssl/nosso-app/EPO/WS/Online/vOKOsrv.aspx?SERVICEID=RVI_GCV01B",
-        "iri": "https://data.gov.cz/zdroj/datové-sady/00020478/887790192/distribuce/0/přístupová-služba",
+        "iri": "https://raw.githubusercontent.com/MZe-OpenData/lkod-min/main/datové-sady/Číselník%20vinic%20(GET_CISELNIK_VINICE)%20%20%20(RVI_GCV01B).jsonld/distribuce/0/přístupová-služba",
         "název": {
           "cs": "Číselník vinic (GET_CISELNIK_VINICE) / (RVI_GCV01B)",
           "en": "Code list of vineyards (GET_CISELNIK_VINICE) / (RVI_GCV01B)"
         },
-        "poskytuje_datovou_sadu": "https://data.gov.cz/zdroj/datové-sady/00020478/887790192"
+        "poskytuje_datovou_sadu": "https://raw.githubusercontent.com/MZe-OpenData/lkod-min/main/datové-sady/Číselník%20vinic%20(GET_CISELNIK_VINICE)%20%20%20(RVI_GCV01B).jsonld"
       }
     }
   ]
