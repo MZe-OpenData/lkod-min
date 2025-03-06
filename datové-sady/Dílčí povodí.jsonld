@@ -26,7 +26,7 @@
     ]
   },
   "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/IRREG",
-  "dokumentace": "https://voda.gov.cz/?page=dilci-povodi",
+  "dokumentace": "https://agrigis.cz/isvs-voda/?page=dilci-povodi",
   "téma": [
     "http://publications.europa.eu/resource/authority/data-theme/AGRI",
     "http://publications.europa.eu/resource/authority/data-theme/ENVI"
