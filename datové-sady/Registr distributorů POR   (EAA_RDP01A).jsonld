@@ -1,6 +1,6 @@
 {
   "@context": "https://ofn.gov.cz/dcat-ap-cz-rozhraní-katalogů-otevřených-dat/2024-05-28/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
-  "iri": "https://raw.githubusercontent.com/MZe-OpenData/lkod-min/main/datové-sady/Registr%20distributorů%20POR%20(EAA_RDP01A).jsonld",
+  "iri": "https://raw.githubusercontent.com/MZe-OpenData/lkod-min/main/datové-sady/Registr%20distributorů%20POR%20%20%20(EAA_RDP01A).jsonld",
   "typ": "Datová sada",
   "název": {
     "cs": "Registr distributorů POR / (EAA_RDP01A)",
@@ -54,7 +54,7 @@
   "distribuce": [
     {
       "typ": "Distribuce",
-      "iri": "https://raw.githubusercontent.com/MZe-OpenData/lkod-min/main/datové-sady/Registr%20distributorů%20POR%20(EAA_RDP01A).jsonld/distribuce/0",
+      "iri": "https://raw.githubusercontent.com/MZe-OpenData/lkod-min/main/datové-sady/Registr%20distributorů%20POR%20%20%20(EAA_RDP01A).jsonld/distribuce/0",
       "název": {
         "cs": "Registr distributorů POR / (EAA_RDP01A)",
         "en": "Registry of POR Distributors / (EAA_RDP01A) "
@@ -71,12 +71,12 @@
         "typ": "Datová služba",
         "přístupový_bod": "https://mze.gov.cz/ssl/nosso-app/EPO/WS/v2Online/vOKOsrv.ashx",
         "popis_přístupového_bodu": "https://mze.gov.cz/ssl/nosso-app/EPO/WS/Online/vOKOsrv.aspx?SERVICEID=EAA_RDP01A",
-        "iri": "https://raw.githubusercontent.com/MZe-OpenData/lkod-min/main/datové-sady/Registr%20distributorů%20POR%20(EAA_RDP01A).jsonld/distribuce/0/přístupová-služba",
+        "iri": "https://raw.githubusercontent.com/MZe-OpenData/lkod-min/main/datové-sady/Registr%20distributorů%20POR%20%20%20(EAA_RDP01A).jsonld/distribuce/0/přístupová-služba",
         "název": {
           "cs": "Registr distributorů POR / (EAA_RDP01A)",
           "en": "Registry of POR Distributors / (EAA_RDP01A) "
         },
-        "poskytuje_datovou_sadu": "https://raw.githubusercontent.com/MZe-OpenData/lkod-min/main/datové-sady/Registr%20distributorů%20POR%20(EAA_RDP01A).jsonld"
+        "poskytuje_datovou_sadu": "https://raw.githubusercontent.com/MZe-OpenData/lkod-min/main/datové-sady/Registr%20distributorů%20POR%20%20%20(EAA_RDP01A).jsonld"
       }
     }
   ]
