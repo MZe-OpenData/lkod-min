@@ -1,5 +1,5 @@
 {
-  "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
+  "@context": "https://ofn.gov.cz/dcat-ap-cz-rozhraní-katalogů-otevřených-dat/2024-05-28/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
   "iri": "https://raw.githubusercontent.com/MZe-OpenData/lkod-min/main/datové-sady/Plodiny%20-%20číselník.jsonld",
   "typ": "Datová sada",
   "název": {
@@ -7,8 +7,8 @@
     "en": "Crops - code list"
   },
   "popis": {
-    "cs": "Datová sada obsahuje číselník plodin ve formátu XML. Všechny číselníky jsou dostupné na této adrese: https://mze.gov.cz/ssl/nosso-app/DataKeStazeni/ ",
-    "en": "The data set contains a crop code list in XML format. All code lists are available at this address: https://mze.gov.cz/ssl/nosso-app/DataKeStazeni/ "
+    "cs": "Datová sada obsahuje číselník plodin ve formátu XML. Všechny číselníky jsou dostupné na této adrese: https://mze.gov.cz/ssl/nosso-app/DataKeStazeni/",
+    "en": "The data set contains a crop code list in XML format. All code lists are available at this address: https://mze.gov.cz/ssl/nosso-app/DataKeStazeni/"
   },
   "prvek_rúian": [
     "https://linked.cuzk.cz/resource/ruian/stat/1"
@@ -20,13 +20,13 @@
       "číselník",
       "plodiny",
       "eagri",
-      "mze"
+      "MZE"
     ],
     "en": [
       "eagri",
-      "mze",
       "code list",
-      "crops"
+      "crops",
+      "Ministry of Agriculture"
     ]
   },
   "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/IRREG",
@@ -46,7 +46,7 @@
   "distribuce": [
     {
       "typ": "Distribuce",
-      "iri": "https://data.gov.cz/zdroj/datové-sady/00020478/c249e13f100e14bff0186fbe4e24f09c/distribuce/0",
+      "iri": "https://raw.githubusercontent.com/MZe-OpenData/lkod-min/main/datové-sady/Plodiny%20-%20číselník.jsonld/distribuce/0",
       "podmínky_užití": {
         "typ": "Specifikace podmínek užití",
         "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
