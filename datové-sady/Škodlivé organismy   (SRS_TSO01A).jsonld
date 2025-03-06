@@ -1,6 +1,6 @@
 {
-  "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
-  "iri": "https://raw.githubusercontent.com/MZe-OpenData/lkod-min/raw/main/datov%C3%A9-sady/%C5%A0kodliv%C3%A9%20organismy%20%20%20(SRS_TSO01A).jsonld",
+  "@context": "https://ofn.gov.cz/dcat-ap-cz-rozhraní-katalogů-otevřených-dat/2024-05-28/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
+  "iri": "https://raw.githubusercontent.com/MZe-OpenData/lkod-min/main/datové-sady/Škodlivé%20organismy%20%20%20(SRS_TSO01A).jsonld",
   "typ": "Datová sada",
   "název": {
     "cs": "Škodlivé organismy / (SRS_TSO01A)",
@@ -28,7 +28,7 @@
       "web service",
       "data service",
       "without authorization",
-      "MZE",
+      "Ministry of Agriculture",
       "SRS",
       "state phytosanitary administration"
     ]
@@ -50,7 +50,7 @@
   "distribuce": [
     {
       "typ": "Distribuce",
-      "iri": "https://data.gov.cz/zdroj/datové-sady/00020478/885212635/distribuce/0",
+      "iri": "https://raw.githubusercontent.com/MZe-OpenData/lkod-min/main/datové-sady/Škodlivé%20organismy%20%20%20(SRS_TSO01A).jsonld/distribuce/0",
       "název": {
         "cs": "Škodlivé organismy / (SRS_TSO01A)",
         "en": "Harmful organisms / (SRS_TSO01A) "
@@ -67,12 +67,12 @@
         "typ": "Datová služba",
         "přístupový_bod": "https://mze.gov.cz/ssl/nosso-app/EPO/WS/v2Online/vOKOsrv.ashx",
         "popis_přístupového_bodu": "https://mze.gov.cz/ssl/nosso-app/EPO/WS/Online/vOKOsrv.aspx?SERVICEID=SRS_TSO01A",
-        "iri": "https://data.gov.cz/zdroj/datové-sady/00020478/885212635/distribuce/0/přístupová-služba",
+        "iri": "https://raw.githubusercontent.com/MZe-OpenData/lkod-min/main/datové-sady/Škodlivé%20organismy%20%20%20(SRS_TSO01A).jsonld/distribuce/0/přístupová-služba",
         "název": {
           "cs": "Škodlivé organismy / (SRS_TSO01A)",
           "en": "Harmful organisms / (SRS_TSO01A) "
         },
-        "poskytuje_datovou_sadu": "https://data.gov.cz/zdroj/datové-sady/00020478/885212635"
+        "poskytuje_datovou_sadu": "https://raw.githubusercontent.com/MZe-OpenData/lkod-min/main/datové-sady/Škodlivé%20organismy%20%20%20(SRS_TSO01A).jsonld"
       }
     }
   ]
