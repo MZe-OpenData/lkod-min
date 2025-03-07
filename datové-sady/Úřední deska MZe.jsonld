@@ -1,5 +1,5 @@
 {
-  "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
+  "@context": "https://ofn.gov.cz/dcat-ap-cz-rozhraní-katalogů-otevřených-dat/2024-05-28/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
   "iri": "https://raw.githubusercontent.com/MZe-OpenData/lkod-min/main/datové-sady/Úřední%20deska%20MZe.jsonld",
   "typ": "Datová sada",
   "název": {
@@ -17,11 +17,11 @@
     "cs": [
       "opatření obecné povahy",
       "nařízení",
-      "MZe",
       "výběrová řízení",
       "úřední deska",
       "oznámení",
-      "opatření"
+      "opatření",
+      "MZE"
     ],
     "en": []
   },
