@@ -22,14 +22,14 @@
       "bez autorizace",
       "datová služba",
       "MZE",
-      "ciselnik plodin"
+      "číselník plodin"
     ],
     "en": [
       "web service",
       "LPIS",
       "without authorization",
-      " data service",
-      "MZE",
+      "data service",
+      "Ministry of Agriculture",
       "crops code list"
     ]
   },
@@ -72,7 +72,7 @@
           "cs": "Číselník plodin / (LPI_GPL02A)",
           "en": "Crops code list / (LPI_GPL02A)"
         },
-        "poskytuje_datovou_sadu": "https://data.gov.cz/zdroj/datové-sady/00020478/883700400"
+        "poskytuje_datovou_sadu": "https://raw.githubusercontent.com/MZe-OpenData/lkod-min/main/datové-sady/Číselník%20plodin%20%20%20(LPI_GPL02A).jsonld"
       }
     }
   ]
