@@ -1,5 +1,5 @@
 {
-  "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
+  "@context": "https://ofn.gov.cz/dcat-ap-cz-rozhraní-katalogů-otevřených-dat/2024-05-28/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
   "iri": "https://raw.githubusercontent.com/MZe-OpenData/lkod-min/main/datové-sady/Územní%20působnost%20s.%20p.%20Povodí.jsonld",
   "typ": "Datová sada",
   "název": {
@@ -24,11 +24,11 @@
     "en": [
       "water management",
       "administrative division",
-      "basin"
+      "drainage basin"
     ]
   },
   "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/IRREG",
-  "dokumentace": "https://voda.gov.cz/?page=spravni-cleneni-povodi",
+  "dokumentace": "https://agrigis.cz/isvs-voda/?page=spravni-cleneni-povodi",
   "téma": [
     "http://publications.europa.eu/resource/authority/data-theme/AGRI",
     "http://publications.europa.eu/resource/authority/data-theme/ENVI"
@@ -45,10 +45,10 @@
   "distribuce": [
     {
       "typ": "Distribuce",
-      "iri": "https://data.gov.cz/zdroj/datové-sady/00020478/1e4da1249a914f0ba02a1da2cf66358f/distribuce/0",
+      "iri": "https://raw.githubusercontent.com/MZe-OpenData/lkod-min/main/datové-sady/Územní%20působnost%20s.%20p.%20Povodí.jsonld/distribuce/0",
       "název": {
-        "cs": "Územní působnost s. p. Povodí",
-        "en": "Territorial jurisdiction of Basin state enterprises"
+        "cs": "Územní působnost s. p. Povodí (SHP EPSG:5514)",
+        "en": "Territorial jurisdiction of Basin state enterprises (SHP EPSG:5514)"
       },
       "podmínky_užití": {
         "typ": "Specifikace podmínek užití",
