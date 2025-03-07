@@ -1,5 +1,5 @@
 {
-  "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
+  "@context": "https://ofn.gov.cz/dcat-ap-cz-rozhraní-katalogů-otevřených-dat/2024-05-28/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
   "iri": "https://raw.githubusercontent.com/MZe-OpenData/lkod-min/main/datové-sady/Číselník%20plodin%20(LPI_GPL01C).jsonld",
   "typ": "Datová sada",
   "název": {
@@ -22,14 +22,14 @@
       "bez autorizace",
       "datová služba",
       "MZE",
-      "ciselnik plodin"
+      "číselník plodin"
     ],
     "en": [
       "web service",
       "LPIS",
       "without authorization",
       "data service",
-      "MZE",
+      "Ministry of Agriculture",
       "crops code list"
     ]
   },
@@ -50,7 +50,7 @@
   "distribuce": [
     {
       "typ": "Distribuce",
-      "iri": "https://data.gov.cz/zdroj/datové-sady/00020478/883700963/distribuce/0",
+      "iri": "https://raw.githubusercontent.com/MZe-OpenData/lkod-min/main/datové-sady/Číselník%20plodin%20(LPI_GPL01C).jsonld/distribuce/0",
       "název": {
         "cs": "Číselník plodin / (LPI_GPL01C)",
         "en": "Crops code list (LPI_GPL01C)"
@@ -67,12 +67,12 @@
         "typ": "Datová služba",
         "přístupový_bod": "https://mze.gov.cz/ssl/nosso-app/EPO/WS/v2Online/vOKOsrv.ashx",
         "popis_přístupového_bodu": "https://mze.gov.cz/ssl/nosso-app/EPO/WS/Online/vOKOsrv.aspx?SERVICEID=LPI_GPL01C",
-        "iri": "https://data.gov.cz/zdroj/datové-sady/00020478/883700963/distribuce/0/přístupová-služba",
+        "iri": "https://raw.githubusercontent.com/MZe-OpenData/lkod-min/main/datové-sady/Číselník%20plodin%20(LPI_GPL01C).jsonld/distribuce/0/přístupová-služba",
         "název": {
           "cs": "Číselník plodin / (LPI_GPL01C)",
           "en": "Crops code list (LPI_GPL01C)"
         },
-        "poskytuje_datovou_sadu": "https://data.gov.cz/zdroj/datové-sady/00020478/883700963"
+        "poskytuje_datovou_sadu": "https://raw.githubusercontent.com/MZe-OpenData/lkod-min/main/datové-sady/Číselník%20plodin%20(LPI_GPL01C).jsonld"
       }
     }
   ]
