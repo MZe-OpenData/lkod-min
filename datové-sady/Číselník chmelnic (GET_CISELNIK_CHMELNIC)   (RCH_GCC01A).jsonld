@@ -1,5 +1,5 @@
 {
-  "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
+  "@context": "https://ofn.gov.cz/dcat-ap-cz-rozhraní-katalogů-otevřených-dat/2024-05-28/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
   "iri": "https://raw.githubusercontent.com/MZe-OpenData/lkod-min/main/datové-sady/Číselník%20chmelnic%20(GET_CISELNIK_CHMELNIC)%20%20%20(RCH_GCC01A).jsonld",
   "typ": "Datová sada",
   "název": {
@@ -20,14 +20,14 @@
       "UKZUZ",
       "bez autorizace",
       "MZE",
-      "ciselnik chmelnic",
-      "datova sluzba",
-      "webova sluzba"
+      "číselník chmelnic",
+      "datová služba",
+      "webová služba"
     ],
     "en": [
       "UKZUZ",
       "without autorization",
-      "MZE",
+      "Ministry of Agriculture",
       "hop fields code list",
       "data service",
       "web service"
@@ -50,7 +50,7 @@
   "distribuce": [
     {
       "typ": "Distribuce",
-      "iri": "https://raw.githubusercontent.com/ondrejsilhacek/lkod-min/main/datové-sady.jsonld/distribuce/0",
+      "iri": "https://raw.githubusercontent.com/MZe-OpenData/lkod-min/main/datové-sady/Číselník%20chmelnic%20(GET_CISELNIK_CHMELNIC)%20%20%20(RCH_GCC01A).jsonld/distribuce/0",
       "název": {
         "cs": "Číselník chmelnic (GET_CISELNIK_CHMELNIC) / (RCH_GCC01A)",
         "en": "Hop fields code list (GET_CISELNIK_CHMELNIC) / (RCH_GCC01A)"
@@ -67,12 +67,12 @@
         "typ": "Datová služba",
         "přístupový_bod": "https://mze.gov.cz/ssl/nosso-app/EPO/WS/v2Online/vOKOsrv.ashx",
         "popis_přístupového_bodu": "https://mze.gov.cz/ssl/nosso-app/EPO/WS/Online/vOKOsrv.aspx?SERVICEID=RCH_GCC01A",
-        "iri": "https://raw.githubusercontent.com/ondrejsilhacek/lkod-min/main/datové-sady.jsonld/distribuce/0/přístupová-služba",
+        "iri": "https://raw.githubusercontent.com/MZe-OpenData/lkod-min/main/datové-sady/Číselník%20chmelnic%20(GET_CISELNIK_CHMELNIC)%20%20%20(RCH_GCC01A).jsonld/distribuce/0/přístupová-služba",
         "název": {
           "cs": "Číselník chmelnic (GET_CISELNIK_CHMELNIC) / (RCH_GCC01A)",
           "en": "Hop fields code list (GET_CISELNIK_CHMELNIC) / (RCH_GCC01A)"
         },
-        "poskytuje_datovou_sadu": "https://raw.githubusercontent.com/ondrejsilhacek/lkod-min/main/datové-sady.jsonld"
+        "poskytuje_datovou_sadu": "https://raw.githubusercontent.com/MZe-OpenData/lkod-min/main/datové-sady/Číselník%20chmelnic%20(GET_CISELNIK_CHMELNIC)%20%20%20(RCH_GCC01A).jsonld"
       }
     }
   ]
