@@ -1,5 +1,5 @@
 {
-  "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
+  "@context": "https://ofn.gov.cz/dcat-ap-cz-rozhraní-katalogů-otevřených-dat/2024-05-28/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
   "iri": "https://raw.githubusercontent.com/MZe-OpenData/lkod-min/main/datové-sady/Číselník%20opatření%20Nitrátové%20směrnice%20(NS)%20%20%20(LPI_GNS01A).jsonld",
   "typ": "Datová sada",
   "název": {
@@ -19,7 +19,7 @@
     "cs": [
       "webová služba",
       "LPIS",
-      "nitratova smernice",
+      "nitrátová směrnice",
       "bez autorizace",
       "datová služba",
       "MZE"
@@ -30,7 +30,7 @@
       "nitrates directive",
       "without authorization",
       "data service",
-      "MZE"
+      "Ministry of Agriculture"
     ]
   },
   "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/UPDATE_CONT",
@@ -50,7 +50,7 @@
   "distribuce": [
     {
       "typ": "Distribuce",
-      "iri": "https://data.gov.cz/zdroj/datové-sady/00020478/883700960/distribuce/0",
+      "iri": "https://raw.githubusercontent.com/MZe-OpenData/lkod-min/main/datové-sady/Číselník%20opatření%20Nitrátové%20směrnice%20(NS)%20%20%20(LPI_GNS01A).jsonld/distribuce/0",
       "název": {
         "cs": "Číselník opatření Nitrátové směrnice (NS) / (LPI_GNS01A)",
         "en": "Code list of measures of the Nitrates Directive / (LPI_GNS01A) "
@@ -67,12 +67,12 @@
         "typ": "Datová služba",
         "přístupový_bod": "https://mze.gov.cz/ssl/nosso-app/EPO/WS/v2Online/vOKOsrv.ashx",
         "popis_přístupového_bodu": "https://mze.gov.cz/ssl/nosso-app/EPO/WS/Online/vOKOsrv.aspx?SERVICEID=LPI_GNS01A",
-        "iri": "https://data.gov.cz/zdroj/datové-sady/00020478/883700960/distribuce/0/přístupová-služba",
+        "iri": "https://raw.githubusercontent.com/MZe-OpenData/lkod-min/main/datové-sady/Číselník%20opatření%20Nitrátové%20směrnice%20(NS)%20%20%20(LPI_GNS01A).jsonld/distribuce/0/přístupová-služba",
         "název": {
           "cs": "Číselník opatření Nitrátové směrnice (NS) / (LPI_GNS01A)",
           "en": "Code list of measures of the Nitrates Directive / (LPI_GNS01A) "
         },
-        "poskytuje_datovou_sadu": "https://data.gov.cz/zdroj/datové-sady/00020478/883700960"
+        "poskytuje_datovou_sadu": "https://raw.githubusercontent.com/MZe-OpenData/lkod-min/main/datové-sady/Číselník%20opatření%20Nitrátové%20směrnice%20(NS)%20%20%20(LPI_GNS01A).jsonld"
       }
     }
   ]
