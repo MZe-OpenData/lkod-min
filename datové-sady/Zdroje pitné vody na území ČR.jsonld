@@ -1,6 +1,6 @@
 {
   "@context": "https://ofn.gov.cz/dcat-ap-cz-rozhraní-katalogů-otevřených-dat/2024-05-28/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
-  "iri": "https://raw.githubusercontent.com/MZe-OpenData/lkod-min/main/datové-sady/Zdroje%20pitné%20vody%20na%území%20ČR.jsonld",
+  "iri": "https://raw.githubusercontent.com/MZe-OpenData/lkod-min/main/datové-sady/Zdroje%20pitné%20vody%20na%20území%20ČR.jsonld",
   "typ": "Datová sada",
   "název": {
     "cs": "Zdroje pitné vody na území ČR",
@@ -43,7 +43,7 @@
   "distribuce": [
     {
       "typ": "Distribuce",
-      "iri": "https://raw.githubusercontent.com/MZe-OpenData/lkod-min/main/datové-sady/Zdroje%20pitné%20vody%20na%území%20ČR.jsonld/distribuce/0",
+      "iri": "https://raw.githubusercontent.com/MZe-OpenData/lkod-min/main/datové-sady/Zdroje%20pitné%20vody%20na%20území%20ČR.jsonld/distribuce/0",
       "název": {
         "cs": "Zdroje Pitné vody na území ČR (XLSX)",
         "en": "Drinking Water Sources in the Czech Republic (XLSX)"
@@ -58,7 +58,8 @@
       "soubor_ke_stažení": "https://voda.gov.cz/data/ISVSVoda_Zdrojepitnevody.zip",
       "přístupové_url": "https://voda.gov.cz/data/ISVSVoda_Zdrojepitnevody.zip",
       "typ_média": "http://www.iana.org/assignments/media-types/application/vnd.ms-excel",
-      "formát": "http://publications.europa.eu/resource/authority/file-type/XLSX"
+      "formát": "http://publications.europa.eu/resource/authority/file-type/XLSX",
+      "typ_média_komprese": "http://www.iana.org/assignments/media-types/application/zip"
     }
   ]
 }
