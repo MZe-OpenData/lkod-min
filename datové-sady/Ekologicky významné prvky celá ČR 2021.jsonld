@@ -61,8 +61,8 @@
         "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
         "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
       },
-      "soubor_ke_stažení": "https://mze.gov.cz/public/app/eagriapp/Files/evp_2021-12-31_202211071528_epsg5514.zip",
-      "přístupové_url": "https://mze.gov.cz/public/app/eagriapp/Files/evp_2021-12-31_202211071528_epsg5514.zip",
+      "soubor_ke_stažení": "https://agrigis.gov.cz/portal/sharing/rest/content/items/b0b81d807f83401f8c006f153f15f5af/data",
+      "přístupové_url": "https://agrigis.gov.cz/portal/sharing/rest/content/items/b0b81d807f83401f8c006f153f15f5af/data",
       "typ_média": "http://www.iana.org/assignments/media-types/application/vnd.shp",
       "formát": "http://publications.europa.eu/resource/authority/file-type/SHP",
       "typ_média_komprese": "http://www.iana.org/assignments/media-types/application/zip"
@@ -71,8 +71,8 @@
       "typ": "Distribuce",
       "iri": "https://raw.githubusercontent.com/MZe-OpenData/lkod-min/main/datové-sady/Ekologicky%20významné%20prvky%20celá%20ČR%202021.jsonld/distribuce/1",
       "název": {
-        "cs": "EVP celá ČR 2021 (GML EPSG:4258)",
-        "en": "Ecologically Important Elements 2021 (GML EPSG:4258)"
+        "cs": "EVP celá ČR 2021 (SHP EPSG:4258)",
+        "en": "Ecologically Important Elements 2021 (SHP EPSG:4258)"
       },
       "podmínky_užití": {
         "typ": "Specifikace podmínek užití",
@@ -81,10 +81,10 @@
         "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
         "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
       },
-      "soubor_ke_stažení": "https://mze.gov.cz/public/app/eagriapp/Files/evp_2021-12-31_202211071528_epsg4258.zip",
-      "přístupové_url": "https://mze.gov.cz/public/app/eagriapp/Files/evp_2021-12-31_202211071528_epsg4258.zip",
-      "typ_média": "http://www.iana.org/assignments/media-types/application/SGML",
-      "formát": "http://publications.europa.eu/resource/authority/file-type/GMZ",
+      "soubor_ke_stažení": "https://agrigis.gov.cz/portal/sharing/rest/content/items/3bb5d14fca374d0394c39ea3b85eadcb/data",
+      "přístupové_url": "https://agrigis.gov.cz/portal/sharing/rest/content/items/3bb5d14fca374d0394c39ea3b85eadcb/data",
+      "typ_média": "http://www.iana.org/assignments/media-types/application/vnd.shp",
+      "formát": "http://publications.europa.eu/resource/authority/file-type/SHP",
       "typ_média_komprese": "http://www.iana.org/assignments/media-types/application/zip"
     }
   ]
