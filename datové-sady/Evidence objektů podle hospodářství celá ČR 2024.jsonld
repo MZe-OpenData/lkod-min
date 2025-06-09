@@ -3,7 +3,7 @@
   "iri": "https://raw.githubusercontent.com/MZe-OpenData/lkod-min/main/datové-sady/Evidence%20objektů%20podle%20hospodářství%20celá%20ČR%202024.jsonld",
   "typ": "Datová sada",
   "název": {
-    "cs": "Evidence objektů podle hospodářství celá ČR 2024",
+    "cs": "Evidence objektů podle hospodářství celá ČR",
     "en": "Agricultural and aquaculture facilities (2024)"
   },
   "popis": {
