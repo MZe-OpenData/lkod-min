@@ -61,8 +61,8 @@
         "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
         "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
       },
-      "soubor_ke_stažení": "https://mze.gov.cz/public/app/eagriapp/Files/evp_2023-12-31_202401231034_epsg5514.zip",
-      "přístupové_url": "https://mze.gov.cz/public/app/eagriapp/Files/evp_2023-12-31_202401231034_epsg5514.zip",
+      "soubor_ke_stažení": "https://agrigis.gov.cz/portal/sharing/rest/content/items/9e4375a7a48545e785c980f99844fb5c/data",
+      "přístupové_url": "https://agrigis.gov.cz/portal/sharing/rest/content/items/9e4375a7a48545e785c980f99844fb5c/data",
       "typ_média": "http://www.iana.org/assignments/media-types/application/vnd.shp",
       "formát": "http://publications.europa.eu/resource/authority/file-type/SHP",
       "typ_média_komprese": "http://www.iana.org/assignments/media-types/application/zip"
@@ -81,8 +81,8 @@
         "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
         "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
       },
-      "soubor_ke_stažení": "https://mze.gov.cz/public/app/eagriapp/Files/evp_2023-12-31_202401231141_epsg4258.zip",
-      "přístupové_url": "https://mze.gov.cz/public/app/eagriapp/Files/evp_2023-12-31_202401231141_epsg4258.zip",
+      "soubor_ke_stažení": "https://agrigis.gov.cz/portal/sharing/rest/content/items/1df529cb85cf4b769a65d97bc1cdc7bc/data",
+      "přístupové_url": "https://agrigis.gov.cz/portal/sharing/rest/content/items/1df529cb85cf4b769a65d97bc1cdc7bc/data",
       "typ_média": "http://www.iana.org/assignments/media-types/application/vnd.shp",
       "formát": "http://publications.europa.eu/resource/authority/file-type/SHP",
       "typ_média_komprese": "http://www.iana.org/assignments/media-types/application/zip"
