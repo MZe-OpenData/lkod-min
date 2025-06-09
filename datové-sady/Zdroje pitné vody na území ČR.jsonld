@@ -3,7 +3,7 @@
   "iri": "https://raw.githubusercontent.com/MZe-OpenData/lkod-min/main/datové-sady/Zdroje%20pitné%20vody%20na%území%20ČR.jsonld",
   "typ": "Datová sada",
   "název": {
-    "cs": "Zdroje pitné vody na území ČR",
+    "cs": "Zdroje pitné vody",
     "en": "Drinking Water Sources in the Czech Republic"
   },
   "popis": {
