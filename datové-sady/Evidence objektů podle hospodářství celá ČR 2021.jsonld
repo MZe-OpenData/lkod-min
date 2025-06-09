@@ -1,14 +1,14 @@
 {
   "@context": "https://ofn.gov.cz/dcat-ap-cz-rozhraní-katalogů-otevřených-dat/2024-05-28/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
-  "iri": "https://raw.githubusercontent.com/MZe-OpenData/lkod-min/main/datové-sady/Evidence%20objektů%20podle%20hospodářství%20celá%20ČR%202021.jsonld",
+  "iri": "https://raw.githubusercontent.com/MZe-OpenData/lkod-min/main/datové-sady/Evidence%20objektů%20podle%20hospodářství%20celá%20ČR%202022.jsonld",
   "typ": "Datová sada",
   "název": {
-    "cs": "Evidence objektů podle hospodářství celá ČR 2021",
-    "en": "Agricultural and aquaculture facilities (2021)"
+    "cs": "Evidence objektů podle hospodářství celá ČR 2022",
+    "en": "Agricultural and aquaculture facilities (2022)"
   },
   "popis": {
-    "cs": "Evidence objektů podle hospodářství evidované na základě zákona č. 252/1997 Sb., o zemědělství. Rozdělují se na trvalé, vodní a ostatní objekty.\nDatová sada obsahuje objekty hospodářství v rozsahu celé České republiky ve formátu SHP (shapefile) k 31.12.2021.",
-    "en": "Records of agricultural and aquaculture facilities registered on the basis of Act No. 252/1997 Coll., on Agriculture. They are divided into permanent, aquatic and other objects.\nThe dataset contains spatial data in the extent of the entire Czech Republic in SHP (shapefile) format as of 31.12.2021."
+    "cs": "Evidence objektů podle hospodářství evidované na základě zákona č. 252/1997 Sb., o zemědělství. Rozdělují se na trvalé, vodní a ostatní objekty.\nDatová sada obsahuje objekty hospodářství v rozsahu celé České republiky ve formátu SHP (shapefile) k 31.12.2022.",
+    "en": "Records of agricultural and aquaculture facilities registered on the basis of Act No. 252/1997 Coll., on Agriculture. They are divided into permanent, aquatic and other objects.\nThe dataset contains spatial data in the extent of the entire Czech Republic in SHP (shapefile) format as of 31.12.2022."
   },
   "prvek_rúian": [
     "https://linked.cuzk.cz/resource/ruian/stat/1"
@@ -17,7 +17,7 @@
   "prostorové_pokrytí": [],
   "časové_pokrytí": {
     "typ": "Časový interval",
-    "konec": "2021-12-31"
+    "konec": "2022-12-31"
   },
   "klíčové_slovo": {
     "cs": [
@@ -32,6 +32,7 @@
     ]
   },
   "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/NEVER",
+  "dokumentace": "https://agrigis.gov.cz/portal/sharing/rest/content/items/d27da7baa72b425480bc7e9ab973d40a/data",
   "téma": [
     "http://publications.europa.eu/resource/authority/data-theme/AGRI"
   ],
@@ -47,7 +48,11 @@
   "distribuce": [
     {
       "typ": "Distribuce",
-      "iri": "https://raw.githubusercontent.com/MZe-OpenData/lkod-min/main/datové-sady/Evidence%20objektů%20podle%20hospodářství%20celá%20ČR%202021.jsonld/distribuce/0",
+      "iri": "https://raw.githubusercontent.com/MZe-OpenData/lkod-min/main/datové-sady/Evidence%20objektů%20podle%20hospodářství%20celá%20ČR%202022.jsonld/distribuce/0",
+      "název": {
+        "cs": "Evidence objektů podle hospodářství 2022 (SHP EPSG:5514)",
+        "en": "Agricultural and aquaculture facilities 2022 (SHP EPSG:5514)"
+      },
       "podmínky_užití": {
         "typ": "Specifikace podmínek užití",
         "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
@@ -55,15 +60,19 @@
         "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
         "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
       },
-      "soubor_ke_stažení": "https://mze.gov.cz/public/app/eagriapp/Files/insp_202211141334_epsg5514.zip",
-      "přístupové_url": "https://mze.gov.cz/public/app/eagriapp/Files/insp_202211141334_epsg5514.zip",
+      "soubor_ke_stažení": "https://agrigis.gov.cz/portal/sharing/rest/content/items/5e3cba544e9448e4a68b8b946e196570/data",
+      "přístupové_url": "https://agrigis.gov.cz/portal/sharing/rest/content/items/5e3cba544e9448e4a68b8b946e196570/data",
       "typ_média": "http://www.iana.org/assignments/media-types/application/vnd.shp",
       "formát": "http://publications.europa.eu/resource/authority/file-type/SHP",
       "typ_média_komprese": "http://www.iana.org/assignments/media-types/application/zip"
     },
     {
       "typ": "Distribuce",
-      "iri": "https://raw.githubusercontent.com/MZe-OpenData/lkod-min/main/datové-sady/Evidence%20objektů%20podle%20hospodářství%20celá%20ČR%202021.jsonld/distribuce/1",
+      "iri": "https://raw.githubusercontent.com/MZe-OpenData/lkod-min/main/datové-sady/Evidence%20objektů%20podle%20hospodářství%20celá%20ČR%202022.jsonld/distribuce/1",
+      "název": {
+        "cs": "Evidence objektů podle hospodářství celá ČR 2022 (SHP EPSG:4258) ",
+        "en": "Agricultural and aquaculture facilities 2022 (SHP EPSG:4258) "
+      },
       "podmínky_užití": {
         "typ": "Specifikace podmínek užití",
         "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
@@ -71,10 +80,10 @@
         "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
         "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
       },
-      "soubor_ke_stažení": "https://mze.gov.cz/public/app/eagriapp/Files/insp_202211141334_epsg4258.zip",
-      "přístupové_url": "https://mze.gov.cz/public/app/eagriapp/Files/insp_202211141334_epsg4258.zip",
-      "typ_média": "http://www.iana.org/assignments/media-types/application/SGML",
-      "formát": "http://publications.europa.eu/resource/authority/file-type/GMZ",
+      "soubor_ke_stažení": "https://agrigis.gov.cz/portal/sharing/rest/content/items/17bc22dcb95149e09c7770d9d8060d7f/data",
+      "přístupové_url": "https://agrigis.gov.cz/portal/sharing/rest/content/items/17bc22dcb95149e09c7770d9d8060d7f/data",
+      "typ_média": "http://www.iana.org/assignments/media-types/application/vnd.shp",
+      "formát": "http://publications.europa.eu/resource/authority/file-type/SHP",
       "typ_média_komprese": "http://www.iana.org/assignments/media-types/application/zip"
     }
   ]
