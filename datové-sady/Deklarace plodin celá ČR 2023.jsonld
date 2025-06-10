@@ -30,7 +30,8 @@
     "en": [
       "crop declaration",
       "LPIS",
-      "the whole Czech Republic"
+      "the whole Czech Republic",
+      "farmer's blocks"
     ]
   },
   "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/NEVER",
@@ -62,8 +63,8 @@
         "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
         "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
       },
-      "soubor_ke_stažení": "https://mze.gov.cz/public/app/eagriapp/Files/geoprostor_zadosti23_2023-08-01_202401251009_epsg5514.zip",
-      "přístupové_url": "https://mze.gov.cz/public/app/eagriapp/Files/geoprostor_zadosti23_2023-08-01_202401251009_epsg5514.zip",
+      "soubor_ke_stažení": "https://agrigis.gov.cz/portal/sharing/rest/content/items/98cd1f00ac424ac19b952923de8bbded/data",
+      "přístupové_url": "https://agrigis.gov.cz/portal/sharing/rest/content/items/98cd1f00ac424ac19b952923de8bbded/data",
       "typ_média": "http://www.iana.org/assignments/media-types/application/vnd.shp",
       "formát": "http://publications.europa.eu/resource/authority/file-type/SHP",
       "typ_média_komprese": "http://www.iana.org/assignments/media-types/application/zip"
@@ -82,8 +83,8 @@
         "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
         "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
       },
-      "soubor_ke_stažení": "https://mze.gov.cz/public/app/eagriapp/Files/geoprostor_zadosti23_2023-08-01_202401251009_epsg4258.zip",
-      "přístupové_url": "https://mze.gov.cz/public/app/eagriapp/Files/geoprostor_zadosti23_2023-08-01_202401251009_epsg4258.zip",
+      "soubor_ke_stažení": "https://agrigis.gov.cz/portal/sharing/rest/content/items/d9a6e306fe534a059519fdf788da1df6/data",
+      "přístupové_url": "https://agrigis.gov.cz/portal/sharing/rest/content/items/d9a6e306fe534a059519fdf788da1df6/data",
       "typ_média": "http://www.iana.org/assignments/media-types/application/vnd.shp",
       "formát": "http://publications.europa.eu/resource/authority/file-type/SHP",
       "typ_média_komprese": "http://www.iana.org/assignments/media-types/application/zip"
