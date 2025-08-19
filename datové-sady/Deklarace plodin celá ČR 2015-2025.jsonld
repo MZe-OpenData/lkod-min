@@ -7,8 +7,8 @@
     "en": "Crop declaration 2015-2025 (The whole Czech Republic)"
   },
   "popis": {
-    "cs": "Datová sada obsahuje tabulková data deklarovaných plodin na DPB (dílech půdních bloků) z let 2015 až 2025 v rozsahu celé České republiky. Data jsou ve formátu XLSX.",
-    "en": "This dataset contains tabular data of crop declaration on the farmer's blocks from 2015 to 2025 in the extent of the entire Czech Republic. The data is in XLSX format."
+    "cs": "Datová sada obsahuje tabulková data deklarovaných plodin na DPB (dílech půdních bloků) z let 2015 až 2025 v rozsahu celé České republiky. Platnost dat je vždy k 1. 8. daného roku. Data jsou ve formátu XLSX.",
+    "en": "This dataset contains tabular data of crop declaration on the farmer's blocks from 2015 to 2025 in the extent of the entire Czech Republic. The validity of the data is always as of August 1st of the given year. The data is in XLSX format."
   },
   "prvek_rúian": [
     "https://linked.cuzk.cz/resource/ruian/stat/1"
@@ -17,7 +17,7 @@
   "prostorové_pokrytí": [],
   "časové_pokrytí": {
     "typ": "Časový interval",
-    "konec": "2025-05-21"
+    "konec": "2025-08-01"
   },
   "klíčové_slovo": {
     "cs": [
@@ -63,8 +63,8 @@
         "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
         "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
       },
-      "soubor_ke_stažení": "https://agrigis.gov.cz/portal/sharing/rest/content/items/b64fe62c96f34fbfb2e266a0621bcdef/data",
-      "přístupové_url": "https://agrigis.gov.cz/portal/sharing/rest/content/items/b64fe62c96f34fbfb2e266a0621bcdef/data",
+      "soubor_ke_stažení": "https://agrigis.gov.cz/portal/sharing/rest/content/items/a72bf317727c48e481b271ad10e5eb9f/data",
+      "přístupové_url": "https://agrigis.gov.cz/portal/sharing/rest/content/items/a72bf317727c48e481b271ad10e5eb9f/data",
       "typ_média": "http://www.iana.org/assignments/media-types/application/vnd.ms-excel",
       "formát": "http://publications.europa.eu/resource/authority/file-type/XLSX",
       "typ_média_komprese": "http://www.iana.org/assignments/media-types/application/zip"
