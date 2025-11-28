@@ -6,7 +6,7 @@
     "cs": "Omezení používání pyrotechniky"
   },
   "popis": {
-    "cs": "Datová sada obsahuje zóny, ve kterých je zakázáno zacházet s pyrotechnickými výrobky s výjimkou kategorie F1 podle § 35b zákona č. 344/2025 Sb., kterým se mění zákon č. 206/2015 Sb., o pyrotechnických výrobcích a zacházení s nimi a o změně některých zákonů (zákon o pyrotechnice), \nve znění pozdějších předpisů, a další související zákony. Účinnost zón s omezeným používáním pyrotechniky je stanovena od 1. 12. 2025.\nDatová sada rovněž obsahuje území národních parků, kde je podle § 16 zákona č. 114/1992 Sb., o ochraně přírody a krajiny, ve znění pozdějších předpisů zakázáno provádět ohňostroje nebo používat zábavní pyrotechniku."
+    "cs": "Datová sada obsahuje zóny, ve kterých je zakázáno zacházet s pyrotechnickými výrobky s výjimkou kategorie F1 podle § 35b zákona č. 344/2025 Sb., kterým se mění zákon č. 206/2015 Sb., o pyrotechnických výrobcích a zacházení s nimi a o změně některých zákonů (zákon o pyrotechnice), \nve znění pozdějších předpisů, a další související zákony. Účinnost zón s omezeným používáním pyrotechniky je stanovena od 1. 12. 2025.\nDatová sada rovněž obsahuje území národních parků, kde je podle § 16 zákona č. 114/1992 Sb., o ochraně přírody a krajiny, ve znění pozdějších předpisů zakázáno provádět ohňostroje nebo používat zábavní pyrotechniku.\n\nPoslední aktualizace dat proběhla 28. 11. 2025."
   },
   "prvek_rúian": [
     "https://linked.cuzk.cz/resource/ruian/stat/1"
@@ -23,7 +23,7 @@
     ],
     "en": []
   },
-  "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/UPDATE_CONT",
+  "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/WEEKLY",
   "téma": [
     "http://publications.europa.eu/resource/authority/data-theme/AGRI",
     "http://publications.europa.eu/resource/authority/data-theme/ENVI"
@@ -42,7 +42,7 @@
       "typ": "Distribuce",
       "iri": "https://raw.githubusercontent.com/MZe-OpenData/lkod-min/main/datové-sady/Omezení%20používání%20pyrotechniky.jsonld/distribuce/0",
       "název": {
-        "cs": "Zóny omezení pyrotechniky (EPSG: 5514)"
+        "cs": "Zóny omezení pyrotechniky 28-11-2025 (EPSG: 5514)"
       },
       "podmínky_užití": {
         "typ": "Specifikace podmínek užití",
