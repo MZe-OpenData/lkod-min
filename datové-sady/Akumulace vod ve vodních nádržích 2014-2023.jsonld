@@ -1,10 +1,10 @@
 {
   "@context": "https://ofn.gov.cz/dcat-ap-cz-rozhraní-katalogů-otevřených-dat/2024-05-28/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
-  "iri": "https://raw.githubusercontent.com/MZe-OpenData/lkod-min/main/datové-sady/Akumulace%20vod%20ve%20vodních%20nádržích%202014-2023.jsonld",
+  "iri": "https://raw.githubusercontent.com/MZe-OpenData/lkod-min/main/datové-sady/Akumulace%20vod%20ve%20vodních%20nádržích%202015-2024.jsonld",
   "typ": "Datová sada",
   "název": {
-    "cs": "Akumulace vod ve vodních nádržích 2014-2023",
-    "en": "Water accumulation in reservoirs 2014-2023"
+    "cs": "Akumulace vod ve vodních nádržích 2015-2024",
+    "en": "Water accumulation in reservoirs 2015-2024"
   },
   "popis": {
     "cs": "Evidence odběrů povrchových a podzemních vod, vypouštění odpadních a důlních vod a akumulace či vzdouvání povrchových vod ve vodních nádržích je jednotlivými správci povodí zřízena, vedena a aktualizována v rámci zjišťování a hodnocení stavu povrchových a podzemních vod [§ 21 odst. 2 písm. c) bod 4 zákona č. 254/2001 Sb., o vodách, ve znění pozdějších předpisů, dále jen „vodní zákon“].",
@@ -26,7 +26,7 @@
     ]
   },
   "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/NEVER",
-  "dokumentace": "https://agrigis.cz/isvs-voda/?page=akumulace-vod-ve-vodnich-nadrzich",
+  "dokumentace": "https://voda.gov.cz/?page=akumulace-vod-ve-vodnich-nadrzich",
   "téma": [
     "http://publications.europa.eu/resource/authority/data-theme/ENVI"
   ],
@@ -42,10 +42,10 @@
   "distribuce": [
     {
       "typ": "Distribuce",
-      "iri": "https://raw.githubusercontent.com/MZe-OpenData/lkod-min/main/datové-sady/Akumulace%20vod%20ve%20vodních%20nádržích%202014-2023.jsonld/distribuce/0",
+      "iri": "https://raw.githubusercontent.com/MZe-OpenData/lkod-min/main/datové-sady/Akumulace%20vod%20ve%20vodních%20nádržích%202015-2024.jsonld/distribuce/0",
       "název": {
-        "cs": "Akumulace vod ve vodních nádržích (SHP EPSG:5514)",
-        "en": "Water accumulation in reservoirs (SHP EPSG:5514)"
+        "cs": "Akumulace vod ve vodních nádržích 2015-2024 (SHP EPSG:5514)",
+        "en": "Water accumulation in reservoirs 2015-2024 (SHP EPSG:5514)"
       },
       "podmínky_užití": {
         "typ": "Specifikace podmínek užití",
@@ -54,11 +54,30 @@
         "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
         "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
       },
-      "soubor_ke_stažení": "https://agrigis.cz/isvs-voda/data/ISVSVoda_Akumulace_2014-2023.zip",
-      "přístupové_url": "https://agrigis.cz/isvs-voda/data/ISVSVoda_Akumulace_2014-2023.zip",
+      "soubor_ke_stažení": "https://voda.gov.cz/dokumenty/Akumulace_vod_v_nadrzich_2015-2024.zip",
+      "přístupové_url": "https://voda.gov.cz/dokumenty/Akumulace_vod_v_nadrzich_2015-2024.zip",
       "typ_média": "http://www.iana.org/assignments/media-types/application/vnd.shp",
       "formát": "http://publications.europa.eu/resource/authority/file-type/SHP",
       "typ_média_komprese": "http://www.iana.org/assignments/media-types/application/zip"
+    },
+    {
+      "typ": "Distribuce",
+      "iri": "https://raw.githubusercontent.com/MZe-OpenData/lkod-min/main/datové-sady/Akumulace%20vod%20ve%20vodních%20nádržích%202015-2024.jsonld/distribuce/1",
+      "název": {
+        "cs": "Akumulace vod ve vodních nádržích 2015-2024 (XLSX)",
+        "en": "Water accumulation in reservoirs 2015-2024 (XLSX)"
+      },
+      "podmínky_užití": {
+        "typ": "Specifikace podmínek užití",
+        "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
+        "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
+        "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
+        "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
+      },
+      "soubor_ke_stažení": "https://voda.gov.cz/dokumenty/ISVSVoda_Akumulace_vod_v_nadrzich_2015-2024.xlsx",
+      "přístupové_url": "https://voda.gov.cz/dokumenty/ISVSVoda_Akumulace_vod_v_nadrzich_2015-2024.xlsx",
+      "typ_média": "http://www.iana.org/assignments/media-types/application/vnd.ms-excel",
+      "formát": "http://publications.europa.eu/resource/authority/file-type/XLSX"
     }
   ]
 }
