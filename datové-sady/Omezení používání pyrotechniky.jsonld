@@ -23,7 +23,7 @@
     ],
     "en": []
   },
-  "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/WEEKLY",
+  "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/IRREG",
   "téma": [
     "http://publications.europa.eu/resource/authority/data-theme/AGRI",
     "http://publications.europa.eu/resource/authority/data-theme/ENVI"
