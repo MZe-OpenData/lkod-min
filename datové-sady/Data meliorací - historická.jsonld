@@ -58,8 +58,8 @@
         "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
         "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
       },
-      "soubor_ke_stažení": "https://mze.gov.cz/public/web/file/467411/pulec_farmar.zip",
-      "přístupové_url": "https://mze.gov.cz/public/web/file/467411/pulec_farmar.zip",
+      "soubor_ke_stažení": "https://mze.gov.cz/public/portal/mze/-q333461---dXVl958j/data-melioraci-ve-formatu-shp?_linka=a474325",
+      "přístupové_url": "https://mze.gov.cz/public/portal/mze/-q333461---dXVl958j/data-melioraci-ve-formatu-shp?_linka=a474325",
       "typ_média": "http://www.iana.org/assignments/media-types/application/vnd.shp",
       "formát": "http://publications.europa.eu/resource/authority/file-type/SHP",
       "typ_média_komprese": "http://www.iana.org/assignments/media-types/application/zip"
