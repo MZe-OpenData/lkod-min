@@ -7,8 +7,8 @@
     "en": "Sub-basins"
   },
   "popis": {
-    "cs": "Rozdělení rozvodnic 1. řádu na dílčí povodí.",
-    "en": "Division of 1st order watersheds into sub-basins."
+    "cs": "Datová sada představuje vymezení dílčích povodí (rozdělení rozvodnic 1. řádu na dílčí povodí) v České republice pro potřeby plánování.",
+    "en": "The dataset contains a delineation of sub-basins (division of 1st order watersheds into sub-basins) in the Czech Republic for planning purposes."
   },
   "prvek_rúian": [
     "https://linked.cuzk.cz/resource/ruian/stat/1"
@@ -26,7 +26,7 @@
     ]
   },
   "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/IRREG",
-  "dokumentace": "https://agrigis.cz/isvs-voda/?page=dilci-povodi",
+  "dokumentace": "https://voda.gov.cz/?page=dilci-povodi",
   "téma": [
     "http://publications.europa.eu/resource/authority/data-theme/AGRI",
     "http://publications.europa.eu/resource/authority/data-theme/ENVI"
@@ -45,8 +45,8 @@
       "typ": "Distribuce",
       "iri": "https://raw.githubusercontent.com/MZe-OpenData/lkod-min/main/datové-sady/Dílčí%20povodí.jsonld/distribuce/0",
       "název": {
-        "cs": "Dílčí povodí",
-        "en": "Sub-basins"
+        "cs": "Dílčí povodí (SHP EPSG:5514)",
+        "en": "Sub-basins (SHP EPSG:5514)"
       },
       "podmínky_užití": {
         "typ": "Specifikace podmínek užití",
