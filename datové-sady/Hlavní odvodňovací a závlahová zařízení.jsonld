@@ -28,7 +28,7 @@
     ]
   },
   "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/ANNUAL",
-  "dokumentace": "https://agrigis.cz/isvs-voda/?page=hlavni-odvodnovaci-a-zavlahova-za%C5%99izeni",
+  "dokumentace": "https://voda.gov.cz/?page=hlavni-odvodnovaci-a-zavlahova-za%C5%99izeni",
   "téma": [
     "http://publications.europa.eu/resource/authority/data-theme/ENVI"
   ],
@@ -46,8 +46,8 @@
       "typ": "Distribuce",
       "iri": "https://raw.githubusercontent.com/MZe-OpenData/lkod-min/main/datové-sady/Hlavní%20odvodňovací%20a%20závlahová%20zařízení.jsonld/distribuce/0",
       "název": {
-        "cs": "Hlavní odvodňovací a závlahová zařízení",
-        "en": "Main drainage and irrigation facilities"
+        "cs": "Hlavní odvodňovací a závlahová zařízení (SHP EPSG:5514)",
+        "en": "Main drainage and irrigation facilities (SHP EPSG:5514)"
       },
       "podmínky_užití": {
         "typ": "Specifikace podmínek užití",
