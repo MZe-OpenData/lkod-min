@@ -28,7 +28,7 @@
     ]
   },
   "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/UPDATE_CONT",
-  "dokumentace": "https://agrigis.cz/isvs-voda/?page=objekty-v-koryte",
+  "dokumentace": "https://voda.gov.cz/?page=objekty-v-koryte",
   "téma": [
     "http://publications.europa.eu/resource/authority/data-theme/AGRI",
     "http://publications.europa.eu/resource/authority/data-theme/ENVI"
@@ -47,8 +47,8 @@
       "typ": "Distribuce",
       "iri": "https://raw.githubusercontent.com/MZe-OpenData/lkod-min/main/datové-sady/Objekty%20v%20korytě.jsonld/distribuce/0",
       "název": {
-        "cs": "Objekty v korytě",
-        "en": "Objects in the riverbed"
+        "cs": "Objekty v korytě (SHP EPSG:5514)",
+        "en": "Objects in the riverbed (SHP EPSG:5514)"
       },
       "podmínky_užití": {
         "typ": "Specifikace podmínek užití",
