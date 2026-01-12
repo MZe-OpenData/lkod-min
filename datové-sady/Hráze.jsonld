@@ -28,7 +28,7 @@
     ]
   },
   "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/UPDATE_CONT",
-  "dokumentace": "https://agrigis.cz/isvs-voda/?page=hraze",
+  "dokumentace": "https://voda.gov.cz/?page=hraze",
   "téma": [
     "http://publications.europa.eu/resource/authority/data-theme/AGRI",
     "http://publications.europa.eu/resource/authority/data-theme/ENVI"
@@ -47,8 +47,8 @@
       "typ": "Distribuce",
       "iri": "https://raw.githubusercontent.com/MZe-OpenData/lkod-min/main/datové-sady/Hráze.jsonld/distribuce/0",
       "název": {
-        "cs": "Hráze",
-        "en": "Dams"
+        "cs": "Hráze (SHP EPSG:5514)",
+        "en": "Dams (SHP EPSG:5514)"
       },
       "podmínky_užití": {
         "typ": "Specifikace podmínek užití",
