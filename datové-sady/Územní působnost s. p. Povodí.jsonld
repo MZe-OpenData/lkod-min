@@ -28,7 +28,7 @@
     ]
   },
   "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/IRREG",
-  "dokumentace": "https://agrigis.cz/isvs-voda/?page=spravni-cleneni-povodi",
+  "dokumentace": "https://voda.gov.cz/?page=spravni-cleneni-povodi",
   "téma": [
     "http://publications.europa.eu/resource/authority/data-theme/AGRI",
     "http://publications.europa.eu/resource/authority/data-theme/ENVI"
