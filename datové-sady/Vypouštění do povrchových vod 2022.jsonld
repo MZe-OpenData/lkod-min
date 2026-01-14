@@ -26,7 +26,7 @@
     ]
   },
   "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/ANNUAL",
-  "dokumentace": "https://agrigis.cz/isvs-voda/?page=vypousteni-do-povrchovych-vod",
+  "dokumentace": "https://voda.gov.cz/?page=vypousteni-do-povrchovych-vod",
   "téma": [
     "http://publications.europa.eu/resource/authority/data-theme/ENVI"
   ],
@@ -44,8 +44,8 @@
       "typ": "Distribuce",
       "iri": "https://raw.githubusercontent.com/MZe-OpenData/lkod-min/main/datové-sady/Vypouštění%20do%20povrchových%20vod%202022.jsonld/distribuce/0",
       "název": {
-        "cs": "Vypouštění povrchových vod (SHP EPSG:5514)",
-        "en": "Release of surface water (SHP EPSG:5514)"
+        "cs": "Vypouštění povrchových vod 2022 (SHP EPSG:5514)",
+        "en": "Release of surface water 2022 (SHP EPSG:5514)"
       },
       "podmínky_užití": {
         "typ": "Specifikace podmínek užití",
@@ -54,11 +54,30 @@
         "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
         "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
       },
-      "soubor_ke_stažení": "https://agrigis.cz/isvs-voda/data/ISVSVoda_Vypousteni_do_povrchovych_vod_2022.zip",
-      "přístupové_url": "https://agrigis.cz/isvs-voda/data/ISVSVoda_Vypousteni_do_povrchovych_vod_2022.zip",
+      "soubor_ke_stažení": "https://voda.gov.cz/dokumenty/ISVSVoda_Vypousteni_do_povrchovych_vod_2022.zip",
+      "přístupové_url": "https://voda.gov.cz/dokumenty/ISVSVoda_Vypousteni_do_povrchovych_vod_2022.zip",
       "typ_média": "http://www.iana.org/assignments/media-types/application/vnd.shp",
       "formát": "http://publications.europa.eu/resource/authority/file-type/SHP",
       "typ_média_komprese": "http://www.iana.org/assignments/media-types/application/zip"
+    },
+    {
+      "typ": "Distribuce",
+      "iri": "https://raw.githubusercontent.com/MZe-OpenData/lkod-min/main/datové-sady/Vypouštění%20do%20povrchových%20vod%202022.jsonld/distribuce/1",
+      "název": {
+        "cs": "Vypouštění povrchových vod 2022 (XLSX)",
+        "en": "Release of surface water 2022 (XLSX)"
+      },
+      "podmínky_užití": {
+        "typ": "Specifikace podmínek užití",
+        "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
+        "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
+        "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
+        "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
+      },
+      "soubor_ke_stažení": "https://voda.gov.cz/dokumenty/ISVSVoda_Vypousteni_do_povrchovych_vod_2022.xlsx",
+      "přístupové_url": "https://voda.gov.cz/dokumenty/ISVSVoda_Vypousteni_do_povrchovych_vod_2022.xlsx",
+      "typ_média": "http://www.iana.org/assignments/media-types/application/vnd.ms-excel",
+      "formát": "http://publications.europa.eu/resource/authority/file-type/XLSX"
     }
   ]
 }
