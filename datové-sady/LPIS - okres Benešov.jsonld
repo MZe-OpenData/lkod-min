@@ -60,8 +60,8 @@
         "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
         "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
       },
-      "soubor_ke_stažení": "https://portal.mze.cz/public/app/eagriapp/lpisdata/20260110-3201-EVP-SHP.zip",
-      "přístupové_url": "https://portal.mze.cz/public/app/eagriapp/lpisdata/20260110-3201-EVP-SHP.zip",
+      "soubor_ke_stažení": "https://mze.gov.cz/public/app/eagriapp/lpisdata/3201-EVP-SHP.zip",
+      "přístupové_url": "https://mze.gov.cz/public/app/eagriapp/lpisdata/3201-EVP-SHP.zip",
       "typ_média": "http://www.iana.org/assignments/media-types/application/vnd.shp",
       "formát": "http://publications.europa.eu/resource/authority/file-type/SHP",
       "typ_média_komprese": "http://www.iana.org/assignments/media-types/application/zip"
