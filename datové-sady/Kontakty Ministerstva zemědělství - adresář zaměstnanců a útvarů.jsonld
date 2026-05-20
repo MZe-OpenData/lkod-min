@@ -3,10 +3,10 @@
   "iri": "https://raw.githubusercontent.com/MZe-OpenData/lkod-min/main/datové-sady/Kontakty%20Ministerstva%20zemědělství%20-%20adresář%20zaměstnanců%20a%20útvarů.jsonld",
   "typ": "Datová sada",
   "název": {
-    "cs": "Kontakty Ministerstva zemědělství - adresář zaměstnanců a útvarů"
+    "cs": "Kontakty MZe - adresář zaměstnanců a útvarů"
   },
   "popis": {
-    "cs": "Webový adresář telefonických a e-mailových kontaktů vedoucích pracovníků a představených v Ministerstvu zemědělství."
+    "cs": "Webový adresář telefonických a e-mailových kontaktů vedoucích pracovníků a představených Ministerstva zemědělství."
   },
   "prvek_rúian": [
     "https://linked.cuzk.cz/resource/ruian/stat/1"
