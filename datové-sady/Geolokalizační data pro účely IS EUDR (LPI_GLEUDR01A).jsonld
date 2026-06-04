@@ -67,7 +67,7 @@
       "přístupová_služba": {
         "typ": "Datová služba",
         "přístupový_bod": "https://epomze.gov.cz/ssl/nosso-app/EPO/WS/v2Online/vOKOsrv.ashx",
-        "popis_přístupového_bodu": "https://epomzetest.gov.cz/ssl/nosso-app/EPO/WS/v2Online/vOKOsrv.aspx?SERVICEID=LPI_GLEUDR01A",
+        "popis_přístupového_bodu": "https://epomzetest.gov.cz/ssl/nosso-app/EPO/WS/v2Online/vOKOsrv.ashx",
         "iri": "https://raw.githubusercontent.com/MZe-OpenData/lkod-min/main/datové-sady/Geolokační%20data%20pro%20účely%20IS%20EUDR%20(LPI_GLEUDR01A).jsonld/distribuce/0/přístupová-služba",
         "název": {
           "cs": "Geolokalizační data pro účely IS EUDR (LPI_GLEUDR01A)",
