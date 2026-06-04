@@ -63,11 +63,11 @@
         "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
         "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
       },
-      "přístupové_url": "https://epomze.gov.cz/ssl/nosso-app/EPO/WS/v2Online/vOKOsrv.ashx",
+      "přístupové_url": "https://epomzetest.gov.cz/ssl/nosso-app/EPO/WS/v2Online/vOKOsrv.ashx",
       "přístupová_služba": {
         "typ": "Datová služba",
-        "přístupový_bod": "https://epomze.gov.cz/ssl/nosso-app/EPO/WS/v2Online/vOKOsrv.ashx",
-        "popis_přístupového_bodu": "https://epomzetest.gov.cz/ssl/nosso-app/EPO/WS/v2Online/vOKOsrv.ashx",
+        "přístupový_bod": "https://epomzetest.gov.cz/ssl/nosso-app/EPO/WS/v2Online/vOKOsrv.ashx",
+        "popis_přístupového_bodu": "https://epomzetest.gov.cz/ssl/nosso-app/EPO/WS/v2Online/vOKOsrv.aspx?SERVICEID=LPI_GLEUDR01A",
         "iri": "https://raw.githubusercontent.com/MZe-OpenData/lkod-min/main/datové-sady/Geolokační%20data%20pro%20účely%20IS%20EUDR%20(LPI_GLEUDR01A).jsonld/distribuce/0/přístupová-služba",
         "název": {
           "cs": "Geolokalizační data pro účely IS EUDR (LPI_GLEUDR01A)",
