@@ -7,8 +7,8 @@
     "en": "Code lists / (SZR_CIS01A)"
   },
   "popis": {
-    "cs": "Služba poskytuje číselníky oblastí, krajů, okresů, obcí, částí obcí, správních obvodů obcí s rozšířenou působností, správních obvodů obcí s pověřeným obecním úřadem, pražských obvodů, správních obvodů, městských částí, pošt a číselník KÚ z dat SZR (RUIAN).\n",
-    "en": "The service provides code lists of areas, regions, districts, municipalities, parts of municipalities, administrative districts of municipalities with extended powers, administrative districts of municipalities with an authorized municipal office, Prague districts, administrative districts, city districts, post offices and the code list of KÚ (Cadastral territories) from SZR (Common agricultural registry) data - RUIAN (Registry of territorial identification, addresses and real estate). "
+    "cs": "Služba poskytuje číselníky oblastí, krajů, okresů, obcí, částí obcí, správních obvodů obcí s rozšířenou působností, správních obvodů obcí s pověřeným obecním úřadem, pražských obvodů, správních obvodů, městských částí, pošt a číselník KÚ z dat SZR (RUIAN).",
+    "en": "The service provides code lists of areas, regions, districts, municipalities, parts of municipalities, administrative districts of municipalities with extended powers, administrative districts of municipalities with an authorized municipal office, Prague districts, administrative districts, city districts, post offices and the code list of KÚ (Cadastral territories) from SZR (Common agricultural registry) data - RUIAN (Registry of territorial identification, addresses and real estate)."
   },
   "prvek_rúian": [
     "https://linked.cuzk.cz/resource/ruian/stat/1"
@@ -21,7 +21,7 @@
       "bez autorizace",
       "SZR",
       "datová služba",
-      "MZE"
+      "MZe"
     ],
     "en": [
       "web service",
@@ -32,7 +32,7 @@
     ]
   },
   "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/UPDATE_CONT",
-  "dokumentace": "https://mze.gov.cz/public/web/mze/farmar/elektronicka-vymena-dat/prehled-vystavenych-sluzeb/SZR/szr-cis01a.html",
+  "dokumentace": "https://mze.gov.cz/public/portal/mze/farmar/elektronicka-vymena-dat/prehled-vystavenych-sluzeb/SZR/szr-cis01a",
   "téma": [
     "http://publications.europa.eu/resource/authority/data-theme/AGRI"
   ],
@@ -60,11 +60,11 @@
         "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
         "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
       },
-      "přístupové_url": "https://mze.gov.cz/ssl/nosso-app/EPO/WS/v2Online/vOKOsrv.ashx",
+      "přístupové_url": "https://epomze.gov.cz/ssl/nosso-app/EPO/WS/v2Online/vOKOsrv.ashx",
       "přístupová_služba": {
         "typ": "Datová služba",
-        "přístupový_bod": "https://mze.gov.cz/ssl/nosso-app/EPO/WS/v2Online/vOKOsrv.ashx",
-        "popis_přístupového_bodu": "https://mze.gov.cz/ssl/nosso-app/EPO/WS/Online/vOKOsrv.aspx?SERVICEID=SZR_CIS01A",
+        "přístupový_bod": "https://epomze.gov.cz/ssl/nosso-app/EPO/WS/v2Online/vOKOsrv.ashx",
+        "popis_přístupového_bodu": "https://epomze.gov.cz/ssl/nosso-app/EPO/WS/v2Online/vOKOsrv.aspx?SERVICEID=SZR_CIS01A",
         "iri": "https://raw.githubusercontent.com/MZe-OpenData/lkod-min/main/datové-sady/Číselníky%20%20%20(SZR_CIS01A).jsonld/distribuce/0/přístupová-služba",
         "název": {
           "cs": "Číselníky / (SZR_CIS01A)",
