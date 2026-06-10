@@ -7,7 +7,7 @@
     "en": "Registry of agricultural entrepreneurs / (SZR_EZP03B)"
   },
   "popis": {
-    "cs": "Služba umožňuje získání veřejné údaje z Evidence zemědělského podnikatele (EZP).\n",
+    "cs": "Služba umožňuje získání veřejné údaje z Evidence zemědělského podnikatele (EZP).",
     "en": "The service enables the acquisition of public data from the Registry of Agricultural Entrepreneurs (EZP)."
   },
   "prvek_rúian": [
@@ -22,7 +22,7 @@
       "EZP",
       "datová služba",
       "evidence zemedelskeho podnikatele",
-      "MZE"
+      "MZe"
     ],
     "en": [
       "web service",
@@ -33,7 +33,7 @@
     ]
   },
   "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/UPDATE_CONT",
-  "dokumentace": "https://mze.gov.cz/public/web/mze/farmar/elektronicka-vymena-dat/prehled-vystavenych-sluzeb/EZP/szr-ezp03b.html",
+  "dokumentace": "https://mze.gov.cz/public/portal/mze/farmar/elektronicka-vymena-dat/prehled-vystavenych-sluzeb/EZP/szr-ezp03b",
   "téma": [
     "http://publications.europa.eu/resource/authority/data-theme/AGRI"
   ],
@@ -61,11 +61,11 @@
         "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
         "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
       },
-      "přístupové_url": "https://mze.gov.cz/ssl/nosso-app/EPO/WS/v2Online/vOKOsrv.ashx",
+      "přístupové_url": "https://epomze.gov.cz/ssl/nosso-app/EPO/WS/v2Online/vOKOsrv.ashx",
       "přístupová_služba": {
         "typ": "Datová služba",
-        "přístupový_bod": "https://mze.gov.cz/ssl/nosso-app/EPO/WS/v2Online/vOKOsrv.ashx",
-        "popis_přístupového_bodu": "https://mze.gov.cz/ssl/nosso-app/EPO/WS/Online/vOKOsrv.aspx?SERVICEID=SZR_EZP03B",
+        "přístupový_bod": "https://epomze.gov.cz/ssl/nosso-app/EPO/WS/v2Online/vOKOsrv.ashx",
+        "popis_přístupového_bodu": "https://epomze.gov.cz/ssl/nosso-app/EPO/WS/v2Online/vOKOsrv.aspx?SERVICEID=SZR_EZP03B",
         "iri": "https://raw.githubusercontent.com/MZe-OpenData/lkod-min/main/datové-sady/Evidence%20zemědělského%20podnikatele%20%20%20(SZR_EZP03B).jsonld/distribuce/0/přístupová-služba",
         "název": {
           "cs": "Evidence zemědělského podnikatele / (SZR_EZP03B)",
