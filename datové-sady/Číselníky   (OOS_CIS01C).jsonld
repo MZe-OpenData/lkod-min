@@ -7,8 +7,8 @@
     "en": "Code lists / (OOS_CIS01C)"
   },
   "popis": {
-    "cs": "Služba slouží k získání vybraných číselníků z Informačního systému odboru osiv a sadby ÚKZÚZ (ISOOS), které jsou nezbytné pro použití v ostatních OOS službách.\n",
-    "en": "The service is used to obtain selected code lists from the Information System of the Department of Seeds and Seedlings of ÚKZÚZ (ISOOS), which are necessary for use in other OOS (Department of Seeds and Seedlings) services. \n"
+    "cs": "Služba slouží k získání vybraných číselníků z Informačního systému odboru osiv a sadby ÚKZÚZ (ISOOS), které jsou nezbytné pro použití v ostatních OOS službách.",
+    "en": "The service is used to obtain selected code lists from the Information System of the Department of Seeds and Seedlings of ÚKZÚZ (ISOOS), which are necessary for use in other OOS (Department of Seeds and Seedlings) services."
   },
   "prvek_rúian": [
     "https://linked.cuzk.cz/resource/ruian/stat/1"
@@ -23,7 +23,7 @@
       "bez autorizace",
       "datová služba",
       "Informačního systému odboru osiv a sadby",
-      "MZE"
+      "MZe"
     ],
     "en": [
       "web service",
@@ -36,7 +36,7 @@
     ]
   },
   "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/UPDATE_CONT",
-  "dokumentace": "https://mze.gov.cz/public/web/mze/farmar/elektronicka-vymena-dat/prehled-vystavenych-sluzeb/OOS/oos-cis01c.html",
+  "dokumentace": "https://mze.gov.cz/public/portal/mze/farmar/elektronicka-vymena-dat/prehled-vystavenych-sluzeb/OOS/oos-cis01c",
   "téma": [
     "http://publications.europa.eu/resource/authority/data-theme/AGRI"
   ],
@@ -64,11 +64,11 @@
         "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
         "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
       },
-      "přístupové_url": "https://mze.gov.cz/ssl/nosso-app/EPO/WS/v2Online/vOKOsrv.ashx",
+      "přístupové_url": "https://epomze.gov.cz/ssl/nosso-app/EPO/WS/v2Online/vOKOsrv.ashx",
       "přístupová_služba": {
         "typ": "Datová služba",
-        "přístupový_bod": "https://mze.gov.cz/ssl/nosso-app/EPO/WS/v2Online/vOKOsrv.ashx",
-        "popis_přístupového_bodu": "https://mze.gov.cz/ssl/nosso-app/EPO/WS/Online/vOKOsrv.aspx?SERVICEID=OOS_CIS01C",
+        "přístupový_bod": "https://epomze.gov.cz/ssl/nosso-app/EPO/WS/v2Online/vOKOsrv.ashx",
+        "popis_přístupového_bodu": "https://epomze.gov.cz/ssl/nosso-app/EPO/WS/v2Online/vOKOsrv.aspx?SERVICEID=OOS_CIS01C",
         "iri": "https://raw.githubusercontent.com/MZe-OpenData/lkod-min/main/datové-sady/Číselníky%20%20%20(OOS_CIS01C).jsonld/distribuce/0/přístupová-služba",
         "název": {
           "cs": "Číselníky / (OOS_CIS01C)",
