@@ -7,8 +7,8 @@
     "en": "RDM (De minimis registry) - Code list of support schemes / (RDM_CRP01B)"
   },
   "popis": {
-    "cs": "Služba poskytuje aktuální stav číselníku režimů podpory.\n",
-    "en": "The service provides the current status of the code list of support schemes. \n"
+    "cs": "Služba poskytuje aktuální stav číselníku režimů podpory.",
+    "en": "The service provides the current status of the code list of support schemes."
   },
   "prvek_rúian": [
     "https://linked.cuzk.cz/resource/ruian/stat/1"
@@ -23,7 +23,7 @@
       "bez autorizace",
       "datová služba",
       "RDM",
-      "MZE"
+      "MZe"
     ],
     "en": [
       "without authorization",
@@ -36,7 +36,7 @@
     ]
   },
   "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/UPDATE_CONT",
-  "dokumentace": "https://mze.gov.cz/public/web/mze/farmar/elektronicka-vymena-dat/prehled-vystavenych-sluzeb/RDM/rdm-crp01b.html",
+  "dokumentace": "https://mze.gov.cz/public/portal/mze/farmar/elektronicka-vymena-dat/prehled-vystavenych-sluzeb/RDM/rdm-crp01b",
   "téma": [
     "http://publications.europa.eu/resource/authority/data-theme/AGRI"
   ],
