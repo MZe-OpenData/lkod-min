@@ -7,7 +7,7 @@
     "en": "Informations about plant varieties / (RVI_NOU01B)"
   },
   "popis": {
-    "cs": "Služba zprostředkovává veřejně publikovatelné informace o plodinách, odrůdách, subjektech a jejich vazbách na odrůdy, registraci odrůd, právní ochraně odrůd, genetických modifikacích odrůd, klonech odrůd, popisech odrůd, fakturacích za registraci a zkoušky odrůd a číslo zápisu do státní odrůdové knihy.\n",
+    "cs": "Služba zprostředkovává veřejně publikovatelné informace o plodinách, odrůdách, subjektech a jejich vazbách na odrůdy, registraci odrůd, právní ochraně odrůd, genetických modifikacích odrůd, klonech odrůd, popisech odrůd, fakturacích za registraci a zkoušky odrůd a číslo zápisu do státní odrůdové knihy.",
     "en": "The service provides publicly publishable informations about crops, plant varieties, subjects and their links to varieties, variety registration, legal protection of varieties, genetic modifications of varieties, clones of varieties, descriptions of varieties, invoices for registration and testing of varieties and registration number in the state variety book."
   },
   "prvek_rúian": [
@@ -22,7 +22,7 @@
       "bez autorizace",
       "datová služba",
       "odrudy",
-      "MZE"
+      "MZe"
     ],
     "en": [
       "web service",
@@ -34,7 +34,7 @@
     ]
   },
   "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/UPDATE_CONT",
-  "dokumentace": "https://mze.gov.cz/public/web/mze/farmar/elektronicka-vymena-dat/prehled-vystavenych-sluzeb/UKZUZ/rvi-nou01b.html",
+  "dokumentace": "https://mze.gov.cz/public/portal/mze/farmar/elektronicka-vymena-dat/prehled-vystavenych-sluzeb/UKZUZ/rvi-nou01b",
   "téma": [
     "http://publications.europa.eu/resource/authority/data-theme/AGRI"
   ],
@@ -62,11 +62,11 @@
         "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
         "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
       },
-      "přístupové_url": "https://mze.gov.cz/ssl/nosso-app/EPO/WS/v2Online/vOKOsrv.ashx",
+      "přístupové_url": "https://epomze.gov.cz/ssl/nosso-app/EPO/WS/v2Online/vOKOsrv.ashx",
       "přístupová_služba": {
         "typ": "Datová služba",
-        "přístupový_bod": "https://mze.gov.cz/ssl/nosso-app/EPO/WS/v2Online/vOKOsrv.ashx",
-        "popis_přístupového_bodu": "https://mze.gov.cz/ssl/nosso-app/EPO/WS/Online/vOKOsrv.aspx?SERVICEID=RVI_NOU01B",
+        "přístupový_bod": "https://epomze.gov.cz/ssl/nosso-app/EPO/WS/v2Online/vOKOsrv.ashx",
+        "popis_přístupového_bodu": "https://epomze.gov.cz/ssl/nosso-app/EPO/WS/v2Online/vOKOsrv.aspx?SERVICEID=RVI_NOU01B",
         "iri": "https://raw.githubusercontent.com/MZe-OpenData/lkod-min/main/datové-sady/Informace%20o%20odrůdách%20%20%20(RVI_NOU01B).jsonld/distribuce/0/přístupová-služba",
         "název": {
           "cs": "Informace o odrůdách / (RVI_NOU01B)",
