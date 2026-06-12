@@ -7,8 +7,8 @@
     "en": "Harmful organisms / (SRS_TSO01A) "
   },
   "popis": {
-    "cs": "Veřejná služba dostupná z Portálu farmáře, která poskytuje přehled z monitoringu škodlivých organismů, který provádí Státní rostlinolékařská správa. Na základě vstupních dat, služba poskytuje za období 30 dní zpětně detailní přehled o provedených nálezech.\n",
-    "en": "A public service available from the Farmer's Portal which provides an overview of pest monitoring by the State Phytosanitary Administration. Based on the input data, the service provides a detailed overview of the findings over a period of 30 days. "
+    "cs": "Veřejná služba dostupná z Portálu farmáře, která poskytuje přehled z monitoringu škodlivých organismů, který provádí Státní rostlinolékařská správa. Na základě vstupních dat, služba poskytuje za období 30 dní zpětně detailní přehled o provedených nálezech.",
+    "en": "A public service available from the Farmer's Portal which provides an overview of pest monitoring by the State Phytosanitary Administration. Based on the input data, the service provides a detailed overview of the findings over a period of 30 days."
   },
   "prvek_rúian": [
     "https://linked.cuzk.cz/resource/ruian/stat/1"
@@ -21,8 +21,8 @@
       "bez autorizace",
       "datová služba",
       "statni rostlinolekarska sprava",
-      "MZE",
-      "SRS"
+      "SRS",
+      "MZe"
     ],
     "en": [
       "web service",
@@ -62,11 +62,11 @@
         "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
         "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
       },
-      "přístupové_url": "https://mze.gov.cz/ssl/nosso-app/EPO/WS/v2Online/vOKOsrv.ashx",
+      "přístupové_url": "https://epomze.gov.cz/ssl/nosso-app/EPO/WS/v2Online/vOKOsrv.ashx",
       "přístupová_služba": {
         "typ": "Datová služba",
-        "přístupový_bod": "https://mze.gov.cz/ssl/nosso-app/EPO/WS/v2Online/vOKOsrv.ashx",
-        "popis_přístupového_bodu": "https://mze.gov.cz/ssl/nosso-app/EPO/WS/Online/vOKOsrv.aspx?SERVICEID=SRS_TSO01A",
+        "přístupový_bod": "https://epomze.gov.cz/ssl/nosso-app/EPO/WS/v2Online/vOKOsrv.ashx",
+        "popis_přístupového_bodu": "https://epomze.gov.cz/ssl/nosso-app/EPO/WS/v2Online/vOKOsrv.aspx?SERVICEID=SRS_TSO01A",
         "iri": "https://raw.githubusercontent.com/MZe-OpenData/lkod-min/main/datové-sady/Škodlivé%20organismy%20%20%20(SRS_TSO01A).jsonld/distribuce/0/přístupová-služba",
         "název": {
           "cs": "Škodlivé organismy / (SRS_TSO01A)",
