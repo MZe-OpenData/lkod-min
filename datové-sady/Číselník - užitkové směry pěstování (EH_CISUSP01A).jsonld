@@ -1,6 +1,6 @@
 {
   "@context": "https://ofn.gov.cz/dcat-ap-cz-rozhraní-katalogů-otevřených-dat/2024-05-28/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
-  "iri": "https://raw.githubusercontent.com/MZe-OpenData/lkod-min/main/datové-sady/Číselník%20-%20užitkové%20směry%20pěstování%20(EH_CISUSP01A).jsonld",
+  "iri": "https://raw.githubusercontent.com/MZe-OpenData/lkod-min/main/datové-sady/Číselník%20-%20užitkové%20směry%20pěstování%20%20%20(EH_CISUSP01A).jsonld",
   "typ": "Datová sada",
   "název": {
     "cs": "Číselník - užitkové směry pěstování / (EH_CISUSP01A)",
@@ -8,7 +8,7 @@
   },
   "popis": {
     "cs": "Služba vrací číselník užitkových směrů pěstování, který je nutný pro vytvoření requestu pro WS EH_PEH01A.",
-    "en": "The service returns a codelist of utility cultivation directions that is required to create a request for WS EH_PEH01A.\n"
+    "en": "The service returns a codelist of utility cultivation directions that is required to create a request for WS EH_PEH01A."
   },
   "prvek_rúian": [
     "https://linked.cuzk.cz/resource/ruian/stat/1"
@@ -21,7 +21,7 @@
       "UKZUZ",
       "bez autorizace",
       "datová služba",
-      "MZE"
+      "MZe"
     ],
     "en": [
       "without authorization",
@@ -32,7 +32,7 @@
     ]
   },
   "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/UPDATE_CONT",
-  "dokumentace": "https://mze.gov.cz/public/web/mze/farmar/elektronicka-vymena-dat/prehled-vystavenych-sluzeb/UKZUZ-EH/eh-cisusp01a.html",
+  "dokumentace": "https://mze.gov.cz/public/portal/mze/farmar/elektronicka-vymena-dat/prehled-vystavenych-sluzeb/UKZUZ-EH/eh-cisusp01a",
   "téma": [
     "http://publications.europa.eu/resource/authority/data-theme/AGRI"
   ],
@@ -48,7 +48,7 @@
   "distribuce": [
     {
       "typ": "Distribuce",
-      "iri": "https://raw.githubusercontent.com/MZe-OpenData/lkod-min/main/datové-sady/Číselník%20-%20užitkové%20směry%20pěstování%20(EH_CISUSP01A).jsonld/distribuce/0",
+      "iri": "https://raw.githubusercontent.com/MZe-OpenData/lkod-min/main/datové-sady/Číselník%20-%20užitkové%20směry%20pěstování%20%20%20(EH_CISUSP01A).jsonld/distribuce/0",
       "název": {
         "cs": "Číselník - užitkové směry pěstování / (EH_CISUSP01A)",
         "en": "Code list - utility cultivation directions / (EH_CISUSP01A)"
@@ -60,17 +60,17 @@
         "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
         "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
       },
-      "přístupové_url": "https://mze.gov.cz/ssl/nosso-app/EPO/WS/v2Online/vOKOsrv.ashx",
+      "přístupové_url": "https://epomze.gov.cz/ssl/nosso-app/EPO/WS/v2Online/vOKOsrv.ashx",
       "přístupová_služba": {
         "typ": "Datová služba",
-        "přístupový_bod": "https://mze.gov.cz/ssl/nosso-app/EPO/WS/v2Online/vOKOsrv.ashx",
-        "popis_přístupového_bodu": "https://mze.gov.cz/ssl/nosso-app/EPO/WS/Online/vOKOsrv.aspx?SERVICEID=EH_CISUSP01A",
-        "iri": "https://raw.githubusercontent.com/MZe-OpenData/lkod-min/main/datové-sady/Číselník%20-%20užitkové%20směry%20pěstování%20(EH_CISUSP01A).jsonld/distribuce/0/přístupová-služba",
+        "přístupový_bod": "https://epomze.gov.cz/ssl/nosso-app/EPO/WS/v2Online/vOKOsrv.ashx",
+        "popis_přístupového_bodu": "https://epomze.gov.cz/ssl/nosso-app/EPO/WS/v2Online/vOKOsrv.aspx?SERVICEID=EH_CISUSP01A",
+        "iri": "https://raw.githubusercontent.com/MZe-OpenData/lkod-min/main/datové-sady/Číselník%20-%20užitkové%20směry%20pěstování%20%20%20(EH_CISUSP01A).jsonld/distribuce/0/přístupová-služba",
         "název": {
           "cs": "Číselník - užitkové směry pěstování / (EH_CISUSP01A)",
           "en": "Code list - utility cultivation directions / (EH_CISUSP01A)"
         },
-        "poskytuje_datovou_sadu": "https://raw.githubusercontent.com/MZe-OpenData/lkod-min/main/datové-sady/Číselník%20-%20užitkové%20směry%20pěstování%20(EH_CISUSP01A).jsonld"
+        "poskytuje_datovou_sadu": "https://raw.githubusercontent.com/MZe-OpenData/lkod-min/main/datové-sady/Číselník%20-%20užitkové%20směry%20pěstování%20%20%20(EH_CISUSP01A).jsonld"
       }
     }
   ]
