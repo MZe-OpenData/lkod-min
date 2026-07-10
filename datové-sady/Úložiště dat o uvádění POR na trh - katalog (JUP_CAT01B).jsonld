@@ -1,0 +1,78 @@
+{
+  "@context": "https://ofn.gov.cz/dcat-ap-cz-rozhraní-katalogů-otevřených-dat/2024-05-28/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
+  "iri": "https://raw.githubusercontent.com/MZe-OpenData/lkod-min/main/datové-sady/Úložiště%20dat%20o%20uvádění%20POR%20na%20trh%20-%20katalog%20(JUP_CAT01B).jsonld",
+  "typ": "Datová sada",
+  "název": {
+    "cs": "Úložiště dat o uvádění POR na trh - katalog (JUP_CAT01B)",
+    "en": "POR Marketing Data Repository - Catalogue (JUP_CAT01B)"
+  },
+  "popis": {
+    "cs": "Služba vrací data z katalogu přípravků, které jsou evidovány v Úložišti dat o uvádění POR na trh. Je možná základní filtrace pomocí vstupních parametrů služby. Oproti verzi A obsahuje některé nové údaje.",
+    "en": "The service returns data from a catalogue of products that are registered in the POR Marketing Data Repository. Basic filtering is possible using the input parameters of the service. Compared to version A, it contains some new data."
+  },
+  "prvek_rúian": [
+    "https://linked.cuzk.cz/resource/ruian/stat/1"
+  ],
+  "klíčové_slovo": {
+    "cs": [
+      "webová služba",
+      "UKZUZ",
+      "bez autorizace",
+      "datová služba",
+      "POR",
+      "přípravky na ochranu rostlin",
+      "MZe"
+    ],
+    "en": [
+      "without authorization",
+      "UKZUZ",
+      "data service",
+      "plant protection products",
+      "web service",
+      "POR",
+      "Ministry of Agriculture"
+    ]
+  },
+  "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/UPDATE_CONT",
+  "dokumentace": "https://mze.gov.cz/public/portal/mze/farmar/elektronicka-vymena-dat/prehled-vystavenych-sluzeb/UKZUZ-POR/JUP_CAT01B",
+  "téma": [
+    "http://publications.europa.eu/resource/authority/data-theme/AGRI"
+  ],
+  "kontaktní_bod": {
+    "typ": "Organizace",
+    "jméno": {
+      "cs": "Ministerstvo zemědělství"
+    },
+    "e-mail": "mailto:helpdesk@mze.gov.cz"
+  },
+  "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/00020478",
+  "distribuce": [
+    {
+      "typ": "Distribuce",
+      "iri": "https://raw.githubusercontent.com/MZe-OpenData/lkod-min/main/datové-sady/Úložiště%20dat%20o%20uvádění%20POR%20na%20trh%20-%20katalog%20(JUP_CAT01B).jsonld/distribuce/0",
+      "název": {
+        "cs": "Úložiště dat o uvádění POR na trh - katalog (JUP_CAT01B)",
+        "en": "POR Marketing Data Repository - Catalogue (JUP_CAT01B)"
+      },
+      "podmínky_užití": {
+        "typ": "Specifikace podmínek užití",
+        "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
+        "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
+        "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
+        "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
+      },
+      "přístupové_url": "https://epomze.gov.cz/ssl/nosso-app/EPO/WS/v2Online/vOKOsrv.ashx",
+      "přístupová_služba": {
+        "typ": "Datová služba",
+        "přístupový_bod": "https://epomze.gov.cz/ssl/nosso-app/EPO/WS/v2Online/vOKOsrv.ashx",
+        "popis_přístupového_bodu": "https://epomze.gov.cz/ssl/nosso-app/EPO/WS/v2Online/vOKOsrv.aspx?SERVICEID=JUP_CAT01B",
+        "iri": "https://raw.githubusercontent.com/MZe-OpenData/lkod-min/main/datové-sady/Úložiště%20dat%20o%20uvádění%20POR%20na%20trh%20-%20katalog%20(JUP_CAT01B).jsonld/distribuce/0/přístupová-služba",
+        "název": {
+          "cs": "Úložiště dat o uvádění POR na trh - katalog (JUP_CAT01B)",
+          "en": "POR Marketing Data Repository - Catalogue (JUP_CAT01B)"
+        },
+        "poskytuje_datovou_sadu": "https://raw.githubusercontent.com/MZe-OpenData/lkod-min/main/datové-sady/Úložiště%20dat%20o%20uvádění%20POR%20na%20trh%20-%20katalog%20(JUP_CAT01B).jsonld"
+      }
+    }
+  ]
+}
