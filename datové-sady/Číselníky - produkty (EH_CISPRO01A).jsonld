@@ -13,8 +13,6 @@
   "prvek_rúian": [
     "https://linked.cuzk.cz/resource/ruian/stat/1"
   ],
-  "geografické_území": [],
-  "prostorové_pokrytí": [],
   "klíčové_slovo": {
     "cs": [
       "webová služba",
@@ -36,7 +34,6 @@
   "téma": [
     "http://publications.europa.eu/resource/authority/data-theme/AGRI"
   ],
-  "koncept_euroVoc": [],
   "kontaktní_bod": {
     "typ": "Organizace",
     "jméno": {
