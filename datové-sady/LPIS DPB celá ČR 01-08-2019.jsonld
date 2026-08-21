@@ -7,14 +7,12 @@
     "en": "LPIS Farmer's blocks 01-08-2019 (The whole Czech Republic)"
   },
   "popis": {
-    "cs": "Datová sada obsahuje prostorová data dílů půdních bloků (DPB) v rozsahu celé České republiky ve formátu SHP (shapefile) exportovaná z LPIS k 1. 8. 2019. DPB je základní jednotkou LPIS, který představuje souvislou plochu zemědělsky obhospodařované půdy užívanou právě jedním uživatelem s jednou zemědělskou kulturou.",
+    "cs": "Datová sada obsahuje prostorová data dílů půdních bloků (DPB) v rozsahu celé České republiky ve formátu SHP (shapefile) exportovaná z LPIS k 1. 8. 2019. DPB je základní jednotkou LPIS, který představuje souvislou plochu zemědělsky obhospodařované půdy užívanou právě jedním uživatelem s jednou zemědělskou kulturou. Popis jednotlivých atributů naleznete <a href="https://agrigis.gov.cz/download/lpis/popis-atributu.pdf" target="_blank" rel="noopener noreferrer" title="https://agrigis.gov.cz/download/lpis/popis-atributu.pdf">ZDE</a>.",
     "en": "The dataset contains spatial data of Farmer's blocks (DPB) of the whole Czech Republic in the SHP (shapefile) format exported from LPIS as of August 1, 2019. Farmer's block is the basic unit of LPIS, which represents a continuous area of agricultural land used by just one user with one agricultural culture."
   },
   "prvek_rúian": [
     "https://linked.cuzk.cz/resource/ruian/stat/1"
   ],
-  "geografické_území": [],
-  "prostorové_pokrytí": [],
   "časové_pokrytí": {
     "typ": "Časový interval",
     "konec": "2019-08-01"
@@ -36,7 +34,6 @@
   "téma": [
     "http://publications.europa.eu/resource/authority/data-theme/AGRI"
   ],
-  "koncept_euroVoc": [],
   "kontaktní_bod": {
     "typ": "Organizace",
     "jméno": {
@@ -60,8 +57,8 @@
         "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
         "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
       },
-      "soubor_ke_stažení": "https://agrigis.gov.cz/portal/sharing/rest/content/items/43bf675081cf4669946ef2d0ce6c889e/data",
-      "přístupové_url": "https://agrigis.gov.cz/portal/sharing/rest/content/items/43bf675081cf4669946ef2d0ce6c889e/data",
+      "soubor_ke_stažení": "https://agrigis.gov.cz/download/lpis/dpb/2019/DPB_VEREJNY_GUI_2019-08-01_epsg5514.zip",
+      "přístupové_url": "https://agrigis.gov.cz/download/lpis/dpb/2019/DPB_VEREJNY_GUI_2019-08-01_epsg5514.zip",
       "typ_média": "http://www.iana.org/assignments/media-types/application/vnd.shp",
       "formát": "http://publications.europa.eu/resource/authority/file-type/SHP",
       "typ_média_komprese": "http://www.iana.org/assignments/media-types/application/zip"
@@ -80,8 +77,8 @@
         "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
         "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
       },
-      "soubor_ke_stažení": "https://agrigis.gov.cz/portal/sharing/rest/content/items/75d43270fe2d4314bcaf793b5ad1ccdd/data",
-      "přístupové_url": "https://agrigis.gov.cz/portal/sharing/rest/content/items/75d43270fe2d4314bcaf793b5ad1ccdd/data",
+      "soubor_ke_stažení": "https://agrigis.gov.cz/download/lpis/dpb/2019/DPB_VEREJNY_GUI_2019-08-01_epsg4258.zip",
+      "přístupové_url": "https://agrigis.gov.cz/download/lpis/dpb/2019/DPB_VEREJNY_GUI_2019-08-01_epsg4258.zip",
       "typ_média": "http://www.iana.org/assignments/media-types/application/vnd.shp",
       "formát": "http://publications.europa.eu/resource/authority/file-type/SHP",
       "typ_média_komprese": "http://www.iana.org/assignments/media-types/application/zip"
