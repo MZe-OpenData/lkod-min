@@ -7,7 +7,7 @@
     "en": "LPIS Farmer's blocks 01-08-2019 (The whole Czech Republic)"
   },
   "popis": {
-    "cs": "Datová sada obsahuje prostorová data dílů půdních bloků (DPB) v rozsahu celé České republiky ve formátu SHP (shapefile) exportovaná z LPIS k 1. 8. 2019. DPB je základní jednotkou LPIS, který představuje souvislou plochu zemědělsky obhospodařované půdy užívanou právě jedním uživatelem s jednou zemědělskou kulturou. Popis jednotlivých atributů naleznete <a href="https://agrigis.gov.cz/download/lpis/popis-atributu.pdf" target="_blank" rel="noopener noreferrer" title="https://agrigis.gov.cz/download/lpis/popis-atributu.pdf">ZDE</a>.",
+    "cs": "Datová sada obsahuje prostorová data dílů půdních bloků (DPB) v rozsahu celé České republiky ve formátu SHP (shapefile) z LPIS k 1. 8. 2019. DPB je základní jednotkou LPIS, který představuje souvislou plochu zemědělsky obhospodařované půdy užívanou právě jedním uživatelem s jednou zemědělskou kulturou. Popis jednotlivých atributů naleznete <a href="https://agrigis.gov.cz/download/lpis/popis-atributu.pdf" target="_blank" rel="noopener noreferrer" title="https://agrigis.gov.cz/download/lpis/popis-atributu.pdf">ZDE</a>.",
     "en": "The dataset contains spatial data of Farmer's blocks (DPB) of the whole Czech Republic in the SHP (shapefile) format exported from LPIS as of August 1, 2019. Farmer's block is the basic unit of LPIS, which represents a continuous area of agricultural land used by just one user with one agricultural culture."
   },
   "prvek_rúian": [
