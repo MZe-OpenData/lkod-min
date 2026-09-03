@@ -13,8 +13,6 @@
   "prvek_rúian": [
     "https://linked.cuzk.cz/resource/ruian/stat/1"
   ],
-  "geografické_území": [],
-  "prostorové_pokrytí": [],
   "klíčové_slovo": {
     "cs": [
       "vodní nádrže",
@@ -30,7 +28,12 @@
   "téma": [
     "http://publications.europa.eu/resource/authority/data-theme/ENVI"
   ],
-  "koncept_euroVoc": [],
+  "právní_předpis": [
+    "http://data.europa.eu/eli/reg_impl/2023/138/oj"
+  ],
+  "kategorie_hvd": [
+    "http://data.europa.eu/bna/c_06b1eec4"
+  ],
   "kontaktní_bod": {
     "typ": "Organizace",
     "jméno": {
@@ -54,6 +57,9 @@
         "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
         "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
       },
+      "právní_předpis": [
+        "http://data.europa.eu/eli/reg_impl/2023/138/oj"
+      ],
       "soubor_ke_stažení": "https://voda.gov.cz/data/ISVSVoda_Vodninadrze.zip",
       "přístupové_url": "https://voda.gov.cz/data/ISVSVoda_Vodninadrze.zip",
       "typ_média": "http://www.iana.org/assignments/media-types/application/vnd.shp",
