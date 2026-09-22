@@ -13,8 +13,6 @@
   "prvek_rúian": [
     "https://linked.cuzk.cz/resource/ruian/stat/1"
   ],
-  "geografické_území": [],
-  "prostorové_pokrytí": [],
   "časové_pokrytí": {
     "typ": "Časový interval",
     "konec": "2025-08-21"
@@ -31,12 +29,11 @@
       "the whole Czech Republic"
     ]
   },
-  "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/NEVER",
-  "dokumentace": "https://agrigis.gov.cz/portal/sharing/rest/content/items/44182e9fe18b44d5a71f928bd3aa8086/data",
+  "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/ANNUAL",
+  "dokumentace": "https://agrigis.gov.cz/download/lpis/popis-atributu.pdf",
   "téma": [
     "http://publications.europa.eu/resource/authority/data-theme/AGRI"
   ],
-  "koncept_euroVoc": [],
   "kontaktní_bod": {
     "typ": "Organizace",
     "jméno": {
@@ -60,8 +57,8 @@
         "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
         "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
       },
-      "soubor_ke_stažení": "https://agrigis.gov.cz/portal/sharing/rest/content/items/94b01aef827440769b66fab7d00728e9/data",
-      "přístupové_url": "https://agrigis.gov.cz/portal/sharing/rest/content/items/94b01aef827440769b66fab7d00728e9/data",
+      "soubor_ke_stažení": "https://agrigis.gov.cz/download/lpis/vinicni_trate/E_VIN_TRAT_2025.zip",
+      "přístupové_url": "https://agrigis.gov.cz/download/lpis/vinicni_trate/E_VIN_TRAT_2025.zip",
       "typ_média": "http://www.iana.org/assignments/media-types/application/vnd.shp",
       "formát": "http://publications.europa.eu/resource/authority/file-type/SHP",
       "typ_média_komprese": "http://www.iana.org/assignments/media-types/application/zip"
