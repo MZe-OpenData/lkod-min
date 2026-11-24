@@ -1,5 +1,5 @@
 {
-  "@context": "https://ofn.gov.cz/dcat-ap-cz-rozhraní-katalogů-otevřených-dat/2024-05-28/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
+  "@context": "https://ofn.gov.cz/dcat-ap-cz-otevřená-data/2026-09-23/datová-sada/kontext.jsonld",
   "iri": "https://raw.githubusercontent.com/MZe-OpenData/lkod-min/main/datové-sady/Ekologicky%20významné%20prvky%20celá%20ČR%202025.jsonld",
   "typ": "Datová sada",
   "název": {
@@ -13,8 +13,6 @@
   "prvek_rúian": [
     "https://linked.cuzk.cz/resource/ruian/stat/1"
   ],
-  "geografické_území": [],
-  "prostorové_pokrytí": [],
   "časové_pokrytí": {
     "typ": "Časový interval",
     "konec": "2025-12-31"
@@ -33,11 +31,13 @@
     ]
   },
   "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/NEVER",
-  "dokumentace": "https://mze.gov.cz/public/web/mze/farmar/LPIS/uzivatelske-prirucky/prirucky-pro-verejny-lpis/export-dat-lpis.html",
+  "dokumentace": "https://agrigis.gov.cz/download/lpis/popis-atributu.pdf",
   "téma": [
     "http://publications.europa.eu/resource/authority/data-theme/AGRI"
   ],
-  "koncept_euroVoc": [],
+  "právní_předpis": [
+    "https://www.e-sbirka.cz/eli/cz/sb/1999/106/2025-08-19"
+  ],
   "kontaktní_bod": {
     "typ": "Organizace",
     "jméno": {
@@ -49,6 +49,9 @@
   "distribuce": [
     {
       "typ": "Distribuce",
+      "právní_předpis": [
+        "https://www.e-sbirka.cz/eli/cz/sb/1999/106/2025-08-19"
+      ],
       "iri": "https://raw.githubusercontent.com/MZe-OpenData/lkod-min/main/datové-sady/Ekologicky%20významné%20prvky%20celá%20ČR%202025.jsonld/distribuce/0",
       "název": {
         "cs": "EVP celá ČR 2025 (SHP EPSG:5514)",
@@ -61,14 +64,17 @@
         "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
         "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
       },
-      "soubor_ke_stažení": "https://agrigis.gov.cz/portal/sharing/rest/content/items/3c97166717354ee6874a3c35a3bc0af3/data",
-      "přístupové_url": "https://agrigis.gov.cz/portal/sharing/rest/content/items/3c97166717354ee6874a3c35a3bc0af3/data",
+      "soubor_ke_stažení": "https://agrigis.gov.cz/download/lpis/evp/evp_2025-12-31_epsg5514.zip",
+      "přístupové_url": "https://agrigis.gov.cz/download/lpis/evp/evp_2025-12-31_epsg5514.zip",
       "typ_média": "http://www.iana.org/assignments/media-types/application/vnd.shp",
       "formát": "http://publications.europa.eu/resource/authority/file-type/SHP",
       "typ_média_komprese": "http://www.iana.org/assignments/media-types/application/zip"
     },
     {
       "typ": "Distribuce",
+      "právní_předpis": [
+        "https://www.e-sbirka.cz/eli/cz/sb/1999/106/2025-08-19"
+      ],
       "iri": "https://raw.githubusercontent.com/MZe-OpenData/lkod-min/main/datové-sady/Ekologicky%20významné%20prvky%20celá%20ČR%202025.jsonld/distribuce/1",
       "název": {
         "cs": "EVP celá ČR 2025 (SHP EPSG:4258)",
@@ -81,8 +87,8 @@
         "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
         "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
       },
-      "soubor_ke_stažení": "https://agrigis.gov.cz/portal/sharing/rest/content/items/362e75fd98fe4cf887eef1ece7498569/data",
-      "přístupové_url": "https://agrigis.gov.cz/portal/sharing/rest/content/items/362e75fd98fe4cf887eef1ece7498569/data",
+      "soubor_ke_stažení": "https://agrigis.gov.cz/download/lpis/evp/evp_2025-12-31_epsg4258.zip",
+      "přístupové_url": "https://agrigis.gov.cz/download/lpis/evp/evp_2025-12-31_epsg4258.zip",
       "typ_média": "http://www.iana.org/assignments/media-types/application/vnd.shp",
       "formát": "http://publications.europa.eu/resource/authority/file-type/SHP",
       "typ_média_komprese": "http://www.iana.org/assignments/media-types/application/zip"
